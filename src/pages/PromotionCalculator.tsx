@@ -19,13 +19,17 @@ export default function PromotionCalculator() {
   const [newTitle, setNewTitle] = useState<{ value: string; label: string; grade: string } | null>(null);
   const [promoDate, setPromoDate] = useState<string>(new Date().toISOString().slice(0, 10)); // Default Today
 
-  // Options
-  const titleOptions = useMemo(() => titleData.map(t => ({
-    value: t.title,
-    label: `${t.title} (Gr ${t.grade})`,
-    grade: String(t.grade),
-    spec: t.spec
-  })), []);
+  // Filter options to only include titles with valid salary data
+  const titleOptions = useMemo(() => {
+    return titleData
+      .filter(t => salaryData[String(t.grade)]) // Only keep titles we have data for
+      .map(t => ({
+        value: t.title,
+        label: `${t.title} (Gr ${t.grade})`,
+        grade: String(t.grade),
+        spec: t.spec
+      }));
+  }, []);
 
   // Helpers
   const getSteps = (grade: string) => {
@@ -45,6 +49,10 @@ export default function PromotionCalculator() {
 
     const currentGrade = currentTitle.grade;
     const newGrade = newTitle.grade;
+    
+    // Safety check
+    if (!salaryData[currentGrade] || !salaryData[newGrade]) return null;
+
     const currentBaseSalary = salaryData[currentGrade][currentStep];
     
     // 1. Check Date Logic (July 1st)
@@ -97,7 +105,7 @@ export default function PromotionCalculator() {
         newStep: foundStep,
         newSalary: foundSalary,
         raiseAmount: foundSalary - adjustedBaseSalary,
-        raisePercent: (foundSalary - adjustedBaseSalary) / adjustedBaseSalary
+        raisePercent: adjustedBaseSalary > 0 ? (foundSalary - adjustedBaseSalary) / adjustedBaseSalary : 0
     };
   }, [currentTitle, newTitle, currentStep, promoDate, currentSteps]);
 
@@ -144,7 +152,7 @@ export default function PromotionCalculator() {
                 </select>
               </div>
 
-              {currentTitle && (
+              {currentTitle && salaryData[currentTitle.grade] && (
                   <div className="alert alert-secondary py-2">
                       <small>Base Salary: <strong>{formatMoney(salaryData[currentTitle.grade][currentStep])}</strong> (Bi-Weekly)</small>
                   </div>

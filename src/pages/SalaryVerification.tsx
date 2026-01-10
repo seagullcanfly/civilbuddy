@@ -38,16 +38,22 @@ export default function SalaryVerification() {
   useEffect(() => {
     if (steps.includes('S')) setStep('S');
     else if (steps.includes('0')) setStep('0');
+    else if (steps.length > 0) setStep(steps[0]);
   }, [currentGrade, steps]);
 
   const formatMoney = (val: number) => val.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 });
 
-  const titleOptions = useMemo(() => titleData.map(t => ({
-    value: t.title,
-    label: t.title,
-    grade: String(t.grade),
-    spec: t.spec
-  })), []);
+  // Filter options to only include titles with valid salary data
+  const titleOptions = useMemo(() => {
+    return titleData
+      .filter(t => salaryData[String(t.grade)]) // Only keep titles we have data for
+      .map(t => ({
+        value: t.title,
+        label: t.title,
+        grade: String(t.grade),
+        spec: t.spec
+      }));
+  }, []);
 
   // Calculation Helper
   const calculateRow = (base: number, diffPercent: number) => {
@@ -85,7 +91,7 @@ export default function SalaryVerification() {
               <Select 
                 options={titleOptions} 
                 onChange={setSelectedTitle}
-                placeholder="Search Title..."
+                placeholder="Search Title (e.g. Account Clerk...)"
                 isClearable
                 className="basic-single"
               />
