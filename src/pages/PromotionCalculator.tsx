@@ -54,30 +54,45 @@ export default function PromotionCalculator() {
     // Safety check
     if (!salaryData[currentGrade] || !salaryData[newGrade]) return null;
 
-    // Apply contract raise to RAW data first
-    const currentBaseRaw = salaryData[currentGrade][currentStep];
-    const currentBaseSalary = currentBaseRaw * CONTRACT_MULTIPLIER;
-    
-    // 1. Check Date Logic (July 1st)
+    // Dates
+    const today = new Date();
     const pDate = new Date(promoDate);
-    const julyFirst = new Date(pDate.getFullYear(), 6, 1); 
-    
-    let simulatedStep = currentStep;
-    let adjustedBaseSalary = currentBaseSalary;
-    let stepIncreaseApplied = false;
 
-    // If Promo is ON or AFTER July 1st, simulate step increase (if not maxed)
-    if (pDate >= julyFirst) {
-        // Find next step
-        const stepIndex = currentSteps.indexOf(currentStep);
-        if (stepIndex !== -1 && stepIndex < currentSteps.length - 1) {
-            simulatedStep = currentSteps[stepIndex + 1];
-            // Apply multiplier to the NEW step raw data
-            const newStepRaw = salaryData[currentGrade][simulatedStep];
-            adjustedBaseSalary = newStepRaw * CONTRACT_MULTIPLIER;
-            stepIncreaseApplied = true;
+    // 1. PROJECT FUTURE STEP (Multi-Year Logic)
+    let simulatedStep = currentStep;
+    let stepsAdded = 0;
+    
+    // Iterate through years from Today until Promotion Date
+    // Check every July 1st
+    let checkYear = today.getFullYear();
+    const endYear = pDate.getFullYear();
+
+    // Start checking from this year's July 1st
+    // If today is BEFORE July 1st, we might hit it this year.
+    // If today is AFTER July 1st, we missed it this year.
+    
+    // Simple Loop: Check every July 1st between Today and Promo Date
+    while (checkYear <= endYear) {
+        const julyFirst = new Date(checkYear, 6, 1); // July 1st of checkYear
+        
+        // Conditions to get a step:
+        // 1. The July 1st date must be AFTER (or equal) Today (we don't count past steps already earned)
+        // 2. The July 1st date must be BEFORE (or equal) the Promotion Date (you earn it before you leave)
+        if (julyFirst > today && julyFirst <= pDate) {
+             // Try to increment step
+             const stepIndex = currentSteps.indexOf(simulatedStep);
+             if (stepIndex !== -1 && stepIndex < currentSteps.length - 1) {
+                 simulatedStep = currentSteps[stepIndex + 1];
+                 stepsAdded++;
+             }
         }
+        checkYear++;
     }
+
+    // Get Base Salary for that FUTURE step
+    const rawBase = salaryData[currentGrade][simulatedStep];
+    const adjustedBaseSalary = rawBase * CONTRACT_MULTIPLIER;
+    const currentBaseNow = (salaryData[currentGrade][currentStep] * CONTRACT_MULTIPLIER);
 
     // 2. Minimum Target
     const targetSalary = adjustedBaseSalary * (1 + PROMO_RAISE_PERCENT);
@@ -88,7 +103,6 @@ export default function PromotionCalculator() {
     let foundSalary = 0;
 
     for (const s of newGradeSteps) {
-        // Apply multiplier to lookup table too
         const rawSal = salaryData[newGrade][s];
         const realSal = rawSal * CONTRACT_MULTIPLIER;
 
@@ -107,9 +121,10 @@ export default function PromotionCalculator() {
     }
 
     return {
-        currentBase: currentBaseSalary,
+        currentBaseNow,
         adjustedBase: adjustedBaseSalary,
-        stepIncreaseApplied,
+        stepsAdded,
+        simulatedStep,
         target: targetSalary,
         newStep: foundStep,
         newSalary: foundSalary,
@@ -151,7 +166,7 @@ export default function PromotionCalculator() {
               </div>
 
               <div className="mb-3">
-                <label className="form-label">Current Step</label>
+                <label className="form-label">Step (Today)</label>
                 <select 
                     className="form-select" 
                     value={currentStep} 
@@ -163,20 +178,14 @@ export default function PromotionCalculator() {
                     ))}
                 </select>
               </div>
-
-              {currentTitle && salaryData[currentTitle.grade] && (
-                  <div className="alert alert-secondary py-2">
-                      <small>Base Salary (Est): <strong>{formatMoney((salaryData[currentTitle.grade][currentStep] || 0) * CONTRACT_MULTIPLIER)}</strong> (Bi-Weekly)</small>
-                  </div>
-              )}
             </div>
 
             {/* Right: New Position */}
             <div className="col-md-6">
-              <h5 className="text-muted fw-bold mb-3">New Position</h5>
+              <h5 className="text-muted fw-bold mb-3">Future Promotion</h5>
               
               <div className="mb-3">
-                 <label className="form-label">Promotion Date</label>
+                 <label className="form-label">Anticipated Date</label>
                  <input 
                     type="date" 
                     className="form-control" 
@@ -184,7 +193,7 @@ export default function PromotionCalculator() {
                     onChange={e => setPromoDate(e.target.value)} 
                  />
                  <small className="text-muted" style={{fontSize: '0.75rem'}}>
-                    Checking against July 1st step increase
+                    Checks for July 1st step increases
                  </small>
               </div>
 
@@ -207,10 +216,13 @@ export default function PromotionCalculator() {
             <div className="bg-light p-4 rounded border">
                 <div className="row text-center mb-4">
                     <div className="col-md-4">
-                        <small className="text-muted text-uppercase fw-bold">Starting Base</small>
-                        <h4 className="text-secondary">{formatMoney(calculation.adjustedBase)}</h4>
-                        {calculation.stepIncreaseApplied && (
-                            <span className="badge bg-info text-dark">Includes Step Incr.</span>
+                        <small className="text-muted text-uppercase fw-bold d-block">Projected Base</small>
+                        <h4 className="text-secondary mb-0">{formatMoney(calculation.adjustedBase)}</h4>
+                        <small className="text-muted">
+                            (Step {calculation.simulatedStep})
+                        </small>
+                        {calculation.stepsAdded > 0 && (
+                            <div className="mt-1"><span className="badge bg-info text-dark">+{calculation.stepsAdded} Step Incr.</span></div>
                         )}
                     </div>
                     <div className="col-md-4">
@@ -230,7 +242,7 @@ export default function PromotionCalculator() {
                         of Grade {newTitle?.grade}.
                     </div>
                     <div className="text-end">
-                        <div className="small">Raise Amount</div>
+                        <div className="small">Raise vs Projected</div>
                         <div className="fw-bold">{formatMoney(calculation.raiseAmount)} ({ (calculation.raisePercent * 100).toFixed(1) }%)</div>
                     </div>
                 </div>
@@ -244,7 +256,7 @@ export default function PromotionCalculator() {
                     </div>
                     <div className="col-6">
                          <div className="card card-body py-2">
-                             <small className="text-muted">Difference (Annual)</small>
+                             <small className="text-muted">Raise vs Projected Annual</small>
                              <div className="fw-bold text-success">+{formatMoney(calculation.raiseAmount * PAY_PERIODS)}</div>
                         </div>
                     </div>
