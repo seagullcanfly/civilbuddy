@@ -25,32 +25,31 @@
   {
     "title": "PRINCIPAL CLERK",
     "parents": [
+      "Medical Records Clerk",
+      "Medical Records Clerk (Spanish Speaking)",
+      "Personnel Transactions Clerk",
+      "Real Property Recorder II",
+      "Real Property Recorder III",
       "Senior Clerk",
       "Senior Clerk Typist",
       "Senior Clerk Typist (Spanish Speaking)",
       "Senior Data Entry Operator",
-      "Senior Stenographer",
       "Senior Legal Secretary",
-      "Real Property Recorder III",
       "Senior Library Clerk",
-      "Medical Records Clerk",
-      "Medical Records Clerk (Spanish Speaking)",
       "Senior Police Operations Aide",
-      "Personnel Transactions Clerk",
-      "Real Property Recorder II",
-      "Personnel Transactions Clerk"
+      "Senior Stenographer"
     ]
   },
   {
     "title": "HEAD CLERK",
     "parents": [
       "Personnel Transactions Supervisor",
+      "Principal Account Clerk",
       "Principal Clerk",
+      "Principal Legal Secretary",
       "Principal Library Clerk",
       "Principal Stenographer",
       "Secretarial Assistant",
-      "Principal Account Clerk",
-      "Principal Legal Secretary",
       "Senior Police Operations Aide",
       "Senior School Substitute Coordinator"
     ]
@@ -90,10 +89,10 @@
       "Clerk Typist",
       "Clerk Typist (Spanish Speaking)",
       "Data Entry Operator",
-      "Library Clerk",
-      "Library Clerk (Spanish Speaking)",
       "Law Library Clerk",
       "Legal Secretary",
+      "Library Clerk",
+      "Library Clerk (Spanish Speaking)",
       "Medical Records Clerk",
       "Medical Records Clerk (Spanish Speaking)",
       "Medical Transcriptionist",
@@ -111,18 +110,18 @@
     "title": "SENIOR OFFICE ASSISTANT (SPANISH SPEAKING)",
     "parents": [
       "(n): Office Assistant",
-      "Office Assistant (Spanish Speaking)",
+      "Call Center Representative",
       "Clerk",
       "Data Entry Operator",
-      "Library Clerk",
-      "Library Clerk (Spanish Speaking)",
       "Law Library Clerk",
       "Legal Secretary",
+      "Library Clerk",
+      "Library Clerk (Spanish Speaking)",
+      "Office Assistant (Spanish Speaking)",
       "Personnel Transactions Clerk",
       "Real Property Recorder I",
       "School Attendance Aide",
-      "Stenographer",
-      "Call Center Representative"
+      "Stenographer"
     ]
   },
   {
@@ -133,16 +132,16 @@
     "title": "SENIOR OFFICE ASSISTANT",
     "parents": [
       "(n): Office Assistant",
-      "Office Assistant (Spanish Speaking)",
       "Clerk",
       "Data Entry Operator",
-      "Library Clerk",
-      "Library Clerk (Spanish Speaking)",
       "Law Library Clerk",
       "Legal Secretary",
+      "Library Clerk",
+      "Library Clerk (Spanish Speaking)",
       "Medical Records Clerk",
       "Medical Records Clerk (Spanish Speaking)",
       "Medical Transcriptionist",
+      "Office Assistant (Spanish Speaking)",
       "Personnel Transactions Clerk",
       "Real Property Recorder I",
       "School Attendance Aide",
@@ -153,31 +152,30 @@
   {
     "title": "PRINCIPAL OFFICE ASSISTANT",
     "parents": [
-      "Senior Office Assistant",
-      "Senior Office Assistant (Spanish Speaking)",
-      "Senior Clerk",
-      "Senior Data Entry Operator",
-      "Senior Stenographer",
-      "Senior Legal Secretary",
-      "Real Property Recorder III",
-      "Senior Library Clerk",
       "Medical Records Clerk",
       "Medical Records Clerk (Spanish Speaking)",
       "Personnel Transactions Clerk",
       "Real Property Recorder II",
-      "Personnel Transactions Clerk"
+      "Real Property Recorder III",
+      "Senior Clerk",
+      "Senior Data Entry Operator",
+      "Senior Legal Secretary",
+      "Senior Library Clerk",
+      "Senior Office Assistant",
+      "Senior Office Assistant (Spanish Speaking)",
+      "Senior Stenographer"
     ]
   },
   {
     "title": "CHIEF OFFICE ASSISTANT",
     "parents": [
       "Personnel Transactions Supervisor",
-      "Principal Office Assistant",
-      "Principal Library Clerk",
-      "Principal Stenographer",
-      "Secretarial Assistant",
       "Principal Account Clerk",
       "Principal Legal Secretary",
+      "Principal Library Clerk",
+      "Principal Office Assistant",
+      "Principal Stenographer",
+      "Secretarial Assistant",
       "Senior Police Operations Aide",
       "Senior School Substitute Coordinator"
     ]
@@ -205,8 +203,8 @@
   {
     "title": "PRINCIPAL STENOGRAPHER",
     "parents": [
-      "Senior Stenographer",
-      "Senior Legal Secretary"
+      "Senior Legal Secretary",
+      "Senior Stenographer"
     ]
   },
   {
@@ -224,10 +222,10 @@
   {
     "title": "SECRETARIAL ASSISTANT",
     "parents": [
-      "Principal Office Assistant",
-      "Principal Stenographer",
       "Principal Legal Secretary",
       "Principal Library Clerk",
+      "Principal Office Assistant",
+      "Principal Stenographer",
       "Senior Police Operations Aide"
     ]
   },
@@ -453,18 +451,17 @@
     "title": "ASSISTANT PRINT SHOP SUPERVISOR",
     "parents": [
       "Duplicating Machine Operator IV",
-      "One (1) year of permanent competitive status as a Graphics Supervisor",
-      "Graphics Supervisor"
+      "Graphics Supervisor",
+      "One (1) year of permanent competitive status as a Graphics Supervisor"
     ]
   },
   {
     "title": "PRINT SHOP SUPERVISOR",
     "parents": [
-      "Graphics Supervisor",
-      "One (1) year of permanent competitive status as an Assistant Print Shop Supervisor",
+      "Assistant Print Shop Supervisor",
       "Duplicating Machine Operator IV",
-      "One (1) year of permanent competitive status as an Assistant Print Shop Supervisor",
-      "Assistant Print Shop Supervisor"
+      "Graphics Supervisor",
+      "One (1) year of permanent competitive status as an Assistant Print Shop Supervisor"
     ]
   },
   {
@@ -478,8 +475,8 @@
   {
     "title": "SENIOR MICROGRAPHICS TECHNICIAN",
     "parents": [
-      "Micrographics Technician",
       "Microfilm Operator",
+      "Micrographics Technician",
       "Senior Micrographics Operator"
     ]
   },
@@ -526,9 +523,8 @@
   {
     "title": "SENIOR POLICE OPERATIONS AIDE",
     "parents": [
-      "Principal Office Assistant in the Suffolk County Police Department",
-      "Senior Office Assistant in the Suffolk County Police Department",
       "Police Operations Aide",
+      "Principal Office Assistant in the Suffolk County Police Department",
       "Senior Office Assistant in the Suffolk County Police Department"
     ]
   },
@@ -539,11 +535,9 @@
       "Clerk (Spanish Speaking)",
       "Office Assistant",
       "Office Assistant (Spanish Speaking)",
-      "Stenographer in the Suffolk County Police Department",
-      "one (1) year of permanent competitive status as an Office Assistant",
       "Office Assistant (Spanish Speaking) in the Town of Southampton Police Department",
-      "Office Assistant",
-      "Office Assistant (Spanish Speaking) in the Town of Southampton Police Department"
+      "Stenographer in the Suffolk County Police Department",
+      "one (1) year of permanent competitive status as an Office Assistant"
     ]
   },
   {
@@ -625,8 +619,8 @@
     "title": "COMMUNICATIONS ANALYST II",
     "parents": [
       "Communications Analyst I",
-      "Communications Technician II",
-      "Communications Technician I"
+      "Communications Technician I",
+      "Communications Technician II"
     ]
   },
   {
@@ -664,9 +658,9 @@
     "parents": [
       "Account Clerk",
       "Account Clerk (Spanish Speaking)",
+      "Account Clerk Stenographer",
       "Account Clerk Typist",
       "Account Clerk Typist (Spanish Speaking)",
-      "Account Clerk Stenographer",
       "Senior Cashier"
     ]
   },
@@ -674,8 +668,8 @@
     "title": "PRINCIPAL ACCOUNT CLERK",
     "parents": [
       "Senior Account Clerk",
-      "Senior Account Clerk Typist",
-      "Senior Account Clerk Stenographer"
+      "Senior Account Clerk Stenographer",
+      "Senior Account Clerk Typist"
     ]
   },
   {
@@ -705,9 +699,9 @@
     "parents": [
       "Account Clerk",
       "Account Clerk (Spanish Speaking)",
+      "Account Clerk Stenographer",
       "Account Clerk Typist",
-      "Account Clerk Typist (Spanish Speaking)",
-      "Account Clerk Stenographer"
+      "Account Clerk Typist (Spanish Speaking)"
     ]
   },
   {
@@ -719,19 +713,18 @@
     "parents": [
       "Account Clerk",
       "Account Clerk (Spanish Speaking)",
-      "Account Clerk Typist",
-      "Account Clerk Stenographer"
+      "Account Clerk Stenographer",
+      "Account Clerk Typist"
     ]
   },
   {
     "title": "PAYROLL COMPLIANCE EXAMINER",
     "parents": [
-      "Senior Auditor",
-      "Senior Accountant",
-      "four (4) years of permanent competitive status as an Auditor",
       "Accountant",
       "Auditor",
-      "Accountant"
+      "Senior Accountant",
+      "Senior Auditor",
+      "four (4) years of permanent competitive status as an Auditor"
     ]
   },
   {
@@ -753,15 +746,14 @@
   {
     "title": "SENIOR ACCOUNTANT",
     "parents": [
-      "Auditor",
-      "Accountant"
+      "Accountant",
+      "Auditor"
     ]
   },
   {
     "title": "PRINCIPAL ACCOUNTANT",
     "parents": [
       "Payroll Compliance Examiner",
-      "Senior Auditor",
       "Senior Accountant",
       "Senior Auditor"
     ]
@@ -769,10 +761,10 @@
   {
     "title": "CHIEF ACCOUNTANT",
     "parents": [
-      "Principal Accountant",
-      "Principal Auditor",
+      "Investigative Auditor",
       "One (1) year of permanent competitive status as an Investigative Auditor",
-      "Investigative Auditor"
+      "Principal Accountant",
+      "Principal Auditor"
     ]
   },
   {
@@ -807,26 +799,26 @@
   {
     "title": "SENIOR AUDITOR",
     "parents": [
-      "Auditor",
-      "Accountant"
+      "Accountant",
+      "Auditor"
     ]
   },
   {
     "title": "PRINCIPAL AUDITOR",
     "parents": [
-      "Senior Accountant",
-      "Senior Auditor",
       "One (1) year of permanent competitive status as a Payroll Compliance Examiner",
-      "Payroll Compliance Examiner"
+      "Payroll Compliance Examiner",
+      "Senior Accountant",
+      "Senior Auditor"
     ]
   },
   {
     "title": "CHIEF AUDITOR",
     "parents": [
-      "Principal Auditor",
-      "Principal Accountant",
+      "Investigative Auditor",
       "One (1) year of permanent competitive status as an Investigative Auditor",
-      "Investigative Auditor"
+      "Principal Accountant",
+      "Principal Auditor"
     ]
   },
   {
@@ -836,9 +828,9 @@
   {
     "title": "SENIOR FINANCIAL ANALYST",
     "parents": [
-      "Health Financial Analyst",
       "B)  Two (2) years of permanent competitive status as a Financial Analyst",
-      "Financial Analyst"
+      "Financial Analyst",
+      "Health Financial Analyst"
     ]
   },
   {
@@ -855,9 +847,9 @@
   {
     "title": "SENIOR INVESTIGATIVE AUDITOR",
     "parents": [
+      "Chief Auditor",
       "Investigative Auditor",
-      "One (1) year of permanent competitive status as a Chief Auditor",
-      "Chief Auditor"
+      "One (1) year of permanent competitive status as a Chief Auditor"
     ]
   },
   {
@@ -876,7 +868,6 @@
     "title": "SENIOR BUDGET EXAMINER",
     "parents": [
       "Budget Analyst",
-      "One (1) year of permanent status as a Senior Budget Analyst",
       "Budget Examiner",
       "One (1) year of permanent status as a Senior Budget Analyst",
       "Senior Budget Analyst"
@@ -885,9 +876,9 @@
   {
     "title": "PRINCIPAL BUDGET EXAMINER",
     "parents": [
-      "Senior Budget Examiner",
       "Executive Analyst",
-      "Senior Budget Analyst"
+      "Senior Budget Analyst",
+      "Senior Budget Examiner"
     ]
   },
   {
@@ -928,10 +919,10 @@
       "Principal Accountant",
       "Principal Auditor",
       "Principal Budget Examiner",
+      "Principal Financial Analyst",
       "Principal Management Analyst",
       "Principal Program Examiner",
-      "Principal Research Analyst",
-      "Principal Financial Analyst"
+      "Principal Research Analyst"
     ]
   },
   {
@@ -981,9 +972,9 @@
   {
     "title": "FEDERAL AND STATE AID CLAIMS COORDINATOR",
     "parents": [
+      "Assistant Federal and State Aid Claims Coordinator",
       "Principal Federal and State Aid Claims Examiner",
-      "as an Assistant Federal and State Aid Claims Coordinator",
-      "Assistant Federal and State Aid Claims Coordinator"
+      "as an Assistant Federal and State Aid Claims Coordinator"
     ]
   },
   {
@@ -1035,7 +1026,6 @@
     "parents": [
       "Administrative Assistant",
       "Principal Account Clerk",
-      "Senior Account Clerk",
       "Principal Office Assistant",
       "Senior Account Clerk"
     ]
@@ -1258,7 +1248,6 @@
     "title": "SENIOR CONTRACTS EXAMINER",
     "parents": [
       "Contract Management Analyst",
-      "Insurance Contract Analyst",
       "Contracts Examiner",
       "Insurance Contract Analyst"
     ]
@@ -1266,8 +1255,8 @@
   {
     "title": "PRINCIPAL CONTRACTS EXAMINER",
     "parents": [
-      "Senior Contracts Examiner",
-      "Liability Claims Supervisor"
+      "Liability Claims Supervisor",
+      "Senior Contracts Examiner"
     ]
   },
   {
@@ -1491,9 +1480,9 @@
   {
     "title": "PAYROLL SUPERVISOR",
     "parents": [
-      "Chief Office Assistant",
       "Administrative Assistant",
       "Administrator I",
+      "Chief Office Assistant",
       "Principal Account Clerk",
       "Secretarial Assistant"
     ]
@@ -1507,11 +1496,9 @@
   {
     "title": "PAYROLL COORDINATOR",
     "parents": [
-      "Payroll Supervisor",
-      "Principal Account Clerk",
-      "Assistant Payroll Coordinator",
-      "Principal Account Clerk",
       "Administrative Assistant",
+      "Assistant Payroll Coordinator",
+      "Payroll Supervisor",
       "Principal Account Clerk"
     ]
   },
@@ -1535,8 +1522,8 @@
   {
     "title": "DIRECTOR OF PAYROLL SERVICES",
     "parents": [
-      "Payroll Manager",
-      "Payroll Coordinator"
+      "Payroll Coordinator",
+      "Payroll Manager"
     ]
   },
   {
@@ -1605,10 +1592,10 @@
     "title": "SYSTEMS AND DATA BASE COORDINATOR",
     "parents": [
       "Data Base Manager",
+      "Principal Programmer Analyst",
       "Systems Analysis Supervisor",
       "Systems Analysis Supervisor  (Criminal Justice)",
-      "Systems Analysis Supervisor (Social Services)",
-      "Principal Programmer Analyst"
+      "Systems Analysis Supervisor (Social Services)"
     ]
   },
   {
@@ -1716,8 +1703,8 @@
   {
     "title": "COMPUTER PROGRAMMING SUPERVISOR",
     "parents": [
-      "Senior Computer Programmer",
       "One (1) year of permanent competitive status as a Senior Programmer Analyst",
+      "Senior Computer Programmer",
       "Senior Programmer Analyst"
     ]
   },
@@ -1769,16 +1756,14 @@
     "title": "INFORMATION SERVICES PROJECT MANAGER",
     "parents": [
       "Data Base Manager",
-      "Principal Programmer Analyst",
-      "Principal Business Intelligence Systems Developer",
-      "Systems Analysis Supervisor",
-      "Systems Analysis Supervisor (Criminal Justice)",
-      "b) Two (2) years of permanent competitive status as an Information Technology Project Coordinator",
-      "Office Systems Analyst IV",
       "Data Processing Systems Coordinator",
       "Information Technology Project Coordinator",
       "Office Systems Analyst IV",
-      "Data Processing Systems Coordinator"
+      "Principal Business Intelligence Systems Developer",
+      "Principal Programmer Analyst",
+      "Systems Analysis Supervisor",
+      "Systems Analysis Supervisor (Criminal Justice)",
+      "b) Two (2) years of permanent competitive status as an Information Technology Project Coordinator"
     ]
   },
   {
@@ -1795,8 +1780,8 @@
   {
     "title": "SYSTEMS ANALYSIS SUPERVISOR (SOCIAL SERVICES)",
     "parents": [
-      "Office Systems Analyst IV",
-      "Computer Programming Supervisor"
+      "Computer Programming Supervisor",
+      "Office Systems Analyst IV"
     ]
   },
   {
@@ -1806,10 +1791,10 @@
   {
     "title": "PRINCIPAL PROGRAMMER ANALYST",
     "parents": [
-      "Senior Programmer Analyst",
+      "Computer Programming Supervisor",
       "Data Processing Systems Coordinator:",
-      "b) One (1) year of permanent competitive status as a Computer Programming Supervisor",
-      "Computer Programming Supervisor"
+      "Senior Programmer Analyst",
+      "b) One (1) year of permanent competitive status as a Computer Programming Supervisor"
     ]
   },
   {
@@ -1829,12 +1814,12 @@
   {
     "title": "SENIOR DATA PROCESSING CLERK",
     "parents": [
+      "Account Clerk Typist working in the  field of electronic data processing in a data processing division",
       "Data Processing Clerk",
       "Senior Clerk",
       "Senior Clerk Typist",
-      "Account Clerk Typist working in the  field of electronic data processing in a data processing division",
-      "including the operation of CRT terminals",
       "computers",
+      "including the operation of CRT terminals",
       "peripheral equipment"
     ]
   },
@@ -1871,13 +1856,13 @@
   {
     "title": "ASSISTANT MANAGER OF INFORMATION TECHNOLOGY OPERATIONS",
     "parents": [
-      "Systems Analysis Supervisor",
-      "Information Services Project Manager",
-      "Principal Programmer Analyst",
       "Director of Telecommunications",
-      "Geographic Information Systems Coordinator",
       "Four (4) years of permanent competitive status as an Office Systems Analyst IV",
-      "Office Systems Analyst IV"
+      "Geographic Information Systems Coordinator",
+      "Information Services Project Manager",
+      "Office Systems Analyst IV",
+      "Principal Programmer Analyst",
+      "Systems Analysis Supervisor"
     ]
   },
   {
@@ -1967,9 +1952,9 @@
   {
     "title": "REAL PROPERTY APPRAISER II",
     "parents": [
-      "Senior Assessment Assistant",
       "Assessment Assistant",
-      "Real Property Appraisal Technician II"
+      "Real Property Appraisal Technician II",
+      "Senior Assessment Assistant"
     ]
   },
   {
@@ -2125,37 +2110,35 @@
   {
     "title": "LAND MANAGEMENT SPECIALIST III",
     "parents": [
-      "Land Management Specialist II",
-      "Land Management Specialist I"
+      "Land Management Specialist I",
+      "Land Management Specialist II"
     ]
   },
   {
     "title": "LAND MANAGEMENT SPECIALIST IV",
     "parents": [
+      "Land Management Specialist II",
       "Land Management Specialist III",
-      "a Principal Title Searcher",
-      "Land Management Specialist II"
+      "a Principal Title Searcher"
     ]
   },
   {
     "title": "LAND MANAGEMENT SPECIALIST V",
     "parents": [
-      "Land Management Specialist IV",
-      "Assistant Real Estate Agent",
       "Assistant Leasing Agent",
-      "Land Management Specialist III"
+      "Assistant Real Estate Agent",
+      "Land Management Specialist III",
+      "Land Management Specialist IV"
     ]
   },
   {
     "title": "LAND MANAGEMENT SPECIALIST VI",
     "parents": [
-      "Land Management Specialist V",
-      "Real Estate Agent",
-      "Assistant Real Estate Agent",
       "Assistant Leasing Agent",
-      "Land Management Specialist IV",
       "Assistant Real Estate Agent",
-      "Assistant Leasing Agent"
+      "Land Management Specialist IV",
+      "Land Management Specialist V",
+      "Real Estate Agent"
     ]
   },
   {
@@ -2278,8 +2261,8 @@
     "title": "HEALTH PROGRAM ANALYST II",
     "parents": [
       "Health Program Analyst I",
-      "as a Program Examiner in the Suffolk County Department of Health Services",
-      "Program Examiner in the Suffolk County Department of Health Services"
+      "Program Examiner in the Suffolk County Department of Health Services",
+      "as a Program Examiner in the Suffolk County Department of Health Services"
     ]
   },
   {
@@ -2319,8 +2302,8 @@
   {
     "title": "DIRECTOR OF MANAGEMENT AND RESEARCH",
     "parents": [
-      "Chief Program Examiner",
-      "Chief Management Analyst"
+      "Chief Management Analyst",
+      "Chief Program Examiner"
     ]
   },
   {
@@ -2452,24 +2435,24 @@
   {
     "title": "OFFICE SYSTEMS ANALYST IV",
     "parents": [
-      "Office Systems Analyst III",
       "Data Processing Systems Coordinator as an employee in Suffolk County government",
-      "employee in Suffolk County government",
-      "Office Systems Analyst II"
+      "Office Systems Analyst II",
+      "Office Systems Analyst III",
+      "employee in Suffolk County government"
     ]
   },
   {
     "title": "OFFICE SYSTEMS ANALYST III",
     "parents": [
-      "Office Systems Analyst II",
-      "Computer Operator IV"
+      "Computer Operator IV",
+      "Office Systems Analyst II"
     ]
   },
   {
     "title": "OFFICE SYSTEMS ANALYST II",
     "parents": [
-      "Office Systems Analyst I",
-      "Data Entry Supervisor"
+      "Data Entry Supervisor",
+      "Office Systems Analyst I"
     ]
   },
   {
@@ -2545,9 +2528,9 @@
   {
     "title": "PRINCIPAL BusiNESS INTELLIGENCE SYSTEMS DEVELOPER",
     "parents": [
-      "Senior Business Intelligence Systems Developer",
+      "Business Intelligence Systems Developer",
       "Four (4) years of permanent competitive status as a Business Intelligence Systems Developer",
-      "Business Intelligence Systems Developer"
+      "Senior Business Intelligence Systems Developer"
     ]
   },
   {
@@ -2564,8 +2547,8 @@
     "title": "EXECUTIVE ANALYST",
     "parents": [
       "Assistant Executive Analyst",
-      "four (4) years of permanent competitive status as an Executive Technician",
-      "Executive Technician"
+      "Executive Technician",
+      "four (4) years of permanent competitive status as an Executive Technician"
     ]
   },
   {
@@ -2621,10 +2604,10 @@
   {
     "title": "SENIOR LIBRARY CLERK",
     "parents": [
-      "Office Assistant",
       "Library Clerk",
-      "Office Assistant (Spanish Speaking)",
-      "Library Clerk (Spanish Speaking)"
+      "Library Clerk (Spanish Speaking)",
+      "Office Assistant",
+      "Office Assistant (Spanish Speaking)"
     ]
   },
   {
@@ -2691,8 +2674,8 @@
     "title": "LIBRARIAN II",
     "parents": [
       "Librarian I",
-      "Librarian I (Spanish Speaking)",
-      "Librarian I (Children\u2019s Services)"
+      "Librarian I (Children\u2019s Services)",
+      "Librarian I (Spanish Speaking)"
     ]
   },
   {
@@ -2704,8 +2687,8 @@
   {
     "title": "LIBRARIAN IV",
     "parents": [
-      "Librarian III",
-      "Librarian II"
+      "Librarian II",
+      "Librarian III"
     ]
   },
   {
@@ -2719,24 +2702,23 @@
   {
     "title": "ASSISTANT LIBRARY DIRECTOR",
     "parents": [
-      "Librarian IV",
-      "Librarian III",
       "Librarian II",
-      "Librarian III"
+      "Librarian III",
+      "Librarian IV"
     ]
   },
   {
     "title": "ASSISTANT LIBRARY DIRECTOR IV",
     "parents": [
-      "Librarian II",
-      "III in the library in which promotion is sought"
+      "III in the library in which promotion is sought",
+      "Librarian II"
     ]
   },
   {
     "title": "ASSISTANT LIBRARY DIRECTOR V",
     "parents": [
-      "Librarian III",
-      "IV in the library in which promotion is sought"
+      "IV in the library in which promotion is sought",
+      "Librarian III"
     ]
   },
   {
@@ -2783,11 +2765,11 @@
     "title": "ADMINISTRATIVE ASSISTANT",
     "parents": [
       "Personnel Transactions Supervisor",
-      "Principal Office Assistant",
-      "Principal Stenographer",
       "Principal Account Clerk",
       "Principal Legal Secretary",
       "Principal Library Clerk",
+      "Principal Office Assistant",
+      "Principal Stenographer",
       "Senior Police Operations Aide",
       "Senior School Substitute Coordinator"
     ]
@@ -2797,11 +2779,9 @@
     "parents": [
       "Administrative Aide",
       "Administrative Assistant",
-      "Real Property Recorder IV",
-      "Principal Legal Secretary",
-      "Secretarial Assistant",
       "Principal Account Clerk",
       "Principal Legal Secretary",
+      "Real Property Recorder IV",
       "Secretarial Assistant"
     ]
   },
@@ -2880,8 +2860,8 @@
   {
     "title": "LIABILITY CLAIMS SUPERVISOR",
     "parents": [
-      "Senior Insurance Contract Analyst",
-      "Liability Claims Examiner"
+      "Liability Claims Examiner",
+      "Senior Insurance Contract Analyst"
     ]
   },
   {
@@ -2985,9 +2965,9 @@
   {
     "title": "WORKERS' COMPENSATION COORDINATOR",
     "parents": [
+      "Assistant Workers\u2019 Compensation Supervisor",
       "Workers\u2019 Compensation Supervisor",
-      "four (4) years of permanent competitive status as an Assistant Workers\u2019 Compensation Supervisor",
-      "Assistant Workers\u2019 Compensation Supervisor"
+      "four (4) years of permanent competitive status as an Assistant Workers\u2019 Compensation Supervisor"
     ]
   },
   {
@@ -3019,7 +2999,6 @@
     "parents": [
       "Community Relations Director",
       "Four (4) years of permanent competitive status as a Public Relations Assistant",
-      "Public Relations Specialist",
       "Public Relations Assistant",
       "Public Relations Specialist"
     ]
@@ -3035,9 +3014,9 @@
   {
     "title": "COMMUNITY RELATIONS DIRECTOR",
     "parents": [
+      "Community Relations Specialist",
       "Public Relations Assistant",
-      "Public Relations Specialist",
-      "Community Relations Specialist"
+      "Public Relations Specialist"
     ]
   },
   {
@@ -3160,14 +3139,12 @@
   {
     "title": "ASSISTANT CHIEF ENGINEER (PUBLIC WORKS)\t1026",
     "parents": [
-      "Principal Civil Engineer",
+      "Assistant Director of Traffic Safety",
+      "Associate Civil Engineer",
+      "Director of Materials Testing",
       "Director of Traffic Safety",
       "Four (4) years of permanent competitive status as an Associate Civil Engineer",
-      "Assistant Director of Traffic Safety",
-      "Director of Materials Testing",
-      "Associate Civil Engineer",
-      "Assistant Director of Traffic Safety",
-      "Director of Materials Testing"
+      "Principal Civil Engineer"
     ]
   },
   {
@@ -3175,8 +3152,7 @@
     "parents": [
       "Assistant Chief Engineer (Public Works)",
       "Director of Traffic Safety",
-      "Principal Civil Engineer",
-      "Director of Traffic Safety"
+      "Principal Civil Engineer"
     ]
   },
   {
@@ -3200,8 +3176,8 @@
   {
     "title": "ASSOCIATE ELECTRICAL ENGINEER",
     "parents": [
-      "Energy Engineer",
-      "Electrical Engineer"
+      "Electrical Engineer",
+      "Energy Engineer"
     ]
   },
   {
@@ -3211,11 +3187,10 @@
   {
     "title": "CHIEF ENGINEER (FACILITIES)",
     "parents": [
-      "Principal Mechanical Engineer",
-      "b) Four (4) years of permanent competitive status as an Associate Mechanical Engineer",
-      "an Associate Electrical Engineer",
       "Associate Mechanical Engineer",
-      "an Associate Electrical Engineer"
+      "Principal Mechanical Engineer",
+      "an Associate Electrical Engineer",
+      "b) Four (4) years of permanent competitive status as an Associate Mechanical Engineer"
     ]
   },
   {
@@ -3245,8 +3220,8 @@
     "title": "PRINCIPAL MECHANICAL ENGINEER",
     "parents": [
       "Associate Mechanical Engineer",
-      "b) Four (4) years of permanent competitive status as a Senior Mechanical Engineer",
-      "Senior Mechanical Engineer"
+      "Senior Mechanical Engineer",
+      "b) Four (4) years of permanent competitive status as a Senior Mechanical Engineer"
     ]
   },
   {
@@ -3336,8 +3311,8 @@
   {
     "title": "COMPUTER GRAPHICS MAPPING SPECIALIST",
     "parents": [
-      "Map Drafter I",
-      "Drafter II"
+      "Drafter II",
+      "Map Drafter I"
     ]
   },
   {
@@ -3388,24 +3363,24 @@
     "title": "MAP DRAFTER I",
     "parents": [
       "Drafter I",
-      "Real Property Recorder III",
       "Four (4) years of permanent competitive status as a Real Property Recorder II",
-      "Real Property Recorder II"
+      "Real Property Recorder II",
+      "Real Property Recorder III"
     ]
   },
   {
     "title": "MAP DRAFTER II",
     "parents": [
-      "Map Drafter I",
       "(b) Four (4) years of permanent competitive status as a Drafter I in the Suffolk County Real Property Tax Service Agency",
-      "Drafter I in the Suffolk County Real Property Tax Service Agency"
+      "Drafter I in the Suffolk County Real Property Tax Service Agency",
+      "Map Drafter I"
     ]
   },
   {
     "title": "MAP DRAFTER III",
     "parents": [
-      "Map Drafter II",
-      "Computer Graphics Mapping Specialist"
+      "Computer Graphics Mapping Specialist",
+      "Map Drafter II"
     ]
   },
   {
@@ -3444,12 +3419,11 @@
   {
     "title": "CARTOGRAPHER",
     "parents": [
-      "Data Base Coordinator in the Real Property Tax Service Agency",
-      "Map Drafter III",
-      "Four (4) years of permanent competitive status as a Map Drafter II",
       "Computer Graphics Mapping Specialist",
+      "Data Base Coordinator in the Real Property Tax Service Agency",
+      "Four (4) years of permanent competitive status as a Map Drafter II",
       "Map Drafter II",
-      "Computer Graphics Mapping Specialist"
+      "Map Drafter III"
     ]
   },
   {
@@ -3604,8 +3578,8 @@
     "title": "WATERWAYS MANAGEMENT SUPERVISOR",
     "parents": [
       "Assistant Waterways Management Supervisor",
-      "b) Four (4) years of permanent competitive status as a Harbormaster II",
-      "Harbormaster II"
+      "Harbormaster II",
+      "b) Four (4) years of permanent competitive status as a Harbormaster II"
     ]
   },
   {
@@ -3685,23 +3659,23 @@
   {
     "title": "SENIOR PLANNER",
     "parents": [
-      "Planner",
-      "Environmental Planner"
+      "Environmental Planner",
+      "Planner"
     ]
   },
   {
     "title": "PRINCIPAL PLANNER",
     "parents": [
-      "Senior Planner:",
-      "Senior Environmental Planner"
+      "Senior Environmental Planner",
+      "Senior Planner:"
     ]
   },
   {
     "title": "CHIEF PLANNER",
     "parents": [
-      "Senior Planner",
       "One (1) year of permanent competitive status as a Principal Planner",
-      "Principal Planner"
+      "Principal Planner",
+      "Senior Planner"
     ]
   },
   {
@@ -3735,10 +3709,10 @@
   {
     "title": "SOCIAL SERVICES ADMINISTRATIVE PLANNER",
     "parents": [
-      "Community Organization Specialist",
       "Community Liaison Officer",
-      "Social Services Project Coordinator",
-      "Community Services Coordinator"
+      "Community Organization Specialist",
+      "Community Services Coordinator",
+      "Social Services Project Coordinator"
     ]
   },
   {
@@ -3868,9 +3842,9 @@
   {
     "title": "ASSISTANT TOWN PLANNING DIRECTOR",
     "parents": [
-      "Senior Planner",
       "One (1) year of permanent competitive status as a Principal Planner",
-      "Principal Planner"
+      "Principal Planner",
+      "Senior Planner"
     ]
   },
   {
@@ -3936,8 +3910,8 @@
   {
     "title": "TRAFFIC ENGINEER I",
     "parents": [
-      "Traffic Technician II",
       "One (1) year of permanent competitive status as a Traffic Technician III",
+      "Traffic Technician II",
       "Traffic Technician III"
     ]
   },
@@ -4160,8 +4134,8 @@
   {
     "title": "COPY CAMERA OPERATOR II",
     "parents": [
-      "Copy Camera Operator I",
-      "Composing Machine Operator"
+      "Composing Machine Operator",
+      "Copy Camera Operator I"
     ]
   },
   {
@@ -4276,56 +4250,54 @@
   {
     "title": "PUBLIC HEALTH NURSE II",
     "parents": [
-      "Public Health Nurse I",
-      "Public Health Nurse I (Spanish Speaking)",
       "(b) One (1) year of permanent competitive status as a Public Health Nurse Coordinator",
-      "Public Health Nurse Coordinator"
+      "Public Health Nurse Coordinator",
+      "Public Health Nurse I",
+      "Public Health Nurse I (Spanish Speaking)"
     ]
   },
   {
     "title": "PUBLIC HEALTH NURSE III",
     "parents": [
-      "Public Health Nurse Coordinator",
       "(b)  One (1) year of permanent competitive status as a Public Health Nurse II",
       "(c)  One (1) year of permanent competitive status as a Clinical Nurse Practitioner",
-      "Public Health Nurse II",
-      "(c)  One (1) year of permanent competitive status as a Clinical Nurse Practitioner",
-      "Clinical Nurse Practitioner"
+      "Clinical Nurse Practitioner",
+      "Public Health Nurse Coordinator",
+      "Public Health Nurse II"
     ]
   },
   {
     "title": "PUBLIC HEALTH NURSE III (Home Health Services)",
     "parents": [
-      "Public Health Nurse II",
       "(b) One (1) year of permanent competitive status as a Clinical Nurse Practitioner",
-      "Clinical Nurse Practitioner"
+      "Clinical Nurse Practitioner",
+      "Public Health Nurse II"
     ]
   },
   {
     "title": "PUBLIC\u00a0HEALTH\u00a0NURSE\u00a0III (In-Service Training)",
     "parents": [
-      "Public Health Nurse II",
       "(b) One (1) year of permanent competitive status as a Clinical Nurse Practitioner",
-      "Clinical Nurse Practitioner"
+      "Clinical Nurse Practitioner",
+      "Public Health Nurse II"
     ]
   },
   {
     "title": "PUBLIC HEALTH NURSE III (MATERNAL AND CHILD HEALTH)",
     "parents": [
-      "Public Health Nurse II",
       "(b) One (1) year of permanent competitive status as a Clinical Nurse Practitioner",
-      "Clinical Nurse Practitioner"
+      "Clinical Nurse Practitioner",
+      "Public Health Nurse II"
     ]
   },
   {
     "title": "PUBLIC HEALTH NURSE IV",
     "parents": [
-      "Public Health Nurse III",
       "(b) Two (2) years of permanent competitive status as a Clinical Nurse Practitioner",
       "(c) Three (3) years of permanent competitive status as a Public Health Nurse II",
       "Clinical Nurse Practitioner",
-      "(c) Three (3) years of permanent competitive status as a Public Health Nurse II",
-      "Public Health Nurse II"
+      "Public Health Nurse II",
+      "Public Health Nurse III"
     ]
   },
   {
@@ -4422,8 +4394,8 @@
     "title": "PRINCIPAL PUBLIC HEALTH SANITARIAN",
     "parents": [
       "Associate Public Health Sanitarian",
-      "One (1) year of permanent competitive status as an Associate Public Health Sanitarian (Hearing Officer)",
-      "Associate Public Health Sanitarian (Hearing Officer)"
+      "Associate Public Health Sanitarian (Hearing Officer)",
+      "One (1) year of permanent competitive status as an Associate Public Health Sanitarian (Hearing Officer)"
     ]
   },
   {
@@ -4479,18 +4451,17 @@
   {
     "title": "SENIOR PUBLIC HEALTH ENGINEER",
     "parents": [
-      "Public Health Engineer",
-      "Assistant Public Health Engineer"
+      "Assistant Public Health Engineer",
+      "Public Health Engineer"
     ]
   },
   {
     "title": "ASSOCIATE PUBLIC HEALTH ENGINEER",
     "parents": [
-      "Senior Public Health Engineer",
+      "Assistant Public Health Engineer",
       "Four (4) years of permanent competitive status as an Assistant Public Health Engineer",
       "Public Health Engineer",
-      "Four (4) years of permanent competitive status as an Assistant Public Health Engineer",
-      "Assistant Public Health Engineer"
+      "Senior Public Health Engineer"
     ]
   },
   {
@@ -4545,19 +4516,14 @@
   {
     "title": "LABORATORY DIRECTOR",
     "parents": [
-      "Chemist III",
-      "Chemist III (Public Works)",
       "(b) Three (3) years of permanent competitive status as an Entomologist",
       "(c) Four (4) years of permanent competitive status as a Chemist II (Public Health)",
-      "Chemist II (Public Works)",
-      "Chemist II (Environmental Control)",
-      "Entomologist",
-      "(c) Four (4) years of permanent competitive status as a Chemist II (Public Health)",
-      "Chemist II (Public Works)",
       "Chemist II (Environmental Control)",
       "Chemist II (Public Health)",
       "Chemist II (Public Works)",
-      "Chemist II (Environmental Control)"
+      "Chemist III",
+      "Chemist III (Public Works)",
+      "Entomologist"
     ]
   },
   {
@@ -4567,17 +4533,12 @@
   {
     "title": "CHIEF-PUBLIC & ENVIRONMENTAL HEALTH LABORATORY",
     "parents": [
-      "ssistant Chief - Public & Environmental Health Laboratory",
-      "Four (4) years of permanent competitive status as a Chemist III",
       "Bacteriologist III",
-      "Environmental Radiochemist",
-      "Chemist IV",
-      "Four (4) years of permanent competitive status as a Chemist III",
-      "Bacteriologist III",
-      "Environmental Radiochemist",
       "Chemist III",
-      "Bacteriologist III",
-      "Environmental Radiochemist"
+      "Chemist IV",
+      "Environmental Radiochemist",
+      "Four (4) years of permanent competitive status as a Chemist III",
+      "ssistant Chief - Public & Environmental Health Laboratory"
     ]
   },
   {
@@ -4587,11 +4548,9 @@
   {
     "title": "ASSISTANT CHIEF - PUBLIC & ENVIRONMENTAL HEALTH LABORATORY",
     "parents": [
-      "Chemist IV",
       "Bacteriologist III",
-      "Environmental Radiochemist",
       "Chemist III",
-      "Bacteriologist III",
+      "Chemist IV",
       "Environmental Radiochemist"
     ]
   },
@@ -4651,16 +4610,16 @@
   {
     "title": "CHEMIST I (PUBLIC HEALTH)",
     "parents": [
-      "Laboratory Technician and graduation from a college with federally-authorized accreditation",
-      "registration by New York State with a Bachelor's Degree in one of the Chemical",
-      "Environmental",
-      "Physical",
-      "Medical",
       "Biological Sciences",
       "Engineering",
+      "Environmental",
+      "Laboratory Technician and graduation from a college with federally-authorized accreditation",
+      "Medical",
+      "Physical",
       "including",
-      "supplemented by sixteen (16) credit hours in Chemistry",
-      "including Organic Chemistry"
+      "including Organic Chemistry",
+      "registration by New York State with a Bachelor's Degree in one of the Chemical",
+      "supplemented by sixteen (16) credit hours in Chemistry"
     ]
   },
   {
@@ -4695,8 +4654,8 @@
   {
     "title": "CHEMIST III",
     "parents": [
-      "Chemist II (Public Health)",
-      "Chemist II (Environmental Control)"
+      "Chemist II (Environmental Control)",
+      "Chemist II (Public Health)"
     ]
   },
   {
@@ -4779,25 +4738,25 @@
   {
     "title": "FORENSIC SCIENTIST III",
     "parents": [
-      "Forensic Scientist II (Toxicology)",
-      "Forensic Scientist II (Serology)",
-      "Forensic Scientist II (Criminalist)",
-      "Forensic Scientist II (Chemical)",
-      "Forensic Scientist II (Q.D.)",
+      "Forensic Scientist II (Air Pollution)",
       "Forensic Scientist II (Ballistics)",
+      "Forensic Scientist II (Chemical)",
+      "Forensic Scientist II (Criminalist)",
       "Forensic Scientist II (Hazardous Materials)",
-      "Forensic Scientist II (Air Pollution)"
+      "Forensic Scientist II (Q.D.)",
+      "Forensic Scientist II (Serology)",
+      "Forensic Scientist II (Toxicology)"
     ]
   },
   {
     "title": "FORENSIC SCIENTIST IV",
     "parents": [
-      "Forensic Scientist III (Firearms)",
-      "(Drug Chemistry)",
-      "(Trace Evidence)",
       "(Biological Sciences)",
+      "(Drug Chemistry)",
       "(Q.D.)",
-      "(Toxicology)"
+      "(Toxicology)",
+      "(Trace Evidence)",
+      "Forensic Scientist III (Firearms)"
     ]
   },
   {
@@ -4824,8 +4783,8 @@
       "Forensic Scientist III (Serology)",
       "and a Master's Degree in a natural (chemistry",
       "biology",
-      "physics)",
-      "forensic science"
+      "forensic science",
+      "physics)"
     ]
   },
   {
@@ -4888,8 +4847,8 @@
       "Forensic Scientist IV (Biological Science)",
       "Forensic Scientist IV (Drug Chemistry)",
       "Forensic Scientist IV (Firearms)",
-      "Forensic Scientist IV (Trace Evidence)",
-      "Forensic Scientist IV (Quality Assurance)"
+      "Forensic Scientist IV (Quality Assurance)",
+      "Forensic Scientist IV (Trace Evidence)"
     ]
   },
   {
@@ -4921,8 +4880,8 @@
     "parents": [
       "Supervising Nurse",
       "Supervising Occupational Therapist",
-      "Supervising Physical Therapist",
-      "Supervising Occupational and Physical Therapist"
+      "Supervising Occupational and Physical Therapist",
+      "Supervising Physical Therapist"
     ]
   },
   {
@@ -5355,11 +5314,10 @@
   {
     "title": "SUPERVISOR OF MEDICAL SOCIAL WORK",
     "parents": [
-      "Medical Social Worker II",
       "Four (4) years of permanent competitive status as a Medical Social Worker",
-      "Medical Social Worker (Spanish Speaking)",
       "Medical Social Worker",
-      "Medical Social Worker (Spanish Speaking)"
+      "Medical Social Worker (Spanish Speaking)",
+      "Medical Social Worker II"
     ]
   },
   {
@@ -5445,12 +5403,11 @@
   {
     "title": "DRUG AND ALCOHOL PROGRAM COORDINATOR",
     "parents": [
-      "Drug and Alcohol Community Coordinator II",
-      "Drug and Alcohol Counselor II",
-      "b) Three (3) years of permanent competitive status as a Drug and Alcohol Community Coordinator I",
-      "Drug and Alcohol Counselor I",
       "Drug and Alcohol Community Coordinator I",
-      "Drug and Alcohol Counselor I"
+      "Drug and Alcohol Community Coordinator II",
+      "Drug and Alcohol Counselor I",
+      "Drug and Alcohol Counselor II",
+      "b) Three (3) years of permanent competitive status as a Drug and Alcohol Community Coordinator I"
     ]
   },
   {
@@ -5485,14 +5442,12 @@
   {
     "title": "ASSISTANT DRUG AND ALCOHOL PROGRAM COORDINATOR",
     "parents": [
+      "Drug and Alcohol Community Coordinator I",
       "Drug and Alcohol Community Coordinator II",
-      "Drug and Alcohol Counselor II",
-      "b) Two (2) years of permanent competitive status as a Drug and Alcohol Community Coordinator I",
       "Drug and Alcohol Counselor I",
       "Drug and Alcohol Counselor I (Spanish Speaking)",
-      "Drug and Alcohol Community Coordinator I",
-      "Drug and Alcohol Counselor I",
-      "Drug and Alcohol Counselor I (Spanish Speaking)"
+      "Drug and Alcohol Counselor II",
+      "b) Two (2) years of permanent competitive status as a Drug and Alcohol Community Coordinator I"
     ]
   },
   {
@@ -5729,10 +5684,10 @@
   {
     "title": "SOCIAL WORK TRAINING DIRECTOR",
     "parents": [
-      "Child Support Specialist IV",
-      "Social Services Examiner IV",
       "Assistant Bureau Director of Social Services",
-      "Assistant Social Work Training Director"
+      "Assistant Social Work Training Director",
+      "Child Support Specialist IV",
+      "Social Services Examiner IV"
     ]
   },
   {
@@ -5758,8 +5713,8 @@
   {
     "title": "DIRECTOR OF SERVICES TO CHILDREN AND THEIR FAMILIES",
     "parents": [
-      "Assistant Director of Social Services",
       "(B)\tFour (4) years of permanent competitive status as a Casework Supervisor",
+      "Assistant Director of Social Services",
       "Casework Supervisor"
     ]
   },
@@ -5770,8 +5725,8 @@
   {
     "title": "DIRECTOR OF GENERAL AND ADULT SERVICES",
     "parents": [
-      "Assistant Director of Social Services",
       "(b) Four (4) years of permanent competitive status as a Casework Supervisor",
+      "Assistant Director of Social Services",
       "Casework Supervisor"
     ]
   },
@@ -5793,11 +5748,10 @@
   {
     "title": "CHILD SUPPORT SPECIALIST III",
     "parents": [
-      "Child Support Specialist II",
-      "Four (4) years of permanent competitive status as a Child Support Specialist I",
-      "Child Support Specialist I (Spanish Speaking)",
       "Child Support Specialist I",
-      "Child Support Specialist I (Spanish Speaking)"
+      "Child Support Specialist I (Spanish Speaking)",
+      "Child Support Specialist II",
+      "Four (4) years of permanent competitive status as a Child Support Specialist I"
     ]
   },
   {
@@ -5833,8 +5787,8 @@
   {
     "title": "SOCIAL SERVICES EXAMINER II",
     "parents": [
-      "Social Services Examiner\u00a0I",
-      "Social Services Examiner I (Spanish Speaking)"
+      "Social Services Examiner I (Spanish Speaking)",
+      "Social Services Examiner\u00a0I"
     ]
   },
   {
@@ -5967,48 +5921,44 @@
       "Chief Budget Examiner",
       "Chief Financial Analyst",
       "Chief Management Analyst",
-      "Senior Investigative Auditor",
       "General Services Manager",
-      "Special Projects Coordinator",
-      "Investigative Auditor"
+      "Investigative Auditor",
+      "Senior Investigative Auditor",
+      "Special Projects Coordinator"
     ]
   },
   {
     "title": "ASSISTANT DIRECTOR OF PUBLIC ASSISTANCE-QUALITY CONTROL",
     "parents": [
-      "Social Welfare Examiner  \tIV",
       "(b)\tTwo (2) years of permanent competitive status as a Social Welfare Examiner  \tIII",
-      "Social Welfare Examiner  \tIII"
+      "Social Welfare Examiner  \tIII",
+      "Social Welfare Examiner  \tIV"
     ]
   },
   {
     "title": "ASSISTANT DIVISION ADMINISTRATOR OF SOCIAL SERVICES",
     "parents": [
-      "Social Services Examiner V",
-      "Bureau Director of Social Services",
-      "Medical Services Bureau Director",
-      "Child Support Specialist IV",
-      "Investigator IV",
-      "Four (4) years of permanent competitive status as a Social Services Examiner IV",
       "Assistant Bureau Director of Social Services",
       "Assistant Medical Services Bureau Director",
+      "Bureau Director of Social Services",
+      "Child Support Specialist IV",
+      "Four (4) years of permanent competitive status as a Social Services Examiner IV",
+      "Investigator IV",
+      "Medical Services Bureau Director",
       "Social Services Examiner IV",
-      "Assistant Bureau Director of Social Services",
-      "Assistant Medical Services Bureau Director"
+      "Social Services Examiner V"
     ]
   },
   {
     "title": "DIVISION ADMINISTRATOR OF SOCIAL SERVICES",
     "parents": [
-      "Assistant Division Administrator of Social Services",
-      "Assistant Commissioner of Social Services",
-      "Senior Assistant to Commissioner of Social Services",
       "(b) Four (4) years of permanent competitive status as a Social Services Examiner V",
+      "Assistant Commissioner of Social Services",
+      "Assistant Division Administrator of Social Services",
       "Bureau Director of Social Services",
       "Medical Services Bureau Director",
-      "Social Services Examiner V",
-      "Bureau Director of Social Services",
-      "Medical Services Bureau Director"
+      "Senior Assistant to Commissioner of Social Services",
+      "Social Services Examiner V"
     ]
   },
   {
@@ -6048,8 +5998,8 @@
   {
     "title": "EXECUTIVE DIRECTOR FOR MULTICULTURAL AFFAIRS AND COMMUNITY ENGAGEMENT",
     "parents": [
-      "Multicultural Affairs Specialist",
-      "Community Engagement Specialist"
+      "Community Engagement Specialist",
+      "Multicultural Affairs Specialist"
     ]
   },
   {
@@ -6150,9 +6100,9 @@
   {
     "title": "SENIOR CITIZENS PROGRAM SUPERVISOR",
     "parents": [
-      "Senior Citizens Center Manager",
       "(b) Two (2) years of permanent competitive status as an Assistant Senior Citizens Center Manager",
-      "Assistant Senior Citizens Center Manager"
+      "Assistant Senior Citizens Center Manager",
+      "Senior Citizens Center Manager"
     ]
   },
   {
@@ -6275,11 +6225,10 @@
   {
     "title": "PRINCIPAL HUMAN RIGHTS INVESTIGATOR",
     "parents": [
-      "Senior Human Rights Investigator",
       "(b) Three (3) years of permanent competitive status as a Human Rights Investigator",
-      "Human Rights Investigator (Spanish Speaking)",
       "Human Rights Investigator",
-      "Human Rights Investigator (Spanish Speaking)"
+      "Human Rights Investigator (Spanish Speaking)",
+      "Senior Human Rights Investigator"
     ]
   },
   {
@@ -6536,10 +6485,10 @@
   {
     "title": "RECREATION SUPERVISOR",
     "parents": [
-      "Senior Recreation Leader",
       "Assistant Recreation Center Manager",
-      "c) Three (3) years of permanent competitive status as a Recreation Leader",
-      "Recreation Leader"
+      "Recreation Leader",
+      "Senior Recreation Leader",
+      "c) Three (3) years of permanent competitive status as a Recreation Leader"
     ]
   },
   {
@@ -6557,12 +6506,11 @@
   {
     "title": "RECREATION CENTER MANAGER",
     "parents": [
-      "Assistant Recreation Center Manager",
       "(b) One (1) year of permanent competitive status as a Senior Recreation Leader",
       "(c) Two (2) years of permanent competitive status as a Recreation Leader",
-      "Senior Recreation Leader",
-      "(c) Two (2) years of permanent competitive status as a Recreation Leader",
-      "Recreation Leader"
+      "Assistant Recreation Center Manager",
+      "Recreation Leader",
+      "Senior Recreation Leader"
     ]
   },
   {
@@ -6584,8 +6532,8 @@
   {
     "title": "ASSISTANT SUPERINTENDENT OF RECREATION I",
     "parents": [
-      "Recreation Program Coordinator",
       "Assistant Recreation Program Coordinator",
+      "Recreation Program Coordinator",
       "Recreation Supervisor"
     ]
   },
@@ -6822,8 +6770,8 @@
   {
     "title": "PARK SUPERVISOR III",
     "parents": [
-      "Park Supervisor II",
-      "Golf Course Manager"
+      "Golf Course Manager",
+      "Park Supervisor II"
     ]
   },
   {
@@ -6959,14 +6907,12 @@
   {
     "title": "POLICE CHIEF (TOWNS & VILLAGES) \u2013 TYPE A",
     "parents": [
+      "(Police:Towns & Villages)",
+      "Captain (Police: Towns & Villages)",
+      "Lieutenant",
       "Police Officer",
       "Police Officer (Spanish Speaking)",
-      "(Police:Towns & Villages)",
-      "Six (6) months of permanent competitive status as a Captain (Police: Towns & Villages)",
-      "Lieutenant",
-      "(Police:Towns & Villages)",
-      "Six (6) months of permanent competitive status as a Captain (Police: Towns & Villages)",
-      "Captain (Police: Towns & Villages)"
+      "Six (6) months of permanent competitive status as a Captain (Police: Towns & Villages)"
     ]
   },
   {
@@ -7131,8 +7077,8 @@
   {
     "title": "SENIOR BUILDING AND ZONING INSPECTOR",
     "parents": [
-      "Building and Zoning Inspector",
-      "Building Inspector"
+      "Building Inspector",
+      "Building and Zoning Inspector"
     ]
   },
   {
@@ -7194,8 +7140,8 @@
   {
     "title": "CHIEF COUNTY FIRE MARSHAL",
     "parents": [
-      "Assistant Chief County Fire Marshal",
       "(b) Two (2) years of permanent competitive status as a Fire Marshal II",
+      "Assistant Chief County Fire Marshal",
       "Fire Marshal II"
     ]
   },
@@ -7218,8 +7164,8 @@
   {
     "title": "CHIEF FIRE MARSHAL",
     "parents": [
-      "Assistant Chief Fire Marshal",
       "(b) Two (2) years of permanent competitive status as a Fire Marshal II",
+      "Assistant Chief Fire Marshal",
       "Fire Marshal II"
     ]
   },
@@ -7228,11 +7174,10 @@
     "parents": [
       "Assistant Chief of Fire Rescue Communications",
       "Chief County Fire Marshal",
-      "Director of Emergency Preparedness",
-      "b) Three (3) years of permanent competitive status as a Coordinator of Emergency Medical Services in the Department of Fire",
-      "Rescue and Emergency Services",
       "Coordinator of Emergency Medical Services in the Department of Fire",
-      "Rescue and Emergency Services"
+      "Director of Emergency Preparedness",
+      "Rescue and Emergency Services",
+      "b) Three (3) years of permanent competitive status as a Coordinator of Emergency Medical Services in the Department of Fire"
     ]
   },
   {
@@ -7389,8 +7334,8 @@
   {
     "title": "CODE ENFORCEMENT SUPERVISOR",
     "parents": [
-      "Senior Code Enforcement Officer",
-      "Assistant Code Enforcement Supervisor"
+      "Assistant Code Enforcement Supervisor",
+      "Senior Code Enforcement Officer"
     ]
   },
   {
@@ -7408,11 +7353,9 @@
   {
     "title": "ORDINANCE ENFORCEMENT OFFICER",
     "parents": [
-      "Ordinance Inspector",
-      "Town Investigator",
-      "Ordinance Inspector (Spanish Speaking)",
-      "Town Investigator",
       "Investigator II",
+      "Ordinance Inspector",
+      "Ordinance Inspector (Spanish Speaking)",
       "Town Investigator"
     ]
   },
@@ -7681,8 +7624,8 @@
   {
     "title": "DEPUTY WARDEN",
     "parents": [
-      "Correction Officer IV",
-      "Correction Officer III"
+      "Correction Officer III",
+      "Correction Officer IV"
     ]
   },
   {
@@ -7719,8 +7662,8 @@
     "title": "CHIEF DEPUTY SHERIFF",
     "parents": [
       "Chief of Staff (Sheriff)",
-      "a Deputy Sheriff IV",
-      "Deputy Sheriff III"
+      "Deputy Sheriff III",
+      "a Deputy Sheriff IV"
     ]
   },
   {
@@ -7732,11 +7675,10 @@
   {
     "title": "CHIEF OF STAFF (SHERIFF)",
     "parents": [
-      "Deputy Warden",
-      "Deputy Sheriff IV",
       "Correction Officer IV",
       "Deputy Sheriff III",
-      "Correction Officer IV"
+      "Deputy Sheriff IV",
+      "Deputy Warden"
     ]
   },
   {
@@ -7746,8 +7688,8 @@
   {
     "title": "WARDEN  \t\t\t\t\t\t55l0",
     "parents": [
-      "Deputy Warden",
-      "Correction Officer IV"
+      "Correction Officer IV",
+      "Deputy Warden"
     ]
   },
   {
@@ -7781,17 +7723,17 @@
   {
     "title": "PARK POLICE OFFICER III",
     "parents": [
+      "Park Police Officer I",
       "Park Police Officer II",
-      "Six (6) years of permanent competitive status as a Park Police Officer I",
-      "Park Police Officer I"
+      "Six (6) years of permanent competitive status as a Park Police Officer I"
     ]
   },
   {
     "title": "PARK POLICE OFFICER IV",
     "parents": [
-      "Park Police Officer III",
       "Four (4) years of permanent competitive status as a Park Police Officer II",
-      "Park Police Officer II"
+      "Park Police Officer II",
+      "Park Police Officer III"
     ]
   },
   {
@@ -7875,8 +7817,8 @@
   {
     "title": "SENIOR DETECTIVE INVESTIGATOR",
     "parents": [
-      "District Attorney Investigator",
-      "Detective Investigator"
+      "Detective Investigator",
+      "District Attorney Investigator"
     ]
   },
   {
@@ -7919,13 +7861,12 @@
   {
     "title": "INVESTIGATOR III",
     "parents": [
-      "Investigator\u00a0II",
-      "Investigator II (Spanish Speaking)",
       "Four (4) years of permanent competitive status as an Investigator I",
-      "as an Investigator I (Spanish Speaking)",
       "Investigator I",
-      "as an Investigator I (Spanish Speaking)",
-      "Investigator I (Spanish Speaking)"
+      "Investigator I (Spanish Speaking)",
+      "Investigator II (Spanish Speaking)",
+      "Investigator\u00a0II",
+      "as an Investigator I (Spanish Speaking)"
     ]
   },
   {
@@ -8182,7 +8123,6 @@
     "parents": [
       "Crime Victims Advocate",
       "Crime Victims Advocate (Spanish Speaking)",
-      "Probation Assistant (Spanish Speaking) in the Domestic Violence Unit of the Suffolk County Probation Department",
       "Probation Assistant",
       "Probation Assistant (Spanish Speaking) in the Domestic Violence Unit of the Suffolk County Probation Department"
     ]
@@ -8310,10 +8250,10 @@
     "parents": [
       "Probation Assistant",
       "Probation Assistant (Spanish Speaking) plus graduation from a college with federally authorized accreditation",
-      "registration by New York State with a Bachelor's Degree",
+      "behavioral sciences",
       "higher",
       "including at least thirty (30) credit hours in the social",
-      "behavioral sciences"
+      "registration by New York State with a Bachelor's Degree"
     ]
   },
   {
@@ -8321,10 +8261,10 @@
     "parents": [
       "Probation Assistant",
       "Probation Assistant (Spanish Speaking) plus graduation from a college with federally authorized accreditation",
-      "registration by New York State with a Bachelor's Degree",
+      "behavioral sciences",
       "higher",
       "including at least thirty (30) credit hours in the social",
-      "behavioral sciences"
+      "registration by New York State with a Bachelor's Degree"
     ]
   },
   {
@@ -8551,8 +8491,8 @@
   {
     "title": "SECURITY SUPERVISOR",
     "parents": [
-      "Senior Security Guard",
-      "Safety Officer"
+      "Safety Officer",
+      "Senior Security Guard"
     ]
   },
   {
@@ -8754,8 +8694,8 @@
   {
     "title": "ASSISTANT DIRECTOR OF COUNTY FLEET SERVICES",
     "parents": [
-      "Fleet Service Manager",
-      "Assistant Fleet Service Manager"
+      "Assistant Fleet Service Manager",
+      "Fleet Service Manager"
     ]
   },
   {
@@ -8967,11 +8907,10 @@
   {
     "title": "DIRECTOR OF HIGHWAY CONSTRUCTION",
     "parents": [
-      "Public Works Special Projects Supervisor",
-      "Associate Civil Engineer",
       "Assistant Director of Traffic Safety",
+      "Associate Civil Engineer",
       "Four (4) years of permanent competitive status as a Senior Civil Engineer",
-      "Traffic Engineer III",
+      "Public Works Special Projects Supervisor",
       "Senior Civil Engineer",
       "Traffic Engineer III"
     ]
@@ -9272,8 +9211,8 @@
   {
     "title": "WASTEWATER TREATMENT PLANT OPERATOR (2)",
     "parents": [
-      "Senior Wastewater Treatment Plant Helper",
       "2) Four (4) years of permanent status as a Wastewater Treatment Plant Helper",
+      "Senior Wastewater Treatment Plant Helper",
       "Wastewater Treatment Plant Helper"
     ]
   },
@@ -9284,16 +9223,16 @@
   {
     "title": "WASTEWATER TREATMENT PLANT OPERATOR (3)",
     "parents": [
-      "Senior Wastewater Treatment Plant Helper",
       "2) Four (4) years of permanent status as a Wastewater Treatment Plant Helper",
+      "Senior Wastewater Treatment Plant Helper",
       "Wastewater Treatment Plant Helper"
     ]
   },
   {
     "title": "WASTEWATER TREATMENT PLANT OPERATOR (3A)",
     "parents": [
-      "Senior Wastewater Treatment Plant Helper",
       "Four (4) years of permanent status as a Wastewater Treatment Plant Helper",
+      "Senior Wastewater Treatment Plant Helper",
       "Wastewater Treatment Plant Helper"
     ]
   },
@@ -9304,8 +9243,8 @@
   {
     "title": "WASTEWATER TREATMENT PLANT OPERATOR (4A)",
     "parents": [
-      "Senior Wastewater Treatment Plant Helper",
       "Four (4) years of permanent competitive status as a Wastewater Treatment Plant Helper",
+      "Senior Wastewater Treatment Plant Helper",
       "Wastewater Treatment Plant Helper"
     ]
   },
@@ -9335,20 +9274,19 @@
   {
     "title": "ASSISTANT DIRECTOR OF BUILDINGS, OPERATIONS & MAINTENANCE",
     "parents": [
-      "Buildings Superintendent",
       "Building Maintenance Manager",
-      "Building Maintenance Supervisor"
+      "Building Maintenance Supervisor",
+      "Buildings Superintendent"
     ]
   },
   {
     "title": "DIRECTOR OF BUILDINGS, OPERATIONS & MAINTENANCE",
     "parents": [
       "Assistant Director of Buildings",
-      "Operations & Maintenance",
-      "Four (4) years of permanent competitive status as a Building Maintenance Manager",
+      "Building Maintenance Manager",
       "Buildings Superintendent",
       "Four (4) years of permanent competitive status as a Building Maintenance Manager",
-      "Building Maintenance Manager"
+      "Operations & Maintenance"
     ]
   },
   {
@@ -9489,33 +9427,33 @@
     "title": "ASSISTANT DIRECTOR OF OPERATIONS AND MAINTENANCE",
     "parents": [
       "Director of Maintenance (Wastewater Treatment)",
-      "a Director of Operations (Sewer District)",
       "Four (4) years of permanent competitive status as a Wastewater Plant Operations Supervisor",
-      "Wastewater Plant Operations Supervisor"
+      "Wastewater Plant Operations Supervisor",
+      "a Director of Operations (Sewer District)"
     ]
   },
   {
     "title": "ASSISTANT DIRECTOR OF MAINTENANCE",
     "parents": [
-      "Maintenance Crew Chief (Wastewater Treatment)",
-      "Maintenance Crew Chief (Steam and HVAC)"
+      "Maintenance Crew Chief (Steam and HVAC)",
+      "Maintenance Crew Chief (Wastewater Treatment)"
     ]
   },
   {
     "title": "DIRECTOR OF OPERATIONS AND MAINTENANCE (SEWER DISTRICT)",
     "parents": [
-      "ssistant Director of Operations and Maintenance (Sewer District)",
       "Four (4) years of permanent competitive status as Director of Maintenance (Wastewater Treatment)",
+      "Six (6) years of permanent competitive status as Wastewater Plant Operations Supervisor",
       "four (4) years of permanent competitive status as Director of Operations (Sewer District)",
-      "Six (6) years of permanent competitive status as Wastewater Plant Operations Supervisor"
+      "ssistant Director of Operations and Maintenance (Sewer District)"
     ]
   },
   {
     "title": "WASTEWATER PLANT OPERATIONS SUPERVISOR",
     "parents": [
-      "Operations Crew Chief (Wastewater Treatment)",
+      "Assistant Wastewater Plant Operations Supervisor",
       "One (1) year of permanent competitive status as an Assistant Wastewater Plant Operations Supervisor",
-      "Assistant Wastewater Plant Operations Supervisor"
+      "Operations Crew Chief (Wastewater Treatment)"
     ]
   },
   {
@@ -9534,8 +9472,8 @@
   {
     "title": "DIRECTOR OF OPERATIONS (SEWER DISTRICT)",
     "parents": [
-      "Wastewater Plant Operations Supervisor",
-      "Assistant Wastewater Plant Operations Supervisor"
+      "Assistant Wastewater Plant Operations Supervisor",
+      "Wastewater Plant Operations Supervisor"
     ]
   },
   {
@@ -9559,17 +9497,17 @@
   {
     "title": "DIRECTOR OF MAINTENANCE (WASTEWATER TREATMENT)",
     "parents": [
-      "Assistant Director of Maintenance (Wastewater Treatment)",
-      "Assistant Director of Maintenance (Southwest Sewer District)",
       "(b) Four (4) years of permanent competitive status as a Maintenance Crew Chief (Wastewater Treatment)",
+      "Assistant Director of Maintenance (Southwest Sewer District)",
+      "Assistant Director of Maintenance (Wastewater Treatment)",
       "Maintenance Crew Chief (Wastewater Treatment)"
     ]
   },
   {
     "title": "ASSISTANT DIRECTOR OF MAINTENANCE",
     "parents": [
-      "Maintenance Crew Chief (Wastewater Treatment)",
-      "Maintenance Crew Chief (Steam and HVAC)"
+      "Maintenance Crew Chief (Steam and HVAC)",
+      "Maintenance Crew Chief (Wastewater Treatment)"
     ]
   },
   {
@@ -9717,9 +9655,8 @@
   {
     "title": "AIRPORT OPERATIONS DIRECTOR",
     "parents": [
-      "Assistant Airport Operations Supervisor",
-      "an Airport Administrative Assistant",
       "Airport Construction Supervisor",
+      "Assistant Airport Operations Supervisor",
       "an Airport Administrative Assistant"
     ]
   },
@@ -9783,9 +9720,9 @@
   {
     "title": "VECTOR CONTROL AIDE",
     "parents": [
-      "Vector Control Assistant",
-      "Materiel Control Clerk II engaged in pesticide application in the Vector Control Division of the Suffolk County Department of Public Works",
       "Automotive Equipment Operator engaged in pesticide application in the Vector Control Division of the Suffolk County Department of Public Works",
+      "Materiel Control Clerk II engaged in pesticide application in the Vector Control Division of the Suffolk County Department of Public Works",
+      "Vector Control Assistant",
       "in a Town Highway Department"
     ]
   },
@@ -9804,10 +9741,10 @@
   {
     "title": "HEAD CUSTODIAN",
     "parents": [
-      "Custodial Worker III",
       "(b) Three (3) years of permanent status in a school district",
-      "library as a Custodial Worker II",
-      "Custodial Worker II"
+      "Custodial Worker II",
+      "Custodial Worker III",
+      "library as a Custodial Worker II"
     ]
   },
   {
@@ -10203,8 +10140,8 @@
   {
     "title": "ASSISTANT DIRECTOR OF ACCOUNTING SERVICES",
     "parents": [
-      "Chief Auditor",
-      "Chief Accountant"
+      "Chief Accountant",
+      "Chief Auditor"
     ]
   },
   {
@@ -10248,9 +10185,9 @@
   {
     "title": "EXECUTIVE DIRECTOR OF AUDITING SERVICES",
     "parents": [
-      "Senior Investigative Auditor",
       "Chief Auditor",
-      "Investigative Auditor"
+      "Investigative Auditor",
+      "Senior Investigative Auditor"
     ]
   },
   {
@@ -10264,9 +10201,9 @@
   {
     "title": "ASSISTANT DIRECTOR OF AUDITING SERVICES",
     "parents": [
+      "Chief Auditor",
       "Senior Investigative Auditor",
-      "four (4) years of permanent competitive status as a Chief Auditor",
-      "Chief Auditor"
+      "four (4) years of permanent competitive status as a Chief Auditor"
     ]
   },
   {
@@ -10278,8 +10215,8 @@
   {
     "title": "ASSISTANT MUNICIPAL FINANCE ADMINISTRATOR",
     "parents": [
-      "Principal Auditor",
       "Four (4) years of permanent competitive status as a Senior Auditor",
+      "Principal Auditor",
       "Senior Auditor"
     ]
   },
@@ -10489,8 +10426,6 @@
     "title": "DEPUTY DIRECTOR OF PROBATION",
     "parents": [
       "Principal Probation Officer",
-      "Probation Supervisor",
-      "Principal Probation Officer",
       "Probation Supervisor"
     ]
   },
@@ -10605,8 +10540,8 @@
   {
     "title": "DISTRICT MANAGER  (SOIL & WATER)",
     "parents": [
-      "Senior Soil District Technician",
       "Five (5) years of permanent competitive status as a Soil District Technician",
+      "Senior Soil District Technician",
       "Soil District Technician"
     ]
   },
