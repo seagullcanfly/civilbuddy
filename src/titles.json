@@ -1,0 +1,8302 @@
+[
+  {
+    "title": "401A TERMINAL PAY PLAN ADMINISTRATOR",
+    "grade": "22",
+    "spec": 942.0
+  },
+  {
+    "title": "ABSENTEE BALLOT COORDINATOR",
+    "grade": "UNG",
+    "spec": 9208.0
+  },
+  {
+    "title": "ABSENTEE BALLOT COORDINATOR ASSISTANT",
+    "grade": "UNG",
+    "spec": 9207.0
+  },
+  {
+    "title": "ACCOUNT CLERK",
+    "grade": "11",
+    "spec": 205.0
+  },
+  {
+    "title": "ACCOUNT CLERK",
+    "grade": "UNG",
+    "spec": 205.0
+  },
+  {
+    "title": "ACCOUNT CLERK (SPANISH SPEAKING)",
+    "grade": "11",
+    "spec": 211.0
+  },
+  {
+    "title": "ACCOUNTANT",
+    "grade": "21",
+    "spec": 221.0
+  },
+  {
+    "title": "ACCOUNTANT TRAINEE",
+    "grade": "18",
+    "spec": 220.0
+  },
+  {
+    "title": "ADMINISTRATIVE AIDE",
+    "grade": "UNG",
+    "spec": 901.0
+  },
+  {
+    "title": "ADMINISTRATIVE AIDE",
+    "grade": "19",
+    "spec": 901.0
+  },
+  {
+    "title": "ADMINISTRATIVE ASSISTANT",
+    "grade": "18",
+    "spec": 902.0
+  },
+  {
+    "title": "ADMINISTRATIVE DIRECTOR OF BUSINESS AFFAIRS",
+    "grade": "UNG",
+    "spec": 9188.0
+  },
+  {
+    "title": "ADMINISTRATIVE DIRECTOR OF CAPITAL PROJECTS",
+    "grade": "UNG",
+    "spec": 9132.0
+  },
+  {
+    "title": "ADMINISTRATIVE DIRECTOR OF FACILITIES",
+    "grade": "UNG",
+    "spec": 9155.0
+  },
+  {
+    "title": "ADMINISTRATIVE DIRECTOR OF LABOR, LICENSING AND CONSUMER AFFAIRS",
+    "grade": "34",
+    "spec": 9331.0
+  },
+  {
+    "title": "ADMINISTRATOR I",
+    "grade": "21",
+    "spec": 903.0
+  },
+  {
+    "title": "ADMINISTRATOR II",
+    "grade": "25",
+    "spec": 905.0
+  },
+  {
+    "title": "ADMINISTRATOR III",
+    "grade": "28",
+    "spec": 907.0
+  },
+  {
+    "title": "ADMINISTRATOR IV",
+    "grade": "31",
+    "spec": 909.0
+  },
+  {
+    "title": "ADULT DAY HEALTH CARE PROGRAM DIRECTOR",
+    "grade": "24",
+    "spec": 3671.0
+  },
+  {
+    "title": "AFFIRMATIVE ACTION OFFICER",
+    "grade": "24",
+    "spec": 438.0
+  },
+  {
+    "title": "AFFIRMATIVE ACTION OFFICER (COMMUNITY COLLEGE)",
+    "grade": "34",
+    "spec": 440.0
+  },
+  {
+    "title": "AGRONOMIST",
+    "grade": "20",
+    "spec": 1283.0
+  },
+  {
+    "title": "AIDS COUNSELOR I",
+    "grade": "19",
+    "spec": 2720.0
+  },
+  {
+    "title": "AIRPORT LIGHTING SPECIALIST",
+    "grade": "22",
+    "spec": 7723.0
+  },
+  {
+    "title": "AIRPORT MAINTENANCE MECHANIC",
+    "grade": "15",
+    "spec": 7711.0
+  },
+  {
+    "title": "AIRPORT MAINTENANCE SUPERVISOR",
+    "grade": "22",
+    "spec": 7731.0
+  },
+  {
+    "title": "AIRPORT MANAGER",
+    "grade": "32",
+    "spec": 7793.0
+  },
+  {
+    "title": "AIRPORT SECURITY GUARD",
+    "grade": "17",
+    "spec": 5071.0
+  },
+  {
+    "title": "ALCOHOLISM COUNSELOR",
+    "grade": "16",
+    "spec": 2702.0
+  },
+  {
+    "title": "ALCOHOLISM COUNSELOR (SPANISH SPEAKING)",
+    "grade": "16",
+    "spec": 2703.0
+  },
+  {
+    "title": "AMBULANCE SERVICES CONSULTANT",
+    "grade": "24",
+    "spec": 2638.0
+  },
+  {
+    "title": "ANIMAL CARETAKER",
+    "grade": "09",
+    "spec": 5409.0
+  },
+  {
+    "title": "APPLICANT INVESTIGATOR",
+    "grade": "17",
+    "spec": 5765.0
+  },
+  {
+    "title": "APPRAISAL INVESTIGATOR",
+    "grade": "30",
+    "spec": 625.0
+  },
+  {
+    "title": "APPRAISAL REVIEWER",
+    "grade": "26",
+    "spec": 621.0
+  },
+  {
+    "title": "ARCHITECT",
+    "grade": "29",
+    "spec": 1141.0
+  },
+  {
+    "title": "ARCHITECTURAL DRAFTER I",
+    "grade": "14",
+    "spec": 1110.0
+  },
+  {
+    "title": "ARCHITECTURAL DRAFTER II",
+    "grade": "18",
+    "spec": 1111.0
+  },
+  {
+    "title": "ARCHITECTURAL DRAFTER III",
+    "grade": "20",
+    "spec": 1112.0
+  },
+  {
+    "title": "ARCHIVIST",
+    "grade": "22",
+    "spec": 848.0
+  },
+  {
+    "title": "ASSETS ANALYST",
+    "grade": "19",
+    "spec": 631.0
+  },
+  {
+    "title": "ASSETS ANALYST TRAINEE",
+    "grade": "17",
+    "spec": 630.0
+  },
+  {
+    "title": "ASSETS AND RESOURCES SUPERVISOR",
+    "grade": "26",
+    "spec": 633.0
+  },
+  {
+    "title": "ASSISTANT ADMINISTRATIVE DIRECTOR OF LABOR, LICENSING AND CONSUMER AFFAIRS",
+    "grade": "32",
+    "spec": 9332.0
+  },
+  {
+    "title": "ASSISTANT AIRPORT LIGHTING SPECIALIST",
+    "grade": "19",
+    "spec": 7722.0
+  },
+  {
+    "title": "ASSISTANT AIRPORT MAINTENANCE MECHANIC",
+    "grade": "13",
+    "spec": 7710.0
+  },
+  {
+    "title": "ASSISTANT AIRPORT MANAGER",
+    "grade": "23",
+    "spec": 7792.0
+  },
+  {
+    "title": "ASSISTANT ARCHITECT",
+    "grade": "24",
+    "spec": 1140.0
+  },
+  {
+    "title": "ASSISTANT BUDGET DIRECTOR",
+    "grade": "34",
+    "spec": 245.0
+  },
+  {
+    "title": "ASSISTANT BUREAU DIRECTOR OF SOCIAL SERVICES",
+    "grade": "29",
+    "spec": 3027.0
+  },
+  {
+    "title": "ASSISTANT CARTOGRAPHER (PLANNING)",
+    "grade": "24",
+    "spec": 1521.0
+  },
+  {
+    "title": "ASSISTANT CHIEF (POLICE)",
+    "grade": "UNG",
+    "spec": 5025.0
+  },
+  {
+    "title": "ASSISTANT CHIEF - PUBLIC AND ENVIRONMENTAL HEALTH LABORATORY",
+    "grade": "31",
+    "spec": 2232.0
+  },
+  {
+    "title": "ASSISTANT CHIEF COUNTY FIRE MARSHAL",
+    "grade": "25",
+    "spec": 5123.0
+  },
+  {
+    "title": "ASSISTANT CHIEF DEPUTY SHERIFF",
+    "grade": "UNG",
+    "spec": 5542.0
+  },
+  {
+    "title": "ASSISTANT CHIEF ENGINEER (PUBLIC WORKS)",
+    "grade": "35",
+    "spec": 1026.0
+  },
+  {
+    "title": "ASSISTANT CHIEF LIFEGUARD",
+    "grade": "UNG",
+    "spec": 4043.0
+  },
+  {
+    "title": "ASSISTANT CHIEF OF FIRE RESCUE COMMUNICATIONS",
+    "grade": "26",
+    "spec": 5130.0
+  },
+  {
+    "title": "ASSISTANT CHIEF-CRIME LABORATORY",
+    "grade": "31",
+    "spec": 2291.0
+  },
+  {
+    "title": "ASSISTANT CIVIL ENGINEER",
+    "grade": "23",
+    "spec": 1013.0
+  },
+  {
+    "title": "ASSISTANT CLERK OF THE WORKS",
+    "grade": "17",
+    "spec": 1052.0
+  },
+  {
+    "title": "ASSISTANT COMMISSIONER OF ELECTIONS",
+    "grade": "UNG",
+    "spec": 9291.0
+  },
+  {
+    "title": "ASSISTANT COMMISSIONER OF HEALTH SERVICES (PROGRAM EVALUATION)",
+    "grade": "35",
+    "spec": 9584.0
+  },
+  {
+    "title": "ASSISTANT COMMISSIONER OF POLICE (STRATEGIC INITIATIVES)",
+    "grade": "UNG",
+    "spec": 9380.0
+  },
+  {
+    "title": "ASSISTANT COMMISSIONER OF SOCIAL SERVICES",
+    "grade": "32",
+    "spec": 9407.0
+  },
+  {
+    "title": "ASSISTANT COMMUNITY DEVELOPMENT DIRECTOR",
+    "grade": "27",
+    "spec": 1593.0
+  },
+  {
+    "title": "ASSISTANT CONSERVATOR",
+    "grade": "20",
+    "spec": 4187.0
+  },
+  {
+    "title": "ASSISTANT COOK",
+    "grade": "09",
+    "spec": 8110.0
+  },
+  {
+    "title": "ASSISTANT COORDINATOR OF SPECIAL EDUCATION",
+    "grade": "25",
+    "spec": 2634.0
+  },
+  {
+    "title": "ASSISTANT CORRECTIONS CLASSIFICATION AND DIAGNOSTIC SPECIALIST",
+    "grade": "25",
+    "spec": 2514.0
+  },
+  {
+    "title": "ASSISTANT COUNSEL TO LEGISLATURE",
+    "grade": "24",
+    "spec": 6168.0
+  },
+  {
+    "title": "ASSISTANT COUNTY ARCHITECT",
+    "grade": "32",
+    "spec": 1148.0
+  },
+  {
+    "title": "ASSISTANT COUNTY ATTORNEY",
+    "grade": "24",
+    "spec": 6174.0
+  },
+  {
+    "title": "ASSISTANT COUNTY ATTORNEY (SPECIAL ASSIGNMENT)",
+    "grade": "19",
+    "spec": 6172.0
+  },
+  {
+    "title": "ASSISTANT DEAN OF INSTRUCTION",
+    "grade": "UNG",
+    "spec": 9178.0
+  },
+  {
+    "title": "ASSISTANT DEFERRED COMPENSATION PLAN ADMINISTRATOR",
+    "grade": "29",
+    "spec": 941.0
+  },
+  {
+    "title": "ASSISTANT DEPARTMENTAL ATTORNEY",
+    "grade": "28",
+    "spec": 6160.0
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF HEALTH SERVICES",
+    "grade": "33",
+    "spec": 9594.0
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF PARKS, RECREATION & CONSERVATION",
+    "grade": "27",
+    "spec": 9365.0
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF POLICE (INTERGOVERNMENTAL RELATIONS)",
+    "grade": "UNG",
+    "spec": 9297.0
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF POLICE (INVESTIGATIONS)",
+    "grade": "UNG",
+    "spec": 9298.0
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF POLICE (LEGAL)",
+    "grade": "UNG",
+    "spec": 9306.0
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF POLICE (POLICE MANAGEMENT INFORMATION SYSTEMS)",
+    "grade": "34",
+    "spec": 9307.0
+  },
+  {
+    "title": "ASSISTANT DEPUTY COUNTY EXECUTIVE",
+    "grade": "37",
+    "spec": 9682.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR HUMAN RIGHTS COMMISSION",
+    "grade": "33",
+    "spec": 9351.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR NURSING HOME",
+    "grade": "28",
+    "spec": 9509.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF ACCOUNTING SERVICES",
+    "grade": "35",
+    "spec": 9299.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF AUDITING SERVICES",
+    "grade": "35",
+    "spec": 9313.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF BUDGET REVIEW",
+    "grade": "33",
+    "spec": 237.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF BUILDINGS, OPERATION AND MAINTENANCE",
+    "grade": "33",
+    "spec": 7511.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF COMMUNITY MENTAL HEALTH SERVICES",
+    "grade": "31",
+    "spec": 9522.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF CONSUMER AFFAIRS",
+    "grade": "29",
+    "spec": 5259.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF CONTINUOUS INNOVATION",
+    "grade": "34",
+    "spec": 738.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF COUNSELING AND SPECIAL SERVICES",
+    "grade": "UNG",
+    "spec": 9112.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF COUNSELING, ADVISING & TESTING",
+    "grade": "UNG",
+    "spec": 9146.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF COUNTY FLEET SERVICES",
+    "grade": "29",
+    "spec": 7204.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF CUSTODIAL AND SECURITY SERVICES",
+    "grade": "22",
+    "spec": 7537.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF DEPARTMENT POLICY AND PROCEDURES UNIT",
+    "grade": "25",
+    "spec": 3041.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF EMERGENCY PREPAREDNESS",
+    "grade": "26",
+    "spec": 9316.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF HIGHWAY AND FLEET MAINTENANCE",
+    "grade": "28",
+    "spec": 7229.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF HISTORIC SERVICES",
+    "grade": "21",
+    "spec": 4262.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF HUMAN RESOURCES",
+    "grade": "34",
+    "spec": 451.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF LABOR RELATIONS",
+    "grade": "37",
+    "spec": 934.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF MAINTENANCE (SOUTHWEST SEWER DISTRICT)",
+    "grade": "24",
+    "spec": 7668.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF MAINTENANCE (WASTEWATER TREATMENT)",
+    "grade": "24",
+    "spec": 7651.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF MANAGEMENT AND RESEARCH",
+    "grade": "33",
+    "spec": 736.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF MUNICIPAL HEALTH PLAN",
+    "grade": "33",
+    "spec": 445.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF OPERATIONS AND MAINTENANCE (SEWER DISTRICT)",
+    "grade": "29",
+    "spec": 7650.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF PATIENT CARE SERVICES",
+    "grade": "33",
+    "spec": 9512.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF PHYSICAL PLANT",
+    "grade": "UNG",
+    "spec": 9115.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF PROBATION",
+    "grade": "29",
+    "spec": 9383.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF PUBLIC ASSISTANCE - QUALITY CONTROL",
+    "grade": "26",
+    "spec": 3307.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF REAL ESTATE",
+    "grade": "33",
+    "spec": 9399.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF SEWER DISTRICT ACTIVATION",
+    "grade": "29",
+    "spec": 7672.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF SPORTS AND RECREATION",
+    "grade": "22",
+    "spec": 4029.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF TRAFFIC SAFETY",
+    "grade": "31",
+    "spec": 1610.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF VETERANS SERVICE AGENCY",
+    "grade": "28",
+    "spec": 9423.0
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF WEIGHTS AND MEASURES",
+    "grade": "27",
+    "spec": 5258.0
+  },
+  {
+    "title": "ASSISTANT DISTRICT ATTORNEY",
+    "grade": "30",
+    "spec": 6128.0
+  },
+  {
+    "title": "ASSISTANT DIVISION ADMINISTRATOR OF SOCIAL SERVICES",
+    "grade": "34",
+    "spec": 3308.0
+  },
+  {
+    "title": "ASSISTANT ECONOMIST",
+    "grade": "21",
+    "spec": 708.0
+  },
+  {
+    "title": "ASSISTANT ELECTION CLERK 1",
+    "grade": "UNG",
+    "spec": 9230.0
+  },
+  {
+    "title": "ASSISTANT ELECTION CLERK 2",
+    "grade": "UNG",
+    "spec": 9231.0
+  },
+  {
+    "title": "ASSISTANT ELECTION CLERK 3",
+    "grade": "UNG",
+    "spec": 9232.0
+  },
+  {
+    "title": "ASSISTANT ELECTION CLERK 4",
+    "grade": "UNG",
+    "spec": 9233.0
+  },
+  {
+    "title": "ASSISTANT ELECTION CLERK 5",
+    "grade": "UNG",
+    "spec": 9234.0
+  },
+  {
+    "title": "ASSISTANT ELECTION CLERK 6",
+    "grade": "UNG",
+    "spec": 9235.0
+  },
+  {
+    "title": "ASSISTANT ELECTION CLERK 7",
+    "grade": "UNG",
+    "spec": 9236.0
+  },
+  {
+    "title": "ASSISTANT ELECTION CLERK 8",
+    "grade": "UNG",
+    "spec": 9237.0
+  },
+  {
+    "title": "ASSISTANT ELECTION CLERK 9",
+    "grade": "UNG",
+    "spec": 9238.0
+  },
+  {
+    "title": "ASSISTANT ELECTRICAL ENGINEER",
+    "grade": "23",
+    "spec": 1031.0
+  },
+  {
+    "title": "ASSISTANT EXECUTIVE ANALYST",
+    "grade": "21",
+    "spec": 782.0
+  },
+  {
+    "title": "ASSISTANT FACILITIES SPACE MANAGER",
+    "grade": "28",
+    "spec": 745.0
+  },
+  {
+    "title": "ASSISTANT FEDERAL AND STATE AID CLAIMS COORDINATOR",
+    "grade": "28",
+    "spec": 256.0
+  },
+  {
+    "title": "ASSISTANT FEDERAL AND STATE AID COORDINATOR",
+    "grade": "28",
+    "spec": 257.0
+  },
+  {
+    "title": "ASSISTANT FLEET SERVICE MANAGER",
+    "grade": "26",
+    "spec": 7198.0
+  },
+  {
+    "title": "ASSISTANT FOOD SERVICE SUPERVISOR",
+    "grade": "16",
+    "spec": 8140.0
+  },
+  {
+    "title": "ASSISTANT GENERAL SERVICES MANAGER",
+    "grade": "27",
+    "spec": 9603.0
+  },
+  {
+    "title": "ASSISTANT GROUNDS SUPERINTENDENT",
+    "grade": "23",
+    "spec": 7367.0
+  },
+  {
+    "title": "ASSISTANT HIGHWAY MAINTENANCE SUPERVISOR",
+    "grade": "31",
+    "spec": 7314.0
+  },
+  {
+    "title": "ASSISTANT HIGHWAY ZONE SUPERVISOR",
+    "grade": "20",
+    "spec": 7300.0
+  },
+  {
+    "title": "ASSISTANT HOUSEKEEPER",
+    "grade": "14",
+    "spec": 8020.0
+  },
+  {
+    "title": "ASSISTANT HYDROGEOLOGIST",
+    "grade": "25",
+    "spec": 1230.0
+  },
+  {
+    "title": "ASSISTANT INSURANCE MANAGER",
+    "grade": "28",
+    "spec": 927.0
+  },
+  {
+    "title": "ASSISTANT INTERGOVERNMENTAL RELATIONS COORDINATOR",
+    "grade": "26",
+    "spec": 247.0
+  },
+  {
+    "title": "ASSISTANT JAIL HEAD COOK",
+    "grade": "18",
+    "spec": 8177.0
+  },
+  {
+    "title": "ASSISTANT LABOR CREW LEADER",
+    "grade": "11",
+    "spec": 7304.0
+  },
+  {
+    "title": "ASSISTANT LANDSCAPE ARCHITECT",
+    "grade": "24",
+    "spec": 1152.0
+  },
+  {
+    "title": "ASSISTANT LEASING AGENT",
+    "grade": "23",
+    "spec": 664.0
+  },
+  {
+    "title": "ASSISTANT LEGISLATIVE ANALYST",
+    "grade": "21",
+    "spec": 770.0
+  },
+  {
+    "title": "ASSISTANT MANAGER OF INFORMATION TECHNOLOGY OPERATIONS",
+    "grade": "33",
+    "spec": 582.0
+  },
+  {
+    "title": "ASSISTANT MAP AND COORDINATE SUPERVISOR",
+    "grade": "26",
+    "spec": 1130.0
+  },
+  {
+    "title": "ASSISTANT MECHANICAL ENGINEER",
+    "grade": "23",
+    "spec": 1036.0
+  },
+  {
+    "title": "ASSISTANT MECHANICAL ENGINEER TRAINEE",
+    "grade": "19",
+    "spec": 1034.0
+  },
+  {
+    "title": "ASSISTANT MEDICAL EXAMINER",
+    "grade": "30",
+    "spec": 9531.0
+  },
+  {
+    "title": "ASSISTANT MEDICAL SERVICES BUREAU DIRECTOR",
+    "grade": "29",
+    "spec": 2647.0
+  },
+  {
+    "title": "ASSISTANT MEDICAL SERVICES DIRECTOR",
+    "grade": "36",
+    "spec": 2454.0
+  },
+  {
+    "title": "ASSISTANT MICROGRAPHICS MANAGER",
+    "grade": "24",
+    "spec": 138.0
+  },
+  {
+    "title": "ASSISTANT MUNICIPAL FINANCE ADMINISTRATOR",
+    "grade": "30",
+    "spec": 9315.0
+  },
+  {
+    "title": "ASSISTANT NURSING CARE DIRECTOR",
+    "grade": "23",
+    "spec": 2034.0
+  },
+  {
+    "title": "ASSISTANT NURSING CARE DIRECTOR (TRAINING)",
+    "grade": "22",
+    "spec": 2035.0
+  },
+  {
+    "title": "ASSISTANT PAYROLL COORDINATOR",
+    "grade": "22",
+    "spec": 444.0
+  },
+  {
+    "title": "ASSISTANT PRINT SHOP SUPERVISOR",
+    "grade": "20",
+    "spec": 116.0
+  },
+  {
+    "title": "ASSISTANT PROFESSOR",
+    "grade": "UNG",
+    "spec": 9105.0
+  },
+  {
+    "title": "ASSISTANT PROPERTY MANAGEMENT ADMINISTRATOR",
+    "grade": "24",
+    "spec": 697.0
+  },
+  {
+    "title": "ASSISTANT PUBLIC HEALTH  ENGINEER TRAINEE- HELP PROGRAM",
+    "grade": "19",
+    "spec": 9009.0
+  },
+  {
+    "title": "ASSISTANT PUBLIC HEALTH ENGINEER",
+    "grade": "23",
+    "spec": 2131.0
+  },
+  {
+    "title": "ASSISTANT PUBLIC HEALTH ENGINEER (TRAINEE)",
+    "grade": "19",
+    "spec": 2130.0
+  },
+  {
+    "title": "ASSISTANT REAL ESTATE AGENT",
+    "grade": "23",
+    "spec": 661.0
+  },
+  {
+    "title": "ASSISTANT SECURITY DIRECTOR",
+    "grade": "25",
+    "spec": 7094.0
+  },
+  {
+    "title": "ASSISTANT SENIOR CITIZENS PROGRAM COORDINATOR",
+    "grade": "21",
+    "spec": 3753.0
+  },
+  {
+    "title": "ASSISTANT SOCIAL WORK TRAINING DIRECTOR",
+    "grade": "26",
+    "spec": 3036.0
+  },
+  {
+    "title": "ASSISTANT SPECIAL INVESTIGATOR",
+    "grade": "21",
+    "spec": 5740.0
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER (FIRE, RESCUE AND EMERGENCY SERVICES)",
+    "grade": "28",
+    "spec": 9346.0
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER (HEALTH SERVICES)",
+    "grade": "29",
+    "spec": 9578.0
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER (PARKS, RECREATION & CONSERVATION)",
+    "grade": "24",
+    "spec": 9364.0
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER (POLICE)",
+    "grade": "UNG",
+    "spec": 9377.0
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER (PUBLIC WORKS)",
+    "grade": "29",
+    "spec": 9390.0
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER (SOCIAL SERVICES)",
+    "grade": "29",
+    "spec": 9406.0
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER OF LABOR, LICENSING AND CONSUMER AFFAIRS",
+    "grade": "29",
+    "spec": 9353.0
+  },
+  {
+    "title": "ASSISTANT TO COUNTY ATTORNEY",
+    "grade": "26",
+    "spec": 9361.0
+  },
+  {
+    "title": "ASSISTANT TO COUNTY TREASURER",
+    "grade": "24",
+    "spec": 9339.0
+  },
+  {
+    "title": "ASSISTANT TO DIRECTOR OF PROBATION",
+    "grade": "23",
+    "spec": 9382.0
+  },
+  {
+    "title": "ASSISTANT TO DIRECTOR OF REAL PROPERTY TAX SERVICE AGENCY",
+    "grade": "28",
+    "spec": 9403.0
+  },
+  {
+    "title": "ASSISTANT TO DIRECTOR OF TRAFFIC AND PARKING VIOLATIONS AGENCY",
+    "grade": "22",
+    "spec": 9422.0
+  },
+  {
+    "title": "ASSISTANT TO DISTRICT ATTORNEY",
+    "grade": "UNG",
+    "spec": 6167.0
+  },
+  {
+    "title": "ASSISTANT TO PERSONNEL OFFICER",
+    "grade": "22",
+    "spec": 9369.0
+  },
+  {
+    "title": "ASSISTANT TO THE CHIEF MEDICAL EXAMINER",
+    "grade": "26",
+    "spec": 2825.0
+  },
+  {
+    "title": "ASSISTANT TO THE COMMISSIONER OF ECONOMIC DEVELOPMENT AND PLANNING",
+    "grade": "27",
+    "spec": 9326.0
+  },
+  {
+    "title": "ASSISTANT TO THE COMMISSIONER OF INFORMATION TECHNOLOGY",
+    "grade": "32",
+    "spec": 9648.0
+  },
+  {
+    "title": "ASSISTANT TO THE COUNTY CLERK",
+    "grade": "22",
+    "spec": 9318.0
+  },
+  {
+    "title": "ASSISTANT TO THE COUNTY COMPTROLLER",
+    "grade": "26",
+    "spec": 9300.0
+  },
+  {
+    "title": "ASSISTANT TO THE SHERIFF",
+    "grade": "26",
+    "spec": 5540.0
+  },
+  {
+    "title": "ASSISTANT TOXICOLOGIST",
+    "grade": "31",
+    "spec": 2830.0
+  },
+  {
+    "title": "ASSISTANT TRAINING AND SAFETY OFFICER",
+    "grade": "22",
+    "spec": 7658.0
+  },
+  {
+    "title": "ASSISTANT WASTEWATER PLANT OPERATIONS SUPERVISOR",
+    "grade": "23",
+    "spec": 7655.0
+  },
+  {
+    "title": "ASSISTANT WORKERS' COMPENSATION SUPERVISOR",
+    "grade": "23",
+    "spec": 920.0
+  },
+  {
+    "title": "ASSOCIATE CHIEF PROCUREMENT OFFICER",
+    "grade": "33",
+    "spec": 363.0
+  },
+  {
+    "title": "ASSOCIATE CIVIL ENGINEER",
+    "grade": "32",
+    "spec": 1016.0
+  },
+  {
+    "title": "ASSOCIATE DEAN OF ENTERPRISE RESOURCE PLANNING",
+    "grade": "UNG",
+    "spec": 9140.0
+  },
+  {
+    "title": "ASSOCIATE DEAN OF FACULTY FOR INSTRUCTIONAL PERSONNEL",
+    "grade": "UNG",
+    "spec": 9114.0
+  },
+  {
+    "title": "ASSOCIATE DEAN OF FINANCIAL AFFAIRS",
+    "grade": "UNG",
+    "spec": 9175.0
+  },
+  {
+    "title": "ASSOCIATE DIRECTOR OF COMPUTER CENTER",
+    "grade": "UNG",
+    "spec": 9141.0
+  },
+  {
+    "title": "ASSOCIATE DIRECTOR OF COMPUTER SUPPORT SERVICES",
+    "grade": "UNG",
+    "spec": 9119.0
+  },
+  {
+    "title": "ASSOCIATE DIRECTOR OF THE COMPUTER CENTER FOR APPLICATION DEVELOPMENT",
+    "grade": "UNG",
+    "spec": 9176.0
+  },
+  {
+    "title": "ASSOCIATE ELECTRICAL ENGINEER",
+    "grade": "32",
+    "spec": 1033.0
+  },
+  {
+    "title": "ASSOCIATE HYDROGEOLOGIST",
+    "grade": "32",
+    "spec": 1232.0
+  },
+  {
+    "title": "ASSOCIATE MECHANICAL ENGINEER",
+    "grade": "32",
+    "spec": 1039.0
+  },
+  {
+    "title": "ASSOCIATE PROFESSOR",
+    "grade": "UNG",
+    "spec": 9106.0
+  },
+  {
+    "title": "ASSOCIATE PUBLIC HEALTH ENGINEER",
+    "grade": "32",
+    "spec": 2134.0
+  },
+  {
+    "title": "ASSOCIATE PUBLIC HEALTH SANITARIAN",
+    "grade": "28",
+    "spec": 2113.0
+  },
+  {
+    "title": "ASSOCIATE PUBLIC HEALTH SANITARIAN (HEARING OFFICER)",
+    "grade": "30",
+    "spec": 2120.0
+  },
+  {
+    "title": "ATTORNEY (DEPARTMENTAL)",
+    "grade": "30",
+    "spec": 6161.0
+  },
+  {
+    "title": "AUDIO VISUAL AIDE",
+    "grade": "UNG",
+    "spec": 1901.0
+  },
+  {
+    "title": "AUDIO VISUAL AIDE",
+    "grade": "07",
+    "spec": 1901.0
+  },
+  {
+    "title": "AUDIO VISUAL PRODUCTION MANAGER",
+    "grade": "28",
+    "spec": 1950.0
+  },
+  {
+    "title": "AUDIO VISUAL PRODUCTION SPECIALIST",
+    "grade": "25",
+    "spec": 1960.0
+  },
+  {
+    "title": "AUDIO VISUAL TECHNICIAN",
+    "grade": "17",
+    "spec": 1903.0
+  },
+  {
+    "title": "AUDIOLOGIST",
+    "grade": "21",
+    "spec": 2315.0
+  },
+  {
+    "title": "AUDITOR",
+    "grade": "21",
+    "spec": 231.0
+  },
+  {
+    "title": "AUDITOR TRAINEE",
+    "grade": "18",
+    "spec": 230.0
+  },
+  {
+    "title": "AUTOMOTIVE EQUIPMENT OPERATOR",
+    "grade": "12",
+    "spec": 7201.0
+  },
+  {
+    "title": "AUTOMOTIVE MECHANIC I",
+    "grade": "12-3",
+    "spec": 7191.0
+  },
+  {
+    "title": "AUTOMOTIVE MECHANIC II",
+    "grade": "15",
+    "spec": 7192.0
+  },
+  {
+    "title": "AUTOMOTIVE MECHANIC III",
+    "grade": "18",
+    "spec": 7193.0
+  },
+  {
+    "title": "AUTOMOTIVE MECHANIC IV",
+    "grade": "20",
+    "spec": 7194.0
+  },
+  {
+    "title": "AUTOMOTIVE MECHANIC V",
+    "grade": "23",
+    "spec": 7195.0
+  },
+  {
+    "title": "AUTOMOTIVE PARTS CLERK",
+    "grade": "09",
+    "spec": 322.0
+  },
+  {
+    "title": "AUTOMOTIVE PARTS MANAGER",
+    "grade": "16",
+    "spec": 323.0
+  },
+  {
+    "title": "AUTOMOTIVE SERVICE WRITER",
+    "grade": "16",
+    "spec": 325.0
+  },
+  {
+    "title": "BACTERIOLOGIST",
+    "grade": "21",
+    "spec": 2211.0
+  },
+  {
+    "title": "BACTERIOLOGIST II",
+    "grade": "24",
+    "spec": 2212.0
+  },
+  {
+    "title": "BACTERIOLOGIST III",
+    "grade": "28",
+    "spec": 2213.0
+  },
+  {
+    "title": "BIO/HI TECH DEVELOPMENT SPECIALIST",
+    "grade": "31",
+    "spec": 989.0
+  },
+  {
+    "title": "BIOLOGIST",
+    "grade": "21",
+    "spec": 1225.0
+  },
+  {
+    "title": "BIOSTATISTICIAN",
+    "grade": "26",
+    "spec": 712.0
+  },
+  {
+    "title": "BOAT OPERATOR",
+    "grade": "16",
+    "spec": 7231.0
+  },
+  {
+    "title": "BRIDGE MAINTENANCE MECHANIC I",
+    "grade": "13",
+    "spec": 7380.0
+  },
+  {
+    "title": "BRIDGE MAINTENANCE MECHANIC II",
+    "grade": "15",
+    "spec": 7381.0
+  },
+  {
+    "title": "BRIDGE MAINTENANCE MECHANIC III",
+    "grade": "18",
+    "spec": 7382.0
+  },
+  {
+    "title": "BRIDGE MAINTENANCE MECHANIC IV",
+    "grade": "20",
+    "spec": 7007.0
+  },
+  {
+    "title": "BRIDGE OPERATOR",
+    "grade": "10",
+    "spec": 7239.0
+  },
+  {
+    "title": "BUDGET ANALYST",
+    "grade": "UNG",
+    "spec": 251.0
+  },
+  {
+    "title": "BUDGET ANALYST",
+    "grade": "19",
+    "spec": 251.0
+  },
+  {
+    "title": "BUDGET ASSISTANT",
+    "grade": "13",
+    "spec": 235.0
+  },
+  {
+    "title": "BUDGET DIRECTOR",
+    "grade": "40",
+    "spec": 246.0
+  },
+  {
+    "title": "BUDGET EXAMINER",
+    "grade": "20",
+    "spec": 241.0
+  },
+  {
+    "title": "BUDGET SYSTEMS ANALYST",
+    "grade": "30",
+    "spec": 550.0
+  },
+  {
+    "title": "BUDGET TECHNICIAN",
+    "grade": "15",
+    "spec": 240.0
+  },
+  {
+    "title": "BUILDING FACILITIES CREW LEADER",
+    "grade": "16",
+    "spec": 7306.0
+  },
+  {
+    "title": "BUILDING MAINTENANCE MANAGER",
+    "grade": "23",
+    "spec": 7524.0
+  },
+  {
+    "title": "BUILDING MAINTENANCE SUPERVISOR",
+    "grade": "22",
+    "spec": 7521.0
+  },
+  {
+    "title": "BUILDING PERMITS EXAMINER",
+    "grade": "17",
+    "spec": 5105.0
+  },
+  {
+    "title": "BUILDING PROJECT COORDINATOR",
+    "grade": "28",
+    "spec": 1057.0
+  },
+  {
+    "title": "BUILDINGS SUPERINTENDENT",
+    "grade": "25",
+    "spec": 7527.0
+  },
+  {
+    "title": "BUREAU CHIEF",
+    "grade": "42",
+    "spec": 6106.0
+  },
+  {
+    "title": "BUREAU CHIEF (LAW)",
+    "grade": "37",
+    "spec": 6164.0
+  },
+  {
+    "title": "BUREAU DIRECTOR OF SOCIAL SERVICES",
+    "grade": "32",
+    "spec": 3028.0
+  },
+  {
+    "title": "BUS TRANSPORTATION TECHNICIAN",
+    "grade": "14",
+    "spec": 1641.0
+  },
+  {
+    "title": "BUSINESS INTELLIGENCE APPLICATIONS ANALYST",
+    "grade": "24",
+    "spec": 777.0
+  },
+  {
+    "title": "BUSINESS INTELLIGENCE SYSTEMS DEVELOPER",
+    "grade": "24",
+    "spec": 778.0
+  },
+  {
+    "title": "CALL CENTER  REPRESENTATIVE",
+    "grade": "11",
+    "spec": 101.0
+  },
+  {
+    "title": "CALL CENTER MANAGER",
+    "grade": "21",
+    "spec": 103.0
+  },
+  {
+    "title": "CALL CENTER REPRESENTATIVE",
+    "grade": "UNG",
+    "spec": 101.0
+  },
+  {
+    "title": "CALL CENTER REPRESENTATIVE II",
+    "grade": "14",
+    "spec": 99.0
+  },
+  {
+    "title": "CAMPUS ASSISTANT DEAN FOR ADADEMIC AFFAIRS",
+    "grade": "UNG",
+    "spec": 9189.0
+  },
+  {
+    "title": "CAMPUS ASSISTANT DIRECTOR OF ADMISSIONS",
+    "grade": "UNG",
+    "spec": 9143.0
+  },
+  {
+    "title": "CAMPUS ASSISTANT DIRECTOR OF FINANCIAL AID",
+    "grade": "UNG",
+    "spec": 9163.0
+  },
+  {
+    "title": "CAMPUS ASSOCIATE DEAN FOR ACADEMIC AFFAIRS",
+    "grade": "UNG",
+    "spec": 9092.0
+  },
+  {
+    "title": "CAMPUS ASSOCIATE DEAN OF STUDENTS",
+    "grade": "UNG",
+    "spec": 9186.0
+  },
+  {
+    "title": "CAMPUS COORDINATOR FOR MULTICULTURAL AFFAIRS",
+    "grade": "UNG",
+    "spec": 9167.0
+  },
+  {
+    "title": "CAMPUS COORDINATOR OF PROGRAMS AND FACILITIES",
+    "grade": "UNG",
+    "spec": 9158.0
+  },
+  {
+    "title": "CAMPUS DEAN OF INSTRUCTION",
+    "grade": "UNG",
+    "spec": 9183.0
+  },
+  {
+    "title": "CAMPUS DIRECTOR OF COUNSELING/STUDENT SUCCESS",
+    "grade": "UNG",
+    "spec": 9118.0
+  },
+  {
+    "title": "CAMPUS DIRECTOR OF DINING SERVICES AND BAKER'S WORKSHOP",
+    "grade": "UNG",
+    "spec": 9196.0
+  },
+  {
+    "title": "CAMPUS DIRECTOR OF ENROLLMENT SERVICES",
+    "grade": "UNG",
+    "spec": 9149.0
+  },
+  {
+    "title": "CAMPUS DIRECTOR OF FINANCIAL AID",
+    "grade": "UNG",
+    "spec": 9165.0
+  },
+  {
+    "title": "CAMPUS LABOR CREW LEADER",
+    "grade": "18",
+    "spec": 7299.0
+  },
+  {
+    "title": "CAPTAIN (POLICE)",
+    "grade": "UNG",
+    "spec": 5005.0
+  },
+  {
+    "title": "CAREER COUTURE ADVISOR",
+    "grade": "17",
+    "spec": 3774.0
+  },
+  {
+    "title": "CARTOGRAPHER",
+    "grade": "26",
+    "spec": 1137.0
+  },
+  {
+    "title": "CARTOGRAPHER (PLANNING)",
+    "grade": "30",
+    "spec": 1522.0
+  },
+  {
+    "title": "CASEWORK ASSISTANT",
+    "grade": "14",
+    "spec": 3000.0
+  },
+  {
+    "title": "CASEWORK ASSISTANT (SPANISH SPEAKING)",
+    "grade": "14",
+    "spec": 3001.0
+  },
+  {
+    "title": "CASEWORK SUPERVISOR",
+    "grade": "27",
+    "spec": 3007.0
+  },
+  {
+    "title": "CASEWORKER",
+    "grade": "23-2",
+    "spec": 3005.0
+  },
+  {
+    "title": "CASEWORKER (SPANISH SPEAKING)",
+    "grade": "23-2",
+    "spec": 3004.0
+  },
+  {
+    "title": "CASEWORKER TRAINEE",
+    "grade": "20-3",
+    "spec": 3002.0
+  },
+  {
+    "title": "CASEWORKER TRAINEE (SPANISH SPEAKING)",
+    "grade": "20-3",
+    "spec": 3003.0
+  },
+  {
+    "title": "CASEWORKER TRAINEE (SPANISH SPEAKING)- HELP PROGRAM",
+    "grade": "20-3",
+    "spec": 9002.0
+  },
+  {
+    "title": "CASEWORKER TRAINEE- HELP PROGRAM",
+    "grade": "20-3",
+    "spec": 9001.0
+  },
+  {
+    "title": "CASHIER",
+    "grade": "UNG",
+    "spec": 201.0
+  },
+  {
+    "title": "CASHIER",
+    "grade": "08",
+    "spec": 201.0
+  },
+  {
+    "title": "CASHIER (SPANISH SPEAKING)",
+    "grade": "08",
+    "spec": 209.0
+  },
+  {
+    "title": "CATEGORY MANAGEMENT COORDINATOR (PROCUREMENT)",
+    "grade": "31",
+    "spec": 362.0
+  },
+  {
+    "title": "CERTIFICATIONS MANAGER",
+    "grade": "27",
+    "spec": 412.0
+  },
+  {
+    "title": "CERTIFICATIONS SUPERVISOR",
+    "grade": "21",
+    "spec": 413.0
+  },
+  {
+    "title": "CHAIRMAN",
+    "grade": "UNG",
+    "spec": 9203.0
+  },
+  {
+    "title": "CHEMIST I (ENVIRONMENTAL CONTROL)",
+    "grade": "21",
+    "spec": 2250.0
+  },
+  {
+    "title": "CHEMIST I (PUBLIC HEALTH)",
+    "grade": "21",
+    "spec": 2252.0
+  },
+  {
+    "title": "CHEMIST I (PUBLIC WORKS)",
+    "grade": "19",
+    "spec": 2254.0
+  },
+  {
+    "title": "CHEMIST II (ENVIRONMENTAL CONTROL)",
+    "grade": "24",
+    "spec": 2251.0
+  },
+  {
+    "title": "CHEMIST II (PUBLIC HEALTH)",
+    "grade": "24",
+    "spec": 2253.0
+  },
+  {
+    "title": "CHEMIST II (PUBLIC WORKS)",
+    "grade": "22",
+    "spec": 2255.0
+  },
+  {
+    "title": "CHEMIST III",
+    "grade": "28",
+    "spec": 2258.0
+  },
+  {
+    "title": "CHEMIST III (PUBLIC WORKS)",
+    "grade": "26",
+    "spec": 2257.0
+  },
+  {
+    "title": "CHEMIST IV",
+    "grade": "30",
+    "spec": 2259.0
+  },
+  {
+    "title": "CHIEF - PUBLIC AND ENVIRONMENTAL HEALTH LABORATORY",
+    "grade": "33",
+    "spec": 2230.0
+  },
+  {
+    "title": "CHIEF ACCOUNTANT",
+    "grade": "32",
+    "spec": 224.0
+  },
+  {
+    "title": "CHIEF ARTHROPOD-BORNE DISEASE LABORATORY",
+    "grade": "33",
+    "spec": 2223.0
+  },
+  {
+    "title": "CHIEF ASSISTANT DISTRICT ATTORNEY",
+    "grade": "UNG",
+    "spec": 6114.0
+  },
+  {
+    "title": "CHIEF AUDITOR",
+    "grade": "32",
+    "spec": 234.0
+  },
+  {
+    "title": "CHIEF BUDGET EXAMINER",
+    "grade": "31",
+    "spec": 244.0
+  },
+  {
+    "title": "CHIEF BUSINESS DEVELOPMENT AND INNOVATION OFFICER",
+    "grade": "32",
+    "spec": 9328.0
+  },
+  {
+    "title": "CHIEF BUSINESS INTELLIGENCE APPLICATIONS ANALYST",
+    "grade": "33",
+    "spec": 776.0
+  },
+  {
+    "title": "CHIEF COMMUNITY DEVELOPMENT AND PLANNING SPECIALIST",
+    "grade": "33",
+    "spec": 1598.0
+  },
+  {
+    "title": "CHIEF COUNTY FIRE MARSHAL",
+    "grade": "29",
+    "spec": 5124.0
+  },
+  {
+    "title": "CHIEF CRIME LABORATORY",
+    "grade": "33",
+    "spec": 2290.0
+  },
+  {
+    "title": "CHIEF DEPUTY CLERK OF THE COUNTY LEGISLATURE",
+    "grade": "27",
+    "spec": 9824.0
+  },
+  {
+    "title": "CHIEF DEPUTY COMMISSIONER OF ECONOMIC DEVELOPMENT AND PLANNING",
+    "grade": "38",
+    "spec": 9324.0
+  },
+  {
+    "title": "CHIEF DEPUTY COMMISSIONER OF LABOR, LICENSING AND CONSUMER AFFAIRS",
+    "grade": "36",
+    "spec": 9356.0
+  },
+  {
+    "title": "CHIEF DEPUTY COMMISSIONER OF PARKS, RECREATION AND CONSERVATION",
+    "grade": "39",
+    "spec": 9367.0
+  },
+  {
+    "title": "CHIEF DEPUTY COMMISSIONER OF PUBLIC WORKS",
+    "grade": "40",
+    "spec": 9393.0
+  },
+  {
+    "title": "CHIEF DEPUTY COMMISSIONER OF SOCIAL SERVICES",
+    "grade": "40",
+    "spec": 9410.0
+  },
+  {
+    "title": "CHIEF DEPUTY COUNTY ATTORNEY",
+    "grade": "40",
+    "spec": 6108.0
+  },
+  {
+    "title": "CHIEF DEPUTY COUNTY CLERK",
+    "grade": "43",
+    "spec": 9321.0
+  },
+  {
+    "title": "CHIEF DEPUTY COUNTY COMPTROLLER",
+    "grade": "40",
+    "spec": 9303.0
+  },
+  {
+    "title": "CHIEF DEPUTY COUNTY EXECUTIVE",
+    "grade": "45",
+    "spec": 9694.0
+  },
+  {
+    "title": "CHIEF DEPUTY COUNTY TREASURER",
+    "grade": "38",
+    "spec": 9342.0
+  },
+  {
+    "title": "CHIEF DEPUTY SHERIFF",
+    "grade": "UNG",
+    "spec": 5541.0
+  },
+  {
+    "title": "CHIEF DETECTIVE INVESTIGATOR",
+    "grade": "UNG",
+    "spec": 5734.0
+  },
+  {
+    "title": "CHIEF DIVERSITY AND INCLUSION OFFICER",
+    "grade": "33",
+    "spec": 455.0
+  },
+  {
+    "title": "CHIEF DIVISION ADMINISTRATOR OF SOCIAL SERVICES",
+    "grade": "38",
+    "spec": 3310.0
+  },
+  {
+    "title": "CHIEF ENGINE OPERATOR",
+    "grade": "24",
+    "spec": 7385.0
+  },
+  {
+    "title": "CHIEF ENGINEER (ENVIRONMENTAL CONTROL)",
+    "grade": "36",
+    "spec": 1320.0
+  },
+  {
+    "title": "CHIEF ENGINEER (FACILITIES)",
+    "grade": "36",
+    "spec": 1035.0
+  },
+  {
+    "title": "CHIEF ENGINEER (PUBLIC WORKS)",
+    "grade": "36",
+    "spec": 1027.0
+  },
+  {
+    "title": "CHIEF ENGINEER (SANITATION)",
+    "grade": "36",
+    "spec": 7675.0
+  },
+  {
+    "title": "CHIEF ENVIRONMENTAL ANALYST",
+    "grade": "33",
+    "spec": 1224.0
+  },
+  {
+    "title": "CHIEF EXECUTIVE ANALYST",
+    "grade": "36",
+    "spec": 786.0
+  },
+  {
+    "title": "CHIEF FINANCIAL ANALYST",
+    "grade": "31",
+    "spec": 210.0
+  },
+  {
+    "title": "CHIEF HUMAN RESOURCES ANALYST",
+    "grade": "33",
+    "spec": 452.0
+  },
+  {
+    "title": "CHIEF INSPECTOR",
+    "grade": "UNG",
+    "spec": 5024.0
+  },
+  {
+    "title": "CHIEF LEGISLATIVE ANALYST",
+    "grade": "31",
+    "spec": 774.0
+  },
+  {
+    "title": "CHIEF MANAGEMENT ANALYST",
+    "grade": "31",
+    "spec": 734.0
+  },
+  {
+    "title": "CHIEF MEDICAL EXAMINER",
+    "grade": "UNG",
+    "spec": 9536.0
+  },
+  {
+    "title": "CHIEF OF CLASSIFICATION",
+    "grade": "36",
+    "spec": 405.0
+  },
+  {
+    "title": "CHIEF OF DIVISION",
+    "grade": "UNG",
+    "spec": 5027.0
+  },
+  {
+    "title": "CHIEF OF EXAMINATIONS",
+    "grade": "33",
+    "spec": 419.0
+  },
+  {
+    "title": "CHIEF OF FIRE RESCUE SERVICES",
+    "grade": "30",
+    "spec": 5129.0
+  },
+  {
+    "title": "CHIEF OF STAFF (SHERIFF)",
+    "grade": "UNG",
+    "spec": 5543.0
+  },
+  {
+    "title": "CHIEF PERSONNEL ANALYST (CLASSIFICATION)",
+    "grade": "33",
+    "spec": 406.0
+  },
+  {
+    "title": "CHIEF PLANNER",
+    "grade": "34",
+    "spec": 1515.0
+  },
+  {
+    "title": "CHIEF PLANNER (CRIMINAL JUSTICE)",
+    "grade": "32",
+    "spec": 1545.0
+  },
+  {
+    "title": "CHIEF PLANNER (HUMAN SERVICES)",
+    "grade": "35",
+    "spec": 1565.0
+  },
+  {
+    "title": "CHIEF PLANNER (TRANSPORTATION)",
+    "grade": "31",
+    "spec": 1624.0
+  },
+  {
+    "title": "CHIEF PROCUREMENT OFFICER",
+    "grade": "36",
+    "spec": 364.0
+  },
+  {
+    "title": "CHIEF PROGRAM EXAMINER",
+    "grade": "33",
+    "spec": 249.0
+  },
+  {
+    "title": "CHIEF PUBLIC HEALTH ENGINEER",
+    "grade": "36",
+    "spec": 2136.0
+  },
+  {
+    "title": "CHIEF PUBLIC HEALTH SANITARIAN",
+    "grade": "34",
+    "spec": 2115.0
+  },
+  {
+    "title": "CHIEF PURCHASING AGENT",
+    "grade": "31",
+    "spec": 349.0
+  },
+  {
+    "title": "CHIEF REAL PROPERTY TAX MAP",
+    "grade": "31",
+    "spec": 618.0
+  },
+  {
+    "title": "CHIEF-TOXICOLOGY LABORATORY",
+    "grade": "33",
+    "spec": 2835.0
+  },
+  {
+    "title": "CHILD ABUSE PROSECUTION ASSISTANT",
+    "grade": "19",
+    "spec": 6145.0
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST I",
+    "grade": "17",
+    "spec": 3057.0
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST I (SPANISH SPEAKING)",
+    "grade": "17",
+    "spec": 3056.0
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST II",
+    "grade": "20",
+    "spec": 3058.0
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST III",
+    "grade": "23",
+    "spec": 3059.0
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST IV",
+    "grade": "26",
+    "spec": 3060.0
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST TRAINEE",
+    "grade": "15",
+    "spec": 3061.0
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST TRAINEE (SPANISH SPEAKING)",
+    "grade": "15",
+    "spec": 3062.0
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST TRAINEE (SPANISH SPEAKING)- HELP PROGRAM",
+    "grade": "15",
+    "spec": 9004.0
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST TRAINEE- HELP PROGRAM",
+    "grade": "15",
+    "spec": 9003.0
+  },
+  {
+    "title": "CIVIL ENGINEER",
+    "grade": "26",
+    "spec": 1014.0
+  },
+  {
+    "title": "CIVIL SERVICE INVESTIGATOR",
+    "grade": "17",
+    "spec": 5760.0
+  },
+  {
+    "title": "CLERK",
+    "grade": "09",
+    "spec": 11.0
+  },
+  {
+    "title": "CLERK",
+    "grade": "UNG",
+    "spec": 11.0
+  },
+  {
+    "title": "CLERK OF THE COUNTY LEGISLATURE",
+    "grade": "34",
+    "spec": 9826.0
+  },
+  {
+    "title": "CLERK OF THE WORKS",
+    "grade": "23",
+    "spec": 1051.0
+  },
+  {
+    "title": "CLINIC ADMINISTRATOR",
+    "grade": "27",
+    "spec": 2655.0
+  },
+  {
+    "title": "CLINIC AIDE",
+    "grade": "06",
+    "spec": 2601.0
+  },
+  {
+    "title": "CLINIC COORDINATOR (DRUG ABUSE)",
+    "grade": "25",
+    "spec": 2654.0
+  },
+  {
+    "title": "CLINIC MANAGER (DRUG ABUSE)",
+    "grade": "24",
+    "spec": 2652.0
+  },
+  {
+    "title": "CLINIC MEDICAL DIRECTOR",
+    "grade": "38",
+    "spec": 2457.0
+  },
+  {
+    "title": "CLINIC SUPERVISOR (DRUG ABUSE)",
+    "grade": "20",
+    "spec": 2651.0
+  },
+  {
+    "title": "CLINICAL LABORATORY TECHNICIAN",
+    "grade": "16",
+    "spec": 2205.0
+  },
+  {
+    "title": "CLINICAL LABORATORY TECHNICIAN",
+    "grade": "UNG",
+    "spec": 2205.0
+  },
+  {
+    "title": "CLINICAL NURSE PRACTITIONER",
+    "grade": "29",
+    "spec": 2041.0
+  },
+  {
+    "title": "CLINICAL PSYCHOLOGIST",
+    "grade": "25",
+    "spec": 2521.0
+  },
+  {
+    "title": "CLINICAL SERVICES ADMINISTRATOR",
+    "grade": "30",
+    "spec": 2037.0
+  },
+  {
+    "title": "COLLEGE ASSISTANT DEAN FOR CORPORATE TRAINING AND COOPERATIVE EDUCATION",
+    "grade": "UNG",
+    "spec": 9131.0
+  },
+  {
+    "title": "COLLEGE ASSISTANT DEAN FOR FACULTY PROFESSIONAL ADVANCEMENT",
+    "grade": "UNG",
+    "spec": 9195.0
+  },
+  {
+    "title": "COLLEGE ASSISTANT DEAN OF GRANTS DEVELOPMENT",
+    "grade": "UNG",
+    "spec": 9171.0
+  },
+  {
+    "title": "COLLEGE ASSISTANT DIRECTOR FOR EDUCATIONAL OPPORTUNITY PROGRAM",
+    "grade": "UNG",
+    "spec": 9093.0
+  },
+  {
+    "title": "COLLEGE ASSISTANT DIRECTOR OF PUBLIC SAFETY AND ENVIRONMENTAL HEALTH",
+    "grade": "UNG",
+    "spec": 9180.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR ACADEMIC AFFAIRS",
+    "grade": "UNG",
+    "spec": 9082.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR ACCREDITATION AND INSTITUTIONAL ASSESSMENT",
+    "grade": "UNG",
+    "spec": 9096.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR ASSESSMENTS IN ACADEMIC AND STUDENT AFFAIRS",
+    "grade": "UNG",
+    "spec": 9187.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR COMPUTER AND INFORMATION SYSTEMS",
+    "grade": "UNG",
+    "spec": 9144.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR CURRICULUM DEVELOPMENT",
+    "grade": "UNG",
+    "spec": 9133.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR EDUCATIONAL RESOURCES",
+    "grade": "UNG",
+    "spec": 9080.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR EDUCATIONAL RESOURCES (RIVERHEAD CENTER)",
+    "grade": "UNG",
+    "spec": 9150.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR FACULTY PROFESSIONAL ADVANCEMENT",
+    "grade": "UNG",
+    "spec": 9168.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR GENERAL EDUCATION",
+    "grade": "UNG",
+    "spec": 9081.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR INSTITUTIONAL ADVANCEMENT",
+    "grade": "UNG",
+    "spec": 9085.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR INSTITUTIONAL EFFECTIVENESS",
+    "grade": "UNG",
+    "spec": 9083.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR INSTRUCTIONAL TECHNOLOGY",
+    "grade": "UNG",
+    "spec": 9120.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR LIBRARY AND LEARNING RESOURCES",
+    "grade": "UNG",
+    "spec": 9088.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR NURSING",
+    "grade": "UNG",
+    "spec": 9086.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR PLANNING AND COLLEGE MASTER SCHEDULING",
+    "grade": "UNG",
+    "spec": 9177.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR STUDENT SUCCESS",
+    "grade": "UNG",
+    "spec": 9184.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN FOR TRANSITIONAL ESL PROGRAMS",
+    "grade": "UNG",
+    "spec": 9087.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN OF CONTINUING EDUCATION",
+    "grade": "UNG",
+    "spec": 9116.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN OF SPONSORED PROGRAMS",
+    "grade": "UNG",
+    "spec": 9148.0
+  },
+  {
+    "title": "COLLEGE ASSOCIATE DEAN OF STUDENTS",
+    "grade": "UNG",
+    "spec": 9172.0
+  },
+  {
+    "title": "COLLEGE COORDINATOR OF MULTICULTURAL AFFAIRS",
+    "grade": "UNG",
+    "spec": 9129.0
+  },
+  {
+    "title": "COLLEGE DIRECTOR FOR ACADEMIC AND COMMUNITY PARTNERSHIPS",
+    "grade": "UNG",
+    "spec": 9134.0
+  },
+  {
+    "title": "COLLEGE DIRECTOR FOR SPECIAL EVENTS AND PROGRAMS",
+    "grade": "UNG",
+    "spec": 9113.0
+  },
+  {
+    "title": "COLLEGE DIRECTOR OF DEVELOPMENT AND ALUMNI AFFAIRS",
+    "grade": "UNG",
+    "spec": 9170.0
+  },
+  {
+    "title": "COLLEGE DIRECTOR OF NETWORKING AND TELECOMMUNICATIONS",
+    "grade": "UNG",
+    "spec": 9122.0
+  },
+  {
+    "title": "COLLEGE DIRECTOR OF PAYROLL",
+    "grade": "31",
+    "spec": 9099.0
+  },
+  {
+    "title": "COLLEGE DIRECTOR OF THEATRE",
+    "grade": "UNG",
+    "spec": 9136.0
+  },
+  {
+    "title": "COLLEGE DIRECTOR/ENGLISH AS SECOND LANGUAGE",
+    "grade": "UNG",
+    "spec": 9110.0
+  },
+  {
+    "title": "COLLEGE PUBLIC SAFETY OFFICER I",
+    "grade": "13",
+    "spec": 7084.0
+  },
+  {
+    "title": "COLLEGE PUBLIC SAFETY OFFICER II",
+    "grade": "15",
+    "spec": 7085.0
+  },
+  {
+    "title": "COLLEGE PUBLIC SAFETY OFFICER III",
+    "grade": "17",
+    "spec": 7087.0
+  },
+  {
+    "title": "COLLEGE REGISTRAR",
+    "grade": "UNG",
+    "spec": 9138.0
+  },
+  {
+    "title": "COLLEGE SUCCESS PROGRAM DIRECTOR",
+    "grade": "UNG",
+    "spec": 9174.0
+  },
+  {
+    "title": "COLLEGE TRAINING COORDINATOR",
+    "grade": "UNG",
+    "spec": 9179.0
+  },
+  {
+    "title": "COLLEGE WAREHOUSE/MAIL SERVICES COORDINATOR",
+    "grade": "17",
+    "spec": 9078.0
+  },
+  {
+    "title": "COMMERCIAL PLAN REVIEW AND PERMIT ADMINISTRATOR",
+    "grade": "28",
+    "spec": 2127.0
+  },
+  {
+    "title": "COMMISSIONER OF CONSUMER AFFAIRS",
+    "grade": "36",
+    "spec": 9330.0
+  },
+  {
+    "title": "COMMISSIONER OF ECONOMIC DEVELOPMENT AND PLANNING",
+    "grade": "41",
+    "spec": 9325.0
+  },
+  {
+    "title": "COMMISSIONER OF ELECTIONS",
+    "grade": "UNG",
+    "spec": 9295.0
+  },
+  {
+    "title": "COMMISSIONER OF FIRE, RESCUE AND EMERGENCY SERVICES",
+    "grade": "39",
+    "spec": 9344.0
+  },
+  {
+    "title": "COMMISSIONER OF HEALTH SERVICES",
+    "grade": "42-7",
+    "spec": 9598.0
+  },
+  {
+    "title": "COMMISSIONER OF INFORMATION TECHNOLOGY",
+    "grade": "40",
+    "spec": 9650.0
+  },
+  {
+    "title": "COMMISSIONER OF LABOR, LICENSING AND CONSUMER AFFAIRS",
+    "grade": "40",
+    "spec": 9357.0
+  },
+  {
+    "title": "COMMISSIONER OF PARKS, RECREATION AND CONSERVATION",
+    "grade": "40",
+    "spec": 9368.0
+  },
+  {
+    "title": "COMMISSIONER OF POLICE",
+    "grade": "UNG",
+    "spec": 9381.0
+  },
+  {
+    "title": "COMMISSIONER OF PUBLIC WORKS",
+    "grade": "UNG",
+    "spec": 9394.0
+  },
+  {
+    "title": "COMMISSIONER OF SOCIAL SERVICES",
+    "grade": "41",
+    "spec": 9409.0
+  },
+  {
+    "title": "COMMUNICATIONS ANALYST I",
+    "grade": "22",
+    "spec": 180.0
+  },
+  {
+    "title": "COMMUNICATIONS ANALYST II",
+    "grade": "24",
+    "spec": 181.0
+  },
+  {
+    "title": "COMMUNICATIONS MECHANIC",
+    "grade": "16",
+    "spec": 7171.0
+  },
+  {
+    "title": "COMMUNICATIONS MECHANIC II",
+    "grade": "18",
+    "spec": 7172.0
+  },
+  {
+    "title": "COMMUNICATIONS SYSTEMS MANAGER",
+    "grade": "29",
+    "spec": 109.0
+  },
+  {
+    "title": "COMMUNICATIONS TECHNICIAN I",
+    "grade": "21",
+    "spec": 7173.0
+  },
+  {
+    "title": "COMMUNICATIONS TECHNICIAN II",
+    "grade": "23",
+    "spec": 7174.0
+  },
+  {
+    "title": "COMMUNICATIONS TECHNICIAN III",
+    "grade": "28",
+    "spec": 7175.0
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT AND PLANNING SPECIALIST",
+    "grade": "21",
+    "spec": 1594.0
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT DIRECTOR",
+    "grade": "31",
+    "spec": 1592.0
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT FISCAL MANAGER",
+    "grade": "21",
+    "spec": 1574.0
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT HOUSING ANALYST",
+    "grade": "24",
+    "spec": 1588.0
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT HOUSING TECHNICIAN",
+    "grade": "21",
+    "spec": 1589.0
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT PROGRAM ANALYST",
+    "grade": "24",
+    "spec": 1587.0
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT PROGRAM MANAGER",
+    "grade": "25",
+    "spec": 1586.0
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT PROGRAM TECHNICIAN",
+    "grade": "21",
+    "spec": 1585.0
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT PROJECT DIRECTOR",
+    "grade": "31",
+    "spec": 1582.0
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT SPECIALIST I",
+    "grade": "17",
+    "spec": 1572.0
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT SPECIALIST II",
+    "grade": "19",
+    "spec": 1573.0
+  },
+  {
+    "title": "COMMUNITY EMERGENCY EVACUATION COORDINATOR",
+    "grade": "23",
+    "spec": 5803.0
+  },
+  {
+    "title": "COMMUNITY ENGAGEMENT SPECIALIST",
+    "grade": "28",
+    "spec": 3681.0
+  },
+  {
+    "title": "COMMUNITY LIAISON OFFICER",
+    "grade": "24",
+    "spec": 3765.0
+  },
+  {
+    "title": "COMMUNITY ORGANIZATION SPECIALIST",
+    "grade": "25",
+    "spec": 3761.0
+  },
+  {
+    "title": "COMMUNITY RELATIONS ASSISTANT",
+    "grade": "17",
+    "spec": 3708.0
+  },
+  {
+    "title": "COMMUNITY RELATIONS DIRECTOR",
+    "grade": "25",
+    "spec": 987.0
+  },
+  {
+    "title": "COMMUNITY SERVICE AIDE",
+    "grade": "05",
+    "spec": 3701.0
+  },
+  {
+    "title": "COMMUNITY SERVICE WORKER",
+    "grade": "UNG",
+    "spec": 3080.0
+  },
+  {
+    "title": "COMMUNITY SERVICE WORKER",
+    "grade": "12",
+    "spec": 3080.0
+  },
+  {
+    "title": "COMMUNITY SERVICE WORKER (SPANISH SPEAKING)",
+    "grade": "12",
+    "spec": 3090.0
+  },
+  {
+    "title": "COMMUNITY SERVICES COORDINATOR",
+    "grade": "23",
+    "spec": 3050.0
+  },
+  {
+    "title": "COMPLAINT EVALUATION SPECIALIST",
+    "grade": "19",
+    "spec": 6144.0
+  },
+  {
+    "title": "COMPOSITE ARTIST",
+    "grade": "17",
+    "spec": 1129.0
+  },
+  {
+    "title": "COMPTROLLER",
+    "grade": "UNG",
+    "spec": 9304.0
+  },
+  {
+    "title": "COMPUTER FORENSICS ANALYST",
+    "grade": "24",
+    "spec": 502.0
+  },
+  {
+    "title": "COMPUTER GRAPHICS MAPPING SPECIALIST",
+    "grade": "20",
+    "spec": 1107.0
+  },
+  {
+    "title": "COMPUTER OPERATOR I",
+    "grade": "13",
+    "spec": 531.0
+  },
+  {
+    "title": "COMPUTER OPERATOR II",
+    "grade": "16",
+    "spec": 532.0
+  },
+  {
+    "title": "COMPUTER OPERATOR III",
+    "grade": "19",
+    "spec": 533.0
+  },
+  {
+    "title": "COMPUTER OPERATOR IV",
+    "grade": "23",
+    "spec": 534.0
+  },
+  {
+    "title": "COMPUTER PROGRAMMER",
+    "grade": "21",
+    "spec": 541.0
+  },
+  {
+    "title": "COMPUTER PROGRAMMER TRAINEE",
+    "grade": "17",
+    "spec": 540.0
+  },
+  {
+    "title": "COMPUTER PROGRAMMING SUPERVISOR",
+    "grade": "28",
+    "spec": 544.0
+  },
+  {
+    "title": "COMPUTER TECHNICIAN",
+    "grade": "13",
+    "spec": 519.0
+  },
+  {
+    "title": "CONSERVATOR",
+    "grade": "24",
+    "spec": 4188.0
+  },
+  {
+    "title": "CONSTRUCTION EQUIPMENT OPERATOR",
+    "grade": "16",
+    "spec": 7205.0
+  },
+  {
+    "title": "CONSUMER AFFAIRS EDUCATOR",
+    "grade": "18",
+    "spec": 5221.0
+  },
+  {
+    "title": "CONSUMER AFFAIRS SPECIALIST I",
+    "grade": "19",
+    "spec": 5241.0
+  },
+  {
+    "title": "CONSUMER AFFAIRS SPECIALIST I (SPANISH SPEAKING)",
+    "grade": "19",
+    "spec": 5243.0
+  },
+  {
+    "title": "CONSUMER AFFAIRS SPECIALIST II",
+    "grade": "23",
+    "spec": 5244.0
+  },
+  {
+    "title": "CONSUMER AFFAIRS SPECIALIST III",
+    "grade": "27",
+    "spec": 5245.0
+  },
+  {
+    "title": "CONSUMER AFFAIRS TECHNICIAN",
+    "grade": "17",
+    "spec": 5240.0
+  },
+  {
+    "title": "CONSUMER AFFAIRS TECHNICIAN (SPANISH SPEAKING)",
+    "grade": "17",
+    "spec": 5242.0
+  },
+  {
+    "title": "CONTRACT MANAGEMENT ANALYST",
+    "grade": "23",
+    "spec": 360.0
+  },
+  {
+    "title": "CONTRACTS EXAMINER",
+    "grade": "20",
+    "spec": 352.0
+  },
+  {
+    "title": "CONTRACTS MANAGEMENT COORDINATOR (PROCUREMENT)",
+    "grade": "30",
+    "spec": 361.0
+  },
+  {
+    "title": "CONTRACTS TECHNICIAN",
+    "grade": "15",
+    "spec": 351.0
+  },
+  {
+    "title": "COOK",
+    "grade": "12",
+    "spec": 8111.0
+  },
+  {
+    "title": "COORDINATOR OF ALCOHOLISM SERVICES",
+    "grade": "23",
+    "spec": 2731.0
+  },
+  {
+    "title": "COORDINATOR OF COMMUNITY BASED DRUG PROGRAMS",
+    "grade": "26",
+    "spec": 2735.0
+  },
+  {
+    "title": "COORDINATOR OF COMMUNITY BASED PROGRAMS",
+    "grade": "26",
+    "spec": 2738.0
+  },
+  {
+    "title": "COORDINATOR OF EMERGENCY MEDICAL SERVICES",
+    "grade": "28",
+    "spec": 2639.0
+  },
+  {
+    "title": "COORDINATOR OF GROUP CARE",
+    "grade": "25",
+    "spec": 3031.0
+  },
+  {
+    "title": "COORDINATOR OF SPECIAL EDUCATION",
+    "grade": "29",
+    "spec": 2633.0
+  },
+  {
+    "title": "COPY CAMERA OPERATOR I",
+    "grade": "12",
+    "spec": 1911.0
+  },
+  {
+    "title": "COPY CAMERA OPERATOR II",
+    "grade": "15",
+    "spec": 1912.0
+  },
+  {
+    "title": "CORPORATE TRAINER OF AUTOMOTIVE TECHNICIANS",
+    "grade": "UNG",
+    "spec": 9109.0
+  },
+  {
+    "title": "CORRECTION OFFICER I",
+    "grade": "UNG",
+    "spec": 5501.0
+  },
+  {
+    "title": "CORRECTION OFFICER I (INVESTIGATOR)",
+    "grade": "UNG",
+    "spec": 5511.0
+  },
+  {
+    "title": "CORRECTION OFFICER II",
+    "grade": "UNG",
+    "spec": 5502.0
+  },
+  {
+    "title": "CORRECTION OFFICER II (INVESTIGATOR)",
+    "grade": "UNG",
+    "spec": 5512.0
+  },
+  {
+    "title": "CORRECTION OFFICER III",
+    "grade": "UNG",
+    "spec": 5504.0
+  },
+  {
+    "title": "CORRECTION OFFICER III (INVESTIGATOR)",
+    "grade": "UNG",
+    "spec": 5513.0
+  },
+  {
+    "title": "CORRECTION OFFICER IV",
+    "grade": "UNG",
+    "spec": 5506.0
+  },
+  {
+    "title": "CORRECTION OFFICER IV (INVESTIGATOR)",
+    "grade": "UNG",
+    "spec": 5514.0
+  },
+  {
+    "title": "CORRECTIONAL HEALTH SERVICES COORDINATOR",
+    "grade": "35",
+    "spec": 2459.0
+  },
+  {
+    "title": "CORRECTIONS CLASSIFICATION AND DIAGNOSTIC SPECIALIST",
+    "grade": "27",
+    "spec": 2515.0
+  },
+  {
+    "title": "CORRECTIONS COORDINATOR DWI ALTERNATIVE",
+    "grade": "25",
+    "spec": 5515.0
+  },
+  {
+    "title": "COUNSEL TO THE LEGISLATURE",
+    "grade": "43",
+    "spec": 6166.0
+  },
+  {
+    "title": "COUNSELOR",
+    "grade": "UNG",
+    "spec": 9111.0
+  },
+  {
+    "title": "COUNTY ARCHITECT",
+    "grade": "36",
+    "spec": 1149.0
+  },
+  {
+    "title": "COUNTY ATTORNEY",
+    "grade": "UNG",
+    "spec": 9360.0
+  },
+  {
+    "title": "COUNTY CHIEF INFORMATION SECURITY OFFICER",
+    "grade": "40",
+    "spec": 9659.0
+  },
+  {
+    "title": "COUNTY CLERK",
+    "grade": "UNG",
+    "spec": 9322.0
+  },
+  {
+    "title": "COUNTY EXECUTIVE",
+    "grade": "UNG",
+    "spec": 9696.0
+  },
+  {
+    "title": "COUNTY EXECUTIVE ASSISTANT I",
+    "grade": "21",
+    "spec": 9660.0
+  },
+  {
+    "title": "COUNTY EXECUTIVE ASSISTANT II",
+    "grade": "23",
+    "spec": 9661.0
+  },
+  {
+    "title": "COUNTY EXECUTIVE ASSISTANT III",
+    "grade": "26",
+    "spec": 9662.0
+  },
+  {
+    "title": "COUNTY EXECUTIVE ASSISTANT IV",
+    "grade": "29",
+    "spec": 9663.0
+  },
+  {
+    "title": "COUNTY EXECUTIVE ASSISTANT V",
+    "grade": "31",
+    "spec": 9664.0
+  },
+  {
+    "title": "COUNTY LEGISLATOR",
+    "grade": "UNG",
+    "spec": 9852.0
+  },
+  {
+    "title": "COUNTY PARKS SUPERINTENDENT",
+    "grade": "28",
+    "spec": 4258.0
+  },
+  {
+    "title": "COUNTY PERSONNEL OFFICER",
+    "grade": "41",
+    "spec": 9370.0
+  },
+  {
+    "title": "COUNTY SAFETY OFFICER",
+    "grade": "28",
+    "spec": 5365.0
+  },
+  {
+    "title": "COUNTY TREASURER",
+    "grade": "UNG",
+    "spec": 9343.0
+  },
+  {
+    "title": "COURIER",
+    "grade": "12",
+    "spec": 7215.0
+  },
+  {
+    "title": "COURT RECORDS SUPERVISOR",
+    "grade": "19",
+    "spec": 645.0
+  },
+  {
+    "title": "COURT STENOGRAPHER",
+    "grade": "24",
+    "spec": 45.0
+  },
+  {
+    "title": "CRIME VICTIMS ADVOCATE",
+    "grade": "18",
+    "spec": 6148.0
+  },
+  {
+    "title": "CRIME VICTIMS ADVOCATE (SPANISH SPEAKING)",
+    "grade": "18",
+    "spec": 6150.0
+  },
+  {
+    "title": "CRIMINAL IDENTIFICATION TECHNICIAN",
+    "grade": "19",
+    "spec": 5701.0
+  },
+  {
+    "title": "CRIMINAL IDENTIFICATION TECHNICIAN TRAINEE",
+    "grade": "16",
+    "spec": 5700.0
+  },
+  {
+    "title": "CUSTODIAL AIDE",
+    "grade": "06",
+    "spec": 8050.0
+  },
+  {
+    "title": "CUSTODIAL WORKER I",
+    "grade": "10",
+    "spec": 8051.0
+  },
+  {
+    "title": "CUSTODIAL WORKER II",
+    "grade": "12",
+    "spec": 8052.0
+  },
+  {
+    "title": "CUSTODIAL WORKER III",
+    "grade": "17",
+    "spec": 8053.0
+  },
+  {
+    "title": "CYBER SECURITY ANALYST I",
+    "grade": "24",
+    "spec": 1815.0
+  },
+  {
+    "title": "CYBER SECURITY ANALYST II",
+    "grade": "27",
+    "spec": 1816.0
+  },
+  {
+    "title": "CYBER SECURITY ANALYST III",
+    "grade": "30",
+    "spec": 1817.0
+  },
+  {
+    "title": "CYBER SECURITY RISK MANAGER",
+    "grade": "38",
+    "spec": 954.0
+  },
+  {
+    "title": "DATA BASE COORDINATOR",
+    "grade": "22",
+    "spec": 516.0
+  },
+  {
+    "title": "DATA BASE COORDINATOR (WASTEWATER TREATMENT)",
+    "grade": "19",
+    "spec": 7466.0
+  },
+  {
+    "title": "DATA BASE MANAGER",
+    "grade": "29",
+    "spec": 518.0
+  },
+  {
+    "title": "DATA CONTROL SPECIALIST",
+    "grade": "23",
+    "spec": 576.0
+  },
+  {
+    "title": "DATA CONTROL SUPERVISOR",
+    "grade": "17",
+    "spec": 575.0
+  },
+  {
+    "title": "DATA ENTRY OPERATOR",
+    "grade": "UNG",
+    "spec": 507.0
+  },
+  {
+    "title": "DATA ENTRY OPERATOR",
+    "grade": "09",
+    "spec": 507.0
+  },
+  {
+    "title": "DATA ENTRY SUPERVISOR",
+    "grade": "19",
+    "spec": 517.0
+  },
+  {
+    "title": "DATA PROCESSING EQUIPMENT OPERATOR",
+    "grade": "10",
+    "spec": 511.0
+  },
+  {
+    "title": "DATA PROCESSING MANAGER",
+    "grade": "34",
+    "spec": 583.0
+  },
+  {
+    "title": "DATA PROCESSING OPERATIONS COORDINATOR",
+    "grade": "27",
+    "spec": 536.0
+  },
+  {
+    "title": "DATA PROCESSING SYSTEMS COORDINATOR",
+    "grade": "27",
+    "spec": 567.0
+  },
+  {
+    "title": "DEFERRED COMPENSATION PLAN ADMINISTRATOR",
+    "grade": "34",
+    "spec": 940.0
+  },
+  {
+    "title": "DENTAL ASSISTANT",
+    "grade": "08",
+    "spec": 2607.0
+  },
+  {
+    "title": "DENTAL DIRECTOR HEALTH SERVICES",
+    "grade": "35",
+    "spec": 2491.0
+  },
+  {
+    "title": "DENTAL HYGIENIST",
+    "grade": "18",
+    "spec": 2613.0
+  },
+  {
+    "title": "DENTAL SERVICE COORDINATOR",
+    "grade": "13",
+    "spec": 2609.0
+  },
+  {
+    "title": "DENTIST",
+    "grade": "26",
+    "spec": 2413.0
+  },
+  {
+    "title": "DENTIST",
+    "grade": "26",
+    "spec": 2413.0
+  },
+  {
+    "title": "DEPUTY BUDGET DIRECTOR",
+    "grade": "38",
+    "spec": 255.0
+  },
+  {
+    "title": "DEPUTY BUREAU CHIEF",
+    "grade": "40",
+    "spec": 6120.0
+  },
+  {
+    "title": "DEPUTY BUREAU CHIEF (LAW)",
+    "grade": "36",
+    "spec": 6165.0
+  },
+  {
+    "title": "DEPUTY CHIEF (POLICE)",
+    "grade": "UNG",
+    "spec": 5023.0
+  },
+  {
+    "title": "DEPUTY CHIEF DETECTIVE INVESTIGATOR",
+    "grade": "38",
+    "spec": 5735.0
+  },
+  {
+    "title": "DEPUTY CHIEF MEDICAL EXAMINER",
+    "grade": "UNG",
+    "spec": 9534.0
+  },
+  {
+    "title": "DEPUTY CLERK OF THE COUNTY LEGISLATURE",
+    "grade": "27",
+    "spec": 9822.0
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF ECONOMIC DEVELOPMENT AND PLANNING",
+    "grade": "36",
+    "spec": 9375.0
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF ELECTIONS",
+    "grade": "UNG",
+    "spec": 9293.0
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF FIRE, RESCUE AND EMERGENCY SERVICES",
+    "grade": "38",
+    "spec": 9345.0
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF HEALTH SERVICES",
+    "grade": "41",
+    "spec": 9596.0
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF HEALTH SERVICES (ADMINISTRATIVE SERVICES)",
+    "grade": "39",
+    "spec": 9595.0
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF INFORMATION TECHNOLOGY",
+    "grade": "37",
+    "spec": 9649.0
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF PARKS, RECREATION AND CONSERVATION",
+    "grade": "35",
+    "spec": 9366.0
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF POLICE",
+    "grade": "UNG",
+    "spec": 9379.0
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF PUBLIC WORKS (ADMINISTRATION)",
+    "grade": "39",
+    "spec": 9391.0
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF PUBLIC WORKS (ENGINEERING)",
+    "grade": "38",
+    "spec": 9392.0
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF SOCIAL SERVICES",
+    "grade": "39",
+    "spec": 9408.0
+  },
+  {
+    "title": "DEPUTY COUNTY ATTORNEY",
+    "grade": "39",
+    "spec": 6109.0
+  },
+  {
+    "title": "DEPUTY COUNTY CLERK",
+    "grade": "23",
+    "spec": 9319.0
+  },
+  {
+    "title": "DEPUTY COUNTY COMPTROLLER",
+    "grade": "37",
+    "spec": 9302.0
+  },
+  {
+    "title": "DEPUTY COUNTY EXECUTIVE ADMINISTRATION",
+    "grade": "41",
+    "spec": 9685.0
+  },
+  {
+    "title": "DEPUTY COUNTY EXECUTIVE FINANCIAL AFFAIRS",
+    "grade": "42",
+    "spec": 9686.0
+  },
+  {
+    "title": "DEPUTY COUNTY PERSONNEL OFFICER",
+    "grade": "39",
+    "spec": 9362.0
+  },
+  {
+    "title": "DEPUTY COUNTY TREASURER",
+    "grade": "31",
+    "spec": 9341.0
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF ALCOHOL AND SUBSTANCE ABUSE SERVICES",
+    "grade": "32",
+    "spec": 9557.0
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF BUDGET REVIEW",
+    "grade": "36",
+    "spec": 228.0
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF COMMUNITY MENTAL HEALTH SERVICES",
+    "grade": "34",
+    "spec": 9524.0
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF LABOR RELATIONS",
+    "grade": "30",
+    "spec": 935.0
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF PROBATION",
+    "grade": "36",
+    "spec": 9385.0
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF PROBATION",
+    "grade": "36",
+    "spec": 9385.0
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF PUBLIC HEALTH",
+    "grade": "38",
+    "spec": 9504.0
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF REAL PROPERTY TAX SERVICE",
+    "grade": "31",
+    "spec": 9400.0
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF TRAFFIC AND PARKING VIOLATIONS AGENCY",
+    "grade": "34",
+    "spec": 9424.0
+  },
+  {
+    "title": "DEPUTY INSPECTOR (POLICE)",
+    "grade": "UNG",
+    "spec": 5021.0
+  },
+  {
+    "title": "DEPUTY MEDICAL EXAMINER",
+    "grade": "UNG",
+    "spec": 2821.0
+  },
+  {
+    "title": "DEPUTY MEDICAL EXAMINER (PATHOLOGIST)",
+    "grade": "37-11",
+    "spec": 2824.0
+  },
+  {
+    "title": "DEPUTY PRESIDING OFFICER OF THE COUNTY LEGISLATURE",
+    "grade": "UNG",
+    "spec": 9863.0
+  },
+  {
+    "title": "DEPUTY PUBLIC ADMINISTRATOR",
+    "grade": "30",
+    "spec": 9388.0
+  },
+  {
+    "title": "DEPUTY SHERIFF I",
+    "grade": "UNG",
+    "spec": 5531.0
+  },
+  {
+    "title": "DEPUTY SHERIFF I (INVESTIGATOR)",
+    "grade": "UNG",
+    "spec": 5535.0
+  },
+  {
+    "title": "DEPUTY SHERIFF II",
+    "grade": "UNG",
+    "spec": 5532.0
+  },
+  {
+    "title": "DEPUTY SHERIFF II (INVESTIGATOR)",
+    "grade": "UNG",
+    "spec": 5536.0
+  },
+  {
+    "title": "DEPUTY SHERIFF III",
+    "grade": "UNG",
+    "spec": 5533.0
+  },
+  {
+    "title": "DEPUTY SHERIFF III (INVESTIGATOR)",
+    "grade": "UNG",
+    "spec": 5538.0
+  },
+  {
+    "title": "DEPUTY SHERIFF IV",
+    "grade": "UNG",
+    "spec": 5534.0
+  },
+  {
+    "title": "DEPUTY SHERIFF IV (INVESTIGATOR)",
+    "grade": "UNG",
+    "spec": 5539.0
+  },
+  {
+    "title": "DEPUTY UNDERSHERIFF",
+    "grade": "UNG",
+    "spec": 5545.0
+  },
+  {
+    "title": "DEPUTY WARDEN",
+    "grade": "DW05",
+    "spec": 5508.0
+  },
+  {
+    "title": "DEPUTY WARDEN INVESTIGATOR",
+    "grade": "UNG",
+    "spec": 5509.0
+  },
+  {
+    "title": "DETECTIVE (POLICE)",
+    "grade": "UNG",
+    "spec": 5010.0
+  },
+  {
+    "title": "DETECTIVE CAPTAIN (POLICE)",
+    "grade": "UNG",
+    "spec": 5013.0
+  },
+  {
+    "title": "DETECTIVE INVESTIGATOR",
+    "grade": "26",
+    "spec": 5731.0
+  },
+  {
+    "title": "DETECTIVE INVESTIGATOR (TECHNICAL SERVICES)",
+    "grade": "26",
+    "spec": 5730.0
+  },
+  {
+    "title": "DETECTIVE LIEUTENANT (POLICE)",
+    "grade": "UNG",
+    "spec": 5012.0
+  },
+  {
+    "title": "DETECTIVE SERGEANT (POLICE)",
+    "grade": "UNG",
+    "spec": 5011.0
+  },
+  {
+    "title": "DETENTION ATTENDANT",
+    "grade": "11",
+    "spec": 5056.0
+  },
+  {
+    "title": "DETENTION ATTENDANT",
+    "grade": "UNG",
+    "spec": 5056.0
+  },
+  {
+    "title": "DIETETIC TECHNICIAN",
+    "grade": "14",
+    "spec": 8125.0
+  },
+  {
+    "title": "DIETITIAN",
+    "grade": "19",
+    "spec": 8131.0
+  },
+  {
+    "title": "DIRECTOR - NURSING HOME",
+    "grade": "40",
+    "spec": 9510.0
+  },
+  {
+    "title": "DIRECTOR OF AFFORDABLE HOUSING",
+    "grade": "33",
+    "spec": 9397.0
+  },
+  {
+    "title": "DIRECTOR OF AGING",
+    "grade": "34",
+    "spec": 9655.0
+  },
+  {
+    "title": "DIRECTOR OF ASSET MANAGEMENT",
+    "grade": "36",
+    "spec": 689.0
+  },
+  {
+    "title": "DIRECTOR OF ATHLETICS",
+    "grade": "UNG",
+    "spec": 9162.0
+  },
+  {
+    "title": "DIRECTOR OF AUTOMOTIVE TECHNOLOGY",
+    "grade": "UNG",
+    "spec": 9152.0
+  },
+  {
+    "title": "DIRECTOR OF BUDGET REVIEW",
+    "grade": "40",
+    "spec": 250.0
+  },
+  {
+    "title": "DIRECTOR OF BUILDINGS, OPERATIONS AND MAINTENANCE",
+    "grade": "35",
+    "spec": 7512.0
+  },
+  {
+    "title": "DIRECTOR OF BUSINESS DEVELOPMENT AND INNOVATION",
+    "grade": "31",
+    "spec": 1599.0
+  },
+  {
+    "title": "DIRECTOR OF CAREER AND TRANSFER SERVICES",
+    "grade": "UNG",
+    "spec": 9137.0
+  },
+  {
+    "title": "DIRECTOR OF CLASSIFICATION",
+    "grade": "34",
+    "spec": 407.0
+  },
+  {
+    "title": "DIRECTOR OF COMMUNICATIONS",
+    "grade": "38",
+    "spec": 9657.0
+  },
+  {
+    "title": "DIRECTOR OF COMMUNITY MENTAL HYGIENE SERVICES",
+    "grade": "40",
+    "spec": 9527.0
+  },
+  {
+    "title": "DIRECTOR OF CONSTRUCTION",
+    "grade": "UNG",
+    "spec": 9091.0
+  },
+  {
+    "title": "DIRECTOR OF CONTINUOUS INNOVATION",
+    "grade": "35",
+    "spec": 739.0
+  },
+  {
+    "title": "DIRECTOR OF COUNSELING AND SPECIAL SERVICES",
+    "grade": "UNG",
+    "spec": 9160.0
+  },
+  {
+    "title": "DIRECTOR OF COUNTY FLEET SERVICES",
+    "grade": "35",
+    "spec": 7200.0
+  },
+  {
+    "title": "DIRECTOR OF CUSTODIAL AND SECURITY SERVICES",
+    "grade": "28",
+    "spec": 7538.0
+  },
+  {
+    "title": "DIRECTOR OF DEPARTMENT POLICY AND PROCEDURES UNIT",
+    "grade": "29",
+    "spec": 3040.0
+  },
+  {
+    "title": "DIRECTOR OF EDUCATIONAL OPPORTUNITY PROGRAM",
+    "grade": "UNG",
+    "spec": 9185.0
+  },
+  {
+    "title": "DIRECTOR OF EMERGENCY PREPAREDNESS",
+    "grade": "29",
+    "spec": 9317.0
+  },
+  {
+    "title": "DIRECTOR OF ENROLLMENT INFORMATION",
+    "grade": "UNG",
+    "spec": 9193.0
+  },
+  {
+    "title": "DIRECTOR OF ENVIRONMENTAL QUALITY",
+    "grade": "40",
+    "spec": 9500.0
+  },
+  {
+    "title": "DIRECTOR OF EXAMINATIONS",
+    "grade": "31",
+    "spec": 409.0
+  },
+  {
+    "title": "DIRECTOR OF EXTERNAL AFFAIRS AND STRATEGIC PARTNERSHIPS",
+    "grade": "UNG",
+    "spec": 9128.0
+  },
+  {
+    "title": "DIRECTOR OF FINANCIAL AID",
+    "grade": "UNG",
+    "spec": 9164.0
+  },
+  {
+    "title": "DIRECTOR OF FIRE TRAINING",
+    "grade": "29",
+    "spec": 5310.0
+  },
+  {
+    "title": "DIRECTOR OF GENERAL AND ADULT SERVICES",
+    "grade": "29",
+    "spec": 3055.0
+  },
+  {
+    "title": "DIRECTOR OF HIGHWAY AND FLEET MAINTENANCE",
+    "grade": "34",
+    "spec": 7230.0
+  },
+  {
+    "title": "DIRECTOR OF HIGHWAY CONSTRUCTION",
+    "grade": "34",
+    "spec": 7330.0
+  },
+  {
+    "title": "DIRECTOR OF HISTORIC SERVICES",
+    "grade": "25",
+    "spec": 4263.0
+  },
+  {
+    "title": "DIRECTOR OF HOUSEKEEPING - SKILLED NURSING FACILITY",
+    "grade": "21",
+    "spec": 8022.0
+  },
+  {
+    "title": "DIRECTOR OF HUMAN RESOURCES",
+    "grade": "38",
+    "spec": 450.0
+  },
+  {
+    "title": "DIRECTOR OF HUMAN RIGHTS",
+    "grade": "35",
+    "spec": 9352.0
+  },
+  {
+    "title": "DIRECTOR OF INFORMATION MANAGEMENT",
+    "grade": "35",
+    "spec": 580.0
+  },
+  {
+    "title": "DIRECTOR OF INSTRUCTIONAL SUPPORT SERVICES",
+    "grade": "UNG",
+    "spec": 9198.0
+  },
+  {
+    "title": "DIRECTOR OF JUVENILE AND ADOLESCENT CONFINEMENT",
+    "grade": "34",
+    "spec": 9384.0
+  },
+  {
+    "title": "DIRECTOR OF LABOR RELATIONS",
+    "grade": "41",
+    "spec": 936.0
+  },
+  {
+    "title": "DIRECTOR OF LABORATORIES",
+    "grade": "36",
+    "spec": 2450.0
+  },
+  {
+    "title": "DIRECTOR OF MAINTENANCE (WASTEWATER TREATMENT)",
+    "grade": "27",
+    "spec": 7667.0
+  },
+  {
+    "title": "DIRECTOR OF MANAGEMENT AND RESEARCH",
+    "grade": "36",
+    "spec": 735.0
+  },
+  {
+    "title": "DIRECTOR OF MANAGEMENT INFORMATION SERVICES",
+    "grade": "36",
+    "spec": 584.0
+  },
+  {
+    "title": "DIRECTOR OF MATERIALS TESTING",
+    "grade": "34",
+    "spec": 1020.0
+  },
+  {
+    "title": "DIRECTOR OF MATERNAL AND CHILD HEALTH",
+    "grade": "38",
+    "spec": 2441.0
+  },
+  {
+    "title": "DIRECTOR OF MEDICAL ASSISTANCE-QUALITY REVIEW",
+    "grade": "29",
+    "spec": 3312.0
+  },
+  {
+    "title": "DIRECTOR OF MEDICAL SUPPORT SERVICES",
+    "grade": "30",
+    "spec": 2239.0
+  },
+  {
+    "title": "DIRECTOR OF MUNICIPAL HEALTH PLAN",
+    "grade": "36",
+    "spec": 944.0
+  },
+  {
+    "title": "DIRECTOR OF NATURAL RESOURCE MANAGEMENT",
+    "grade": "25",
+    "spec": 4261.0
+  },
+  {
+    "title": "DIRECTOR OF OFFICE FOR PEOPLE WITH DISABILITIES",
+    "grade": "30",
+    "spec": 2902.0
+  },
+  {
+    "title": "DIRECTOR OF OPERATIONS (SEWER DISTRICT)",
+    "grade": "27",
+    "spec": 7656.0
+  },
+  {
+    "title": "DIRECTOR OF OPERATIONS AND MAINTENANCE (SEWER DISTRICT)",
+    "grade": "33",
+    "spec": 7652.0
+  },
+  {
+    "title": "DIRECTOR OF OPTICAL IMAGING",
+    "grade": "37",
+    "spec": 768.0
+  },
+  {
+    "title": "DIRECTOR OF PATIENT CARE SERVICES",
+    "grade": "40",
+    "spec": 9516.0
+  },
+  {
+    "title": "DIRECTOR OF PAYROLL SERVICES",
+    "grade": "29",
+    "spec": 447.0
+  },
+  {
+    "title": "DIRECTOR OF PERFORMANCE MANAGEMENT",
+    "grade": "37",
+    "spec": 9680.0
+  },
+  {
+    "title": "DIRECTOR OF PREVENTION, EDUCATION AND TRAINING",
+    "grade": "28",
+    "spec": 2739.0
+  },
+  {
+    "title": "DIRECTOR OF PROBATION",
+    "grade": "39",
+    "spec": 9386.0
+  },
+  {
+    "title": "DIRECTOR OF PROGRAM EVALUATION",
+    "grade": "34",
+    "spec": 750.0
+  },
+  {
+    "title": "DIRECTOR OF PUBLIC HEALTH",
+    "grade": "40",
+    "spec": 9506.0
+  },
+  {
+    "title": "DIRECTOR OF PUBLICATIONS",
+    "grade": "UNG",
+    "spec": 9135.0
+  },
+  {
+    "title": "DIRECTOR OF REAL ESTATE",
+    "grade": "37",
+    "spec": 9401.0
+  },
+  {
+    "title": "DIRECTOR OF REAL PROPERTY TAX SERVICE",
+    "grade": "36",
+    "spec": 9402.0
+  },
+  {
+    "title": "DIRECTOR OF RISK MANAGEMENT",
+    "grade": "34",
+    "spec": 929.0
+  },
+  {
+    "title": "DIRECTOR OF SECURITY AND FIRE SAFETY",
+    "grade": "UNG",
+    "spec": 9154.0
+  },
+  {
+    "title": "DIRECTOR OF SERVICES TO CHILDREN AND THEIR FAMILIES",
+    "grade": "29",
+    "spec": 3045.0
+  },
+  {
+    "title": "DIRECTOR OF SERVICES TO CHILDREN WITH SPECIAL NEEDS",
+    "grade": "32",
+    "spec": 2632.0
+  },
+  {
+    "title": "DIRECTOR OF SEWER DISTRICT ACTIVATION",
+    "grade": "31",
+    "spec": 7671.0
+  },
+  {
+    "title": "DIRECTOR OF SPORTS AND RECREATION",
+    "grade": "26",
+    "spec": 4030.0
+  },
+  {
+    "title": "DIRECTOR OF STUDENT ACTIVITIES",
+    "grade": "UNG",
+    "spec": 9147.0
+  },
+  {
+    "title": "DIRECTOR OF TELECOMMUNICATIONS",
+    "grade": "31",
+    "spec": 185.0
+  },
+  {
+    "title": "DIRECTOR OF THE CULINARY ARTS PROGRAM",
+    "grade": "UNG",
+    "spec": 9159.0
+  },
+  {
+    "title": "DIRECTOR OF TRAFFIC SAFETY",
+    "grade": "34",
+    "spec": 9412.0
+  },
+  {
+    "title": "DIRECTOR OF TRANSPORTATION OPERATIONS",
+    "grade": "34",
+    "spec": 1622.0
+  },
+  {
+    "title": "DIRECTOR OF VETERANS SERVICE AGENCY",
+    "grade": "30",
+    "spec": 9421.0
+  },
+  {
+    "title": "DIRECTOR OF WEIGHTS AND MEASURES",
+    "grade": "32",
+    "spec": 5260.0
+  },
+  {
+    "title": "DIRECTOR OF WOMEN'S SERVICES",
+    "grade": "30",
+    "spec": 3775.0
+  },
+  {
+    "title": "DIRECTOR OF YOUTH BUREAU",
+    "grade": "30",
+    "spec": 3757.0
+  },
+  {
+    "title": "DISABILITIES SERVICE AIDE",
+    "grade": "10",
+    "spec": 2906.0
+  },
+  {
+    "title": "DISCOVERY EXPEDITOR",
+    "grade": "17",
+    "spec": 6137.0
+  },
+  {
+    "title": "DISTRICT ATTORNEY",
+    "grade": "UNG",
+    "spec": 9333.0
+  },
+  {
+    "title": "DISTRICT ATTORNEY INVESTIGATOR",
+    "grade": "21",
+    "spec": 5728.0
+  },
+  {
+    "title": "DISTRICT ATTORNEY OPERATIONS AIDE",
+    "grade": "11",
+    "spec": 5720.0
+  },
+  {
+    "title": "DISTRICT MANAGER (SOIL AND WATER)",
+    "grade": "33",
+    "spec": 9431.0
+  },
+  {
+    "title": "DIVER",
+    "grade": "23",
+    "spec": 7243.0
+  },
+  {
+    "title": "DIVISION ADMINISTRATOR FOR HUMAN SERVICES",
+    "grade": "37",
+    "spec": 3679.0
+  },
+  {
+    "title": "DIVISION ADMINISTRATOR OF SOCIAL SERVICES",
+    "grade": "37",
+    "spec": 3309.0
+  },
+  {
+    "title": "DIVISION CHIEF",
+    "grade": "UNG",
+    "spec": 6104.0
+  },
+  {
+    "title": "DRAFTER I",
+    "grade": "14",
+    "spec": 1101.0
+  },
+  {
+    "title": "DRAFTER II",
+    "grade": "17",
+    "spec": 1102.0
+  },
+  {
+    "title": "DRAFTER III",
+    "grade": "20",
+    "spec": 1103.0
+  },
+  {
+    "title": "DREDGE CAPTAIN",
+    "grade": "22",
+    "spec": 7237.0
+  },
+  {
+    "title": "DREDGE DECKHAND",
+    "grade": "11",
+    "spec": 7051.0
+  },
+  {
+    "title": "DREDGE ENGINE OPERATOR",
+    "grade": "17",
+    "spec": 7236.0
+  },
+  {
+    "title": "DREDGE MATE",
+    "grade": "14",
+    "spec": 7055.0
+  },
+  {
+    "title": "DREDGE SHORE WORKER",
+    "grade": "11",
+    "spec": 7050.0
+  },
+  {
+    "title": "DRIVER MESSENGER",
+    "grade": "08",
+    "spec": 7211.0
+  },
+  {
+    "title": "DRUG ABUSE EDUCATOR",
+    "grade": "18",
+    "spec": 2711.0
+  },
+  {
+    "title": "DRUG COUNSELOR",
+    "grade": "19",
+    "spec": 2701.0
+  },
+  {
+    "title": "DRUG COUNSELOR (SPANISH SPEAKING)",
+    "grade": "19",
+    "spec": 2700.0
+  },
+  {
+    "title": "DRUG COURT SPECIALIST",
+    "grade": "19",
+    "spec": 6540.0
+  },
+  {
+    "title": "DUPLICATING MACHINE OPERATOR I",
+    "grade": "09",
+    "spec": 110.0
+  },
+  {
+    "title": "DUPLICATING MACHINE OPERATOR II",
+    "grade": "12",
+    "spec": 111.0
+  },
+  {
+    "title": "DUPLICATING MACHINE OPERATOR III",
+    "grade": "15",
+    "spec": 112.0
+  },
+  {
+    "title": "DUPLICATING MACHINE OPERATOR IV",
+    "grade": "19",
+    "spec": 113.0
+  },
+  {
+    "title": "ECONOMIC DEVELOPMENT ASSISTANT",
+    "grade": "24",
+    "spec": 996.0
+  },
+  {
+    "title": "ECONOMIC DEVELOPMENT SUSTAINABILITY DIRECTOR",
+    "grade": "35",
+    "spec": 9327.0
+  },
+  {
+    "title": "ECONOMIST",
+    "grade": "25",
+    "spec": 707.0
+  },
+  {
+    "title": "EDUCATION COORDINATOR",
+    "grade": "17",
+    "spec": 3705.0
+  },
+  {
+    "title": "ELECTION ADMINISTRATOR",
+    "grade": "UNG",
+    "spec": 9294.0
+  },
+  {
+    "title": "ELECTION CLERK 1",
+    "grade": "UNG",
+    "spec": 9240.0
+  },
+  {
+    "title": "ELECTION CLERK 10",
+    "grade": "UNG",
+    "spec": 9249.0
+  },
+  {
+    "title": "ELECTION CLERK 11",
+    "grade": "UNG",
+    "spec": 9250.0
+  },
+  {
+    "title": "ELECTION CLERK 12",
+    "grade": "UNG",
+    "spec": 9251.0
+  },
+  {
+    "title": "ELECTION CLERK 13",
+    "grade": "UNG",
+    "spec": 9252.0
+  },
+  {
+    "title": "ELECTION CLERK 2",
+    "grade": "UNG",
+    "spec": 9241.0
+  },
+  {
+    "title": "ELECTION CLERK 3",
+    "grade": "UNG",
+    "spec": 9242.0
+  },
+  {
+    "title": "ELECTION CLERK 4",
+    "grade": "UNG",
+    "spec": 9243.0
+  },
+  {
+    "title": "ELECTION CLERK 5",
+    "grade": "UNG",
+    "spec": 9244.0
+  },
+  {
+    "title": "ELECTION CLERK 6",
+    "grade": "UNG",
+    "spec": 9245.0
+  },
+  {
+    "title": "ELECTION CLERK 7",
+    "grade": "UNG",
+    "spec": 9246.0
+  },
+  {
+    "title": "ELECTION CLERK 8",
+    "grade": "UNG",
+    "spec": 9247.0
+  },
+  {
+    "title": "ELECTION CLERK 9",
+    "grade": "UNG",
+    "spec": 9248.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 1",
+    "grade": "UNG",
+    "spec": 9275.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 10",
+    "grade": "UNG",
+    "spec": 9284.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 11",
+    "grade": "UNG",
+    "spec": 9285.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 12",
+    "grade": "UNG",
+    "spec": 9286.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 2",
+    "grade": "UNG",
+    "spec": 9276.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 3",
+    "grade": "UNG",
+    "spec": 9277.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 4",
+    "grade": "UNG",
+    "spec": 9278.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 5",
+    "grade": "UNG",
+    "spec": 9279.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 6",
+    "grade": "UNG",
+    "spec": 9280.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 7",
+    "grade": "UNG",
+    "spec": 9281.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 8",
+    "grade": "UNG",
+    "spec": 9282.0
+  },
+  {
+    "title": "ELECTION FORMS PROCESSOR 9",
+    "grade": "UNG",
+    "spec": 9283.0
+  },
+  {
+    "title": "ELECTRICAL ENGINEER",
+    "grade": "29",
+    "spec": 1032.0
+  },
+  {
+    "title": "ELEVATOR OPERATOR",
+    "grade": "04",
+    "spec": 7020.0
+  },
+  {
+    "title": "EMERGENCY COMPLAINT OPERATOR",
+    "grade": "16",
+    "spec": 165.0
+  },
+  {
+    "title": "EMERGENCY COMPLAINT OPERATOR (SPANISH SPEAKING)",
+    "grade": "16",
+    "spec": 166.0
+  },
+  {
+    "title": "EMERGENCY COMPLAINT OPERATOR (SPANISH SPEAKING)- HELP PROGRAM",
+    "grade": "16",
+    "spec": 9012.0
+  },
+  {
+    "title": "EMERGENCY COMPLAINT OPERATOR- HELP PROGRAM",
+    "grade": "16",
+    "spec": 9011.0
+  },
+  {
+    "title": "EMERGENCY MEDICAL INSTRUCTOR",
+    "grade": "16",
+    "spec": 2672.0
+  },
+  {
+    "title": "EMERGENCY MEDICAL SERVICES OFFICER",
+    "grade": "23",
+    "spec": 2637.0
+  },
+  {
+    "title": "EMERGENCY MEDICAL TECHNICIAN",
+    "grade": "UNG",
+    "spec": 2670.0
+  },
+  {
+    "title": "EMERGENCY MEDICAL TRAINING OFFICER",
+    "grade": "26",
+    "spec": 2635.0
+  },
+  {
+    "title": "EMERGENCY PREPAREDNESS OFFICER",
+    "grade": "18",
+    "spec": 5824.0
+  },
+  {
+    "title": "EMERGENCY PREPAREDNESS OFFICER - HEALTH SERVICES",
+    "grade": "18",
+    "spec": 5804.0
+  },
+  {
+    "title": "EMERGENCY PREPAREDNESS OFFICER - SOCIAL SERVICES",
+    "grade": "16",
+    "spec": 5814.0
+  },
+  {
+    "title": "EMERGENCY PREPAREDNESS OFFICER II",
+    "grade": "20",
+    "spec": 5825.0
+  },
+  {
+    "title": "EMERGENCY PREPAREDNESS OFFICER III",
+    "grade": "23",
+    "spec": 5826.0
+  },
+  {
+    "title": "EMERGENCY SERVICES DISPATCHER I",
+    "grade": "18",
+    "spec": 173.0
+  },
+  {
+    "title": "EMERGENCY SERVICES DISPATCHER I- HELP PROGRAM",
+    "grade": "18",
+    "spec": 9010.0
+  },
+  {
+    "title": "EMERGENCY SERVICES DISPATCHER II",
+    "grade": "20",
+    "spec": 174.0
+  },
+  {
+    "title": "EMERGENCY SERVICES DISPATCHER III",
+    "grade": "22",
+    "spec": 175.0
+  },
+  {
+    "title": "EMPLOYEE BENEFITS COORDINATOR",
+    "grade": "29",
+    "spec": 425.0
+  },
+  {
+    "title": "EMPLOYEE BENEFITS REPRESENTATIVE",
+    "grade": "11",
+    "spec": 426.0
+  },
+  {
+    "title": "EMPLOYEE BENEFITS SUPERVISOR",
+    "grade": "24",
+    "spec": 415.0
+  },
+  {
+    "title": "EMPLOYEE HEALTH PLAN ADMINISTRATOR",
+    "grade": "30",
+    "spec": 943.0
+  },
+  {
+    "title": "EMPLOYEE RELATIONS DIRECTOR",
+    "grade": "30",
+    "spec": 988.0
+  },
+  {
+    "title": "EMPLOYEE RELATIONS DIRECTOR (SHERIFF'S OFFICE)",
+    "grade": "32",
+    "spec": 986.0
+  },
+  {
+    "title": "ENERGY COORDINATOR",
+    "grade": "20",
+    "spec": 5219.0
+  },
+  {
+    "title": "ENERGY ENGINEER",
+    "grade": "31",
+    "spec": 1025.0
+  },
+  {
+    "title": "ENERGY SPECIALIST",
+    "grade": "31",
+    "spec": 706.0
+  },
+  {
+    "title": "ENGINEERING AIDE",
+    "grade": "12",
+    "spec": 1001.0
+  },
+  {
+    "title": "ENGINEERING AIDE (37\u00bd HRS.)",
+    "grade": "UNG",
+    "spec": 1001.0
+  },
+  {
+    "title": "ENGINEERING MAP CLERK",
+    "grade": "16",
+    "spec": 1090.0
+  },
+  {
+    "title": "ENTOMOLOGIST",
+    "grade": "25",
+    "spec": 7833.0
+  },
+  {
+    "title": "ENVIRONMENTAL ANALYST",
+    "grade": "19",
+    "spec": 1241.0
+  },
+  {
+    "title": "ENVIRONMENTAL ASSISTANT",
+    "grade": "14",
+    "spec": 1209.0
+  },
+  {
+    "title": "ENVIRONMENTAL ENFORCEMENT SPECIALIST",
+    "grade": "26",
+    "spec": 2118.0
+  },
+  {
+    "title": "ENVIRONMENTAL HEALTH TECHNICIAN",
+    "grade": "20",
+    "spec": 2107.0
+  },
+  {
+    "title": "ENVIRONMENTAL PLANNER",
+    "grade": "21",
+    "spec": 1517.0
+  },
+  {
+    "title": "ENVIRONMENTAL PROJECTS COORDINATOR",
+    "grade": "28",
+    "spec": 2122.0
+  },
+  {
+    "title": "ENVIRONMENTAL RADIOCHEMIST",
+    "grade": "28",
+    "spec": 2256.0
+  },
+  {
+    "title": "ENVIRONMENTAL TECHNICIAN",
+    "grade": "17",
+    "spec": 1210.0
+  },
+  {
+    "title": "ENVIRONMENTAL TOXICOLOGIST",
+    "grade": "32",
+    "spec": 1222.0
+  },
+  {
+    "title": "EQUIPMENT CONTRACTING OFFICER",
+    "grade": "30",
+    "spec": 7228.0
+  },
+  {
+    "title": "EVIDENCE CONTROL CLERK",
+    "grade": "12",
+    "spec": 5066.0
+  },
+  {
+    "title": "EVIDENCE CONTROL CLERK II",
+    "grade": "15",
+    "spec": 5067.0
+  },
+  {
+    "title": "EVIDENCE CONTROL CLERK III",
+    "grade": "18",
+    "spec": 5068.0
+  },
+  {
+    "title": "EVIDENCE RECOVERY TOW OPERATOR",
+    "grade": "16",
+    "spec": 7207.0
+  },
+  {
+    "title": "EVIDENCE SPECIALIST",
+    "grade": "23-11",
+    "spec": 5705.0
+  },
+  {
+    "title": "EVIDENCE SPECIALIST TRAINEE",
+    "grade": "19-11",
+    "spec": 5707.0
+  },
+  {
+    "title": "EXAMINER I",
+    "grade": "UNG",
+    "spec": 431.0
+  },
+  {
+    "title": "EXAMINER II",
+    "grade": "UNG",
+    "spec": 432.0
+  },
+  {
+    "title": "EXAMINER III",
+    "grade": "UNG",
+    "spec": 433.0
+  },
+  {
+    "title": "EXAMINER IV",
+    "grade": "UNG",
+    "spec": 434.0
+  },
+  {
+    "title": "EXAMINER V",
+    "grade": "UNG",
+    "spec": 435.0
+  },
+  {
+    "title": "EXAMINER VI",
+    "grade": "UNG",
+    "spec": 436.0
+  },
+  {
+    "title": "EXECUTIVE ANALYST",
+    "grade": "27",
+    "spec": 783.0
+  },
+  {
+    "title": "EXECUTIVE ASSISTANT FOR FINANCE AND ADMINISTRATION",
+    "grade": "34",
+    "spec": 3304.0
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR FOR MULTICULTURAL AFFAIRS AND COMMUNITY ENGAGEMENT",
+    "grade": "31",
+    "spec": 3680.0
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR LONG ISLAND REGIONAL PLANNING BOARD",
+    "grade": "38",
+    "spec": 1621.0
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF ACCOUNTING SERVICES",
+    "grade": "37",
+    "spec": 9301.0
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF AUDITING SERVICES",
+    "grade": "37",
+    "spec": 9310.0
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF CAMPAIGN FINANCE BOARD",
+    "grade": "36",
+    "spec": 9312.0
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF FINANCE AND TAXATION",
+    "grade": "34",
+    "spec": 225.0
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF THE SUFFOLK COUNTY BOARD OF ETHICS",
+    "grade": "36",
+    "spec": 9309.0
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF TRAFFIC & PARKING VIOLATIONS AGENCY",
+    "grade": "39",
+    "spec": 9425.0
+  },
+  {
+    "title": "EXECUTIVE TECHNICIAN",
+    "grade": "17",
+    "spec": 781.0
+  },
+  {
+    "title": "FACILITIES SPACE MANAGER",
+    "grade": "31",
+    "spec": 744.0
+  },
+  {
+    "title": "FAMILY PLANNING AIDE",
+    "grade": "08",
+    "spec": 2605.0
+  },
+  {
+    "title": "FAMILY PLANNING PROGRAM SUPERVISOR",
+    "grade": "22",
+    "spec": 2038.0
+  },
+  {
+    "title": "FARMLANDS ADMINISTRATOR",
+    "grade": "31",
+    "spec": 9387.0
+  },
+  {
+    "title": "FEDERAL AND STATE AID CLAIMS COORDINATOR",
+    "grade": "31",
+    "spec": 258.0
+  },
+  {
+    "title": "FEDERAL AND STATE AID CLAIMS EXAMINER",
+    "grade": "20",
+    "spec": 273.0
+  },
+  {
+    "title": "FEDERAL AND STATE AID CLAIMS TECHNICIAN",
+    "grade": "17",
+    "spec": 272.0
+  },
+  {
+    "title": "FEDERAL AND STATE AID COORDINATOR",
+    "grade": "33",
+    "spec": 264.0
+  },
+  {
+    "title": "FINANCIAL ANALYST",
+    "grade": "22",
+    "spec": 218.0
+  },
+  {
+    "title": "FINANCIAL DIRECTOR (NURSING HOME)",
+    "grade": "28",
+    "spec": 262.0
+  },
+  {
+    "title": "FINANCIAL SYSTEMS COORDINATOR",
+    "grade": "28",
+    "spec": 552.0
+  },
+  {
+    "title": "FINGERPRINT ANALYST",
+    "grade": "18",
+    "spec": 5709.0
+  },
+  {
+    "title": "FINGERPRINT ANALYST TRAINEE",
+    "grade": "16",
+    "spec": 5708.0
+  },
+  {
+    "title": "FINGERPRINT TECHNICIAN",
+    "grade": "13",
+    "spec": 5710.0
+  },
+  {
+    "title": "FIRE MARSHAL I",
+    "grade": "18",
+    "spec": 5125.0
+  },
+  {
+    "title": "FIRE MARSHAL II",
+    "grade": "20",
+    "spec": 5126.0
+  },
+  {
+    "title": "FIREARMS INVESTIGATOR",
+    "grade": "22",
+    "spec": 5704.0
+  },
+  {
+    "title": "FLEET LIAISON OFFICER",
+    "grade": "28",
+    "spec": 7199.0
+  },
+  {
+    "title": "FLEET MANAGEMENT SPECIALIST",
+    "grade": "23",
+    "spec": 7190.0
+  },
+  {
+    "title": "FLEET SERVICE MANAGER",
+    "grade": "28",
+    "spec": 7196.0
+  },
+  {
+    "title": "FOOD SERVICE SUPERVISOR",
+    "grade": "21",
+    "spec": 8141.0
+  },
+  {
+    "title": "FOOD SERVICE WORKER",
+    "grade": "07",
+    "spec": 8101.0
+  },
+  {
+    "title": "FOOD SERVICE WORKER II",
+    "grade": "09",
+    "spec": 8102.0
+  },
+  {
+    "title": "FORENSIC GRAPHICS TECHNICIAN",
+    "grade": "21",
+    "spec": 520.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (AIR POLLUTION)",
+    "grade": "19-8",
+    "spec": 2272.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (BIOLOGICAL SCIENCES)",
+    "grade": "21-11",
+    "spec": 2262.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (DRUG CHEMISTRY)",
+    "grade": "21-11",
+    "spec": 2270.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (FIREARMS)",
+    "grade": "21-11",
+    "spec": 2266.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (HAZARDOUS MATERIALS)",
+    "grade": "21-8",
+    "spec": 2277.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (Q.D.)",
+    "grade": "21-11",
+    "spec": 2268.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (TOXICOLOGY)",
+    "grade": "21-11",
+    "spec": 2260.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (TRACE EVIDENCE)",
+    "grade": "21-11",
+    "spec": 2264.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (AIR POLLUTION)",
+    "grade": "22-8",
+    "spec": 2273.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (BIOLOGICAL SCIENCES)",
+    "grade": "24-11",
+    "spec": 2263.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (DRUG CHEMISTRY)",
+    "grade": "24-11",
+    "spec": 2271.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (FIREARMS)",
+    "grade": "24-11",
+    "spec": 2267.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (HAZARDOUS MATERIALS)",
+    "grade": "24-8",
+    "spec": 2278.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (Q.D.)",
+    "grade": "24-11",
+    "spec": 2269.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (TOXICOLOGY)",
+    "grade": "24-11",
+    "spec": 2261.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (TRACE EVIDENCE)",
+    "grade": "24-11",
+    "spec": 2265.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (AIR POLLUTION)",
+    "grade": "26-8",
+    "spec": 2287.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (BIOLOGICAL SCIENCES)",
+    "grade": "28-11",
+    "spec": 2282.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (DRUG CHEMISTRY)",
+    "grade": "28-11",
+    "spec": 2286.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (FIREARMS)",
+    "grade": "28-11",
+    "spec": 2284.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (HAZARDOUS MATERIALS)",
+    "grade": "28-11",
+    "spec": 2288.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (Q.D.)",
+    "grade": "28-11",
+    "spec": 2285.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (TOXICOLOGY)",
+    "grade": "28-11",
+    "spec": 2283.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (TRACE EVIDENCE)",
+    "grade": "28-11",
+    "spec": 2289.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (BIOLOGICAL SCIENCES)",
+    "grade": "30",
+    "spec": 2292.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (DRUG CHEMISTRY)",
+    "grade": "30",
+    "spec": 2293.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (FIREARMS)",
+    "grade": "30",
+    "spec": 2294.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (QUALITY ASSURANCE)",
+    "grade": "30",
+    "spec": 2279.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (SEROLOGY)",
+    "grade": "30",
+    "spec": 2281.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (TRACE EVIDENCE)",
+    "grade": "30",
+    "spec": 2295.0
+  },
+  {
+    "title": "FORENSIC SCIENTIST TRAINEE",
+    "grade": "19",
+    "spec": 2280.0
+  },
+  {
+    "title": "FORMS ANALYST",
+    "grade": "22",
+    "spec": 571.0
+  },
+  {
+    "title": "FORMS TECHNICIAN",
+    "grade": "17",
+    "spec": 570.0
+  },
+  {
+    "title": "GARDENER",
+    "grade": "09",
+    "spec": 7013.0
+  },
+  {
+    "title": "GENERAL REAL ESTATE APPRAISER",
+    "grade": "32",
+    "spec": 699.0
+  },
+  {
+    "title": "GENERAL SERVICES MANAGER",
+    "grade": "32",
+    "spec": 9610.0
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS COORDINATOR",
+    "grade": "30",
+    "spec": 1109.0
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS TECHNICIAN I",
+    "grade": "18",
+    "spec": 1106.0
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS TECHNICIAN II",
+    "grade": "20",
+    "spec": 1108.0
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS TECHNICIAN III",
+    "grade": "23",
+    "spec": 1114.0
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS TECHNICIAN IV",
+    "grade": "26",
+    "spec": 1115.0
+  },
+  {
+    "title": "GOLF COURSE MANAGER",
+    "grade": "18",
+    "spec": 4228.0
+  },
+  {
+    "title": "GOVERNMENT LIAISON OFFICER",
+    "grade": "31",
+    "spec": 278.0
+  },
+  {
+    "title": "GRANTS ANALYST",
+    "grade": "19",
+    "spec": 717.0
+  },
+  {
+    "title": "GRANTS COORDINATOR",
+    "grade": "28",
+    "spec": 260.0
+  },
+  {
+    "title": "GRANTS TECHNICIAN",
+    "grade": "17",
+    "spec": 716.0
+  },
+  {
+    "title": "GRAPHICS SUPERVISOR",
+    "grade": "18",
+    "spec": 1930.0
+  },
+  {
+    "title": "GROUNDS MAINTENANCE SUPERVISOR",
+    "grade": "22",
+    "spec": 7365.0
+  },
+  {
+    "title": "GROUNDS SUPERINTENDENT",
+    "grade": "25",
+    "spec": 7368.0
+  },
+  {
+    "title": "GROUNDSKEEPER II",
+    "grade": "12",
+    "spec": 7361.0
+  },
+  {
+    "title": "GUARD",
+    "grade": "10",
+    "spec": 7080.0
+  },
+  {
+    "title": "GUNSMITH",
+    "grade": "15",
+    "spec": 5062.0
+  },
+  {
+    "title": "HEAD LIBRARIAN",
+    "grade": "UNG",
+    "spec": 9125.0
+  },
+  {
+    "title": "HEALTH FACILITIES MANAGER",
+    "grade": "20",
+    "spec": 749.0
+  },
+  {
+    "title": "HEALTH FINANCIAL ANALYST",
+    "grade": "22",
+    "spec": 261.0
+  },
+  {
+    "title": "HEALTH PLANNING COORDINATOR",
+    "grade": "30",
+    "spec": 2627.0
+  },
+  {
+    "title": "HEALTH PROGRAM ANALYST I",
+    "grade": "20",
+    "spec": 727.0
+  },
+  {
+    "title": "HEALTH PROGRAM ANALYST II",
+    "grade": "22",
+    "spec": 728.0
+  },
+  {
+    "title": "HEALTH PROGRAM ANALYST III",
+    "grade": "24",
+    "spec": 729.0
+  },
+  {
+    "title": "HEALTH SERVICES EMPLOYEE RELATIONS DIRECTOR",
+    "grade": "28",
+    "spec": 2109.0
+  },
+  {
+    "title": "HEAVY EQUIPMENT OPERATOR",
+    "grade": "13",
+    "spec": 7203.0
+  },
+  {
+    "title": "HELICOPTER MECHANIC",
+    "grade": "23",
+    "spec": 7168.0
+  },
+  {
+    "title": "HELICOPTER MECHANIC SUPERVISOR",
+    "grade": "25",
+    "spec": 7169.0
+  },
+  {
+    "title": "HIGH VOLTAGE SPECIALIST",
+    "grade": "23",
+    "spec": 7106.0
+  },
+  {
+    "title": "HIGHWAY EQUIPMENT SUPERVISOR",
+    "grade": "20",
+    "spec": 7310.0
+  },
+  {
+    "title": "HIGHWAY FUNDING PROGRAM MANAGER",
+    "grade": "29",
+    "spec": 1055.0
+  },
+  {
+    "title": "HIGHWAY LABOR CREW LEADER",
+    "grade": "18",
+    "spec": 7305.0
+  },
+  {
+    "title": "HIGHWAY MAINTENANCE SUPERVISOR",
+    "grade": "35",
+    "spec": 7313.0
+  },
+  {
+    "title": "HIGHWAY SAFETY AIDE",
+    "grade": "17",
+    "spec": 2750.0
+  },
+  {
+    "title": "HIGHWAY SAFETY PROGRAM MANAGER",
+    "grade": "21",
+    "spec": 2752.0
+  },
+  {
+    "title": "HIGHWAY ZONE SUPERVISOR",
+    "grade": "22",
+    "spec": 7311.0
+  },
+  {
+    "title": "HISTOLOGY TECHNICIAN",
+    "grade": "14-6",
+    "spec": 2809.0
+  },
+  {
+    "title": "HISTORIC RESTORATION CARPENTER",
+    "grade": "17",
+    "spec": 4259.0
+  },
+  {
+    "title": "HOME ECONOMIST",
+    "grade": "20",
+    "spec": 3205.0
+  },
+  {
+    "title": "HOME HEALTH AIDE",
+    "grade": "08",
+    "spec": 2001.0
+  },
+  {
+    "title": "HOMEMAKER",
+    "grade": "10",
+    "spec": 3201.0
+  },
+  {
+    "title": "HOUSEKEEPER",
+    "grade": "18",
+    "spec": 8021.0
+  },
+  {
+    "title": "HOUSING REHABILITATION ADMINISTRATOR",
+    "grade": "21",
+    "spec": 1579.0
+  },
+  {
+    "title": "HUMAN RESOURCES ANALYST",
+    "grade": "22",
+    "spec": 446.0
+  },
+  {
+    "title": "HUMAN RIGHTS INVESTIGATOR",
+    "grade": "19",
+    "spec": 3742.0
+  },
+  {
+    "title": "HUMAN RIGHTS INVESTIGATOR (SPANISH SPEAKING)",
+    "grade": "19",
+    "spec": 3741.0
+  },
+  {
+    "title": "HYDROGEOLOGIST",
+    "grade": "29",
+    "spec": 1231.0
+  },
+  {
+    "title": "ILLUSTRATOR",
+    "grade": "17",
+    "spec": 1127.0
+  },
+  {
+    "title": "INDUSTRIAL DEVELOPMENT ASSISTANT",
+    "grade": "27",
+    "spec": 990.0
+  },
+  {
+    "title": "INDUSTRIAL ENGINEER",
+    "grade": "26",
+    "spec": 1028.0
+  },
+  {
+    "title": "INDUSTRIAL PSYCHOLOGIST",
+    "grade": "23",
+    "spec": 737.0
+  },
+  {
+    "title": "INDUSTRIAL WASTE PRETREATMENT ENFORCEMENT COORDINATOR",
+    "grade": "20",
+    "spec": 7674.0
+  },
+  {
+    "title": "INDUSTRIAL WASTE PRETREATMENT PROGRAM SPECIALIST",
+    "grade": "25",
+    "spec": 7673.0
+  },
+  {
+    "title": "INDUSTRIAL WASTE PRETREATMENT TECHNICIAN",
+    "grade": "20",
+    "spec": 7677.0
+  },
+  {
+    "title": "INDUSTRIAL WASTE PRETREATMENT TECHNICIAN TRAINEE",
+    "grade": "18",
+    "spec": 7676.0
+  },
+  {
+    "title": "INFORMATION SERVICES PROJECT MANAGER",
+    "grade": "31",
+    "spec": 563.0
+  },
+  {
+    "title": "INFORMATION TECHNOLOGY PROJECT COORDINATOR",
+    "grade": "27",
+    "spec": 560.0
+  },
+  {
+    "title": "INFORMATION TECHNOLOGY SECURITY COORDINATOR",
+    "grade": "32",
+    "spec": 559.0
+  },
+  {
+    "title": "INSPECTOR",
+    "grade": "UNG",
+    "spec": 9210.0
+  },
+  {
+    "title": "INSPECTOR (POLICE)",
+    "grade": "UNG",
+    "spec": 5022.0
+  },
+  {
+    "title": "INSTRUCTIONAL MATERIALS COORDINATOR",
+    "grade": "14",
+    "spec": 803.0
+  },
+  {
+    "title": "INSTRUCTIONAL MATERIALS MANAGER",
+    "grade": "17",
+    "spec": 804.0
+  },
+  {
+    "title": "INSTRUCTOR",
+    "grade": "UNG",
+    "spec": 9104.0
+  },
+  {
+    "title": "INSTRUMENT AND DATA SYSTEMS MANAGER",
+    "grade": "24",
+    "spec": 569.0
+  },
+  {
+    "title": "INSTRUMENTATION TECHNICIAN",
+    "grade": "21",
+    "spec": 1072.0
+  },
+  {
+    "title": "INSTRUMENTATION TECHNICIAN TRAINEE",
+    "grade": "18",
+    "spec": 1071.0
+  },
+  {
+    "title": "INSURANCE CONTRACT ANALYST",
+    "grade": "19",
+    "spec": 928.0
+  },
+  {
+    "title": "INTENSIVE CASE MANAGER",
+    "grade": "20",
+    "spec": 2505.0
+  },
+  {
+    "title": "INTERGOVERNMENTAL ANALYST I",
+    "grade": "19",
+    "spec": 280.0
+  },
+  {
+    "title": "INTERGOVERNMENTAL ANALYST II",
+    "grade": "21",
+    "spec": 281.0
+  },
+  {
+    "title": "INTERGOVERNMENTAL RELATIONS COORDINATOR",
+    "grade": "31",
+    "spec": 248.0
+  },
+  {
+    "title": "INTERPRETER/TRANSLATOR",
+    "grade": "15",
+    "spec": 895.0
+  },
+  {
+    "title": "INVESTIGATIONS ASSISTANT",
+    "grade": "15",
+    "spec": 5210.0
+  },
+  {
+    "title": "INVESTIGATIONS MANAGER",
+    "grade": "30",
+    "spec": 5216.0
+  },
+  {
+    "title": "INVESTIGATIVE ASSISTANT (TECHNICAL SERVICES)",
+    "grade": "15",
+    "spec": 5725.0
+  },
+  {
+    "title": "INVESTIGATIVE AUDITOR",
+    "grade": "30",
+    "spec": 238.0
+  },
+  {
+    "title": "INVESTIGATOR I",
+    "grade": "19",
+    "spec": 5751.0
+  },
+  {
+    "title": "INVESTIGATOR I (SPANISH SPEAKING)",
+    "grade": "19",
+    "spec": 5750.0
+  },
+  {
+    "title": "INVESTIGATOR II",
+    "grade": "21",
+    "spec": 5752.0
+  },
+  {
+    "title": "INVESTIGATOR II (SPANISH SPEAKING)",
+    "grade": "21",
+    "spec": 5757.0
+  },
+  {
+    "title": "INVESTIGATOR III",
+    "grade": "23",
+    "spec": 5753.0
+  },
+  {
+    "title": "INVESTIGATOR IV",
+    "grade": "26",
+    "spec": 5754.0
+  },
+  {
+    "title": "JAIL BAKER",
+    "grade": "15",
+    "spec": 8175.0
+  },
+  {
+    "title": "JAIL COOK",
+    "grade": "15",
+    "spec": 8171.0
+  },
+  {
+    "title": "JAIL HEAD COOK",
+    "grade": "21",
+    "spec": 8179.0
+  },
+  {
+    "title": "JAIL MEDICAL ATTENDANT",
+    "grade": "17",
+    "spec": 2611.0
+  },
+  {
+    "title": "JUDICIAL HEARING OFFICER",
+    "grade": "UNG",
+    "spec": 6210.0
+  },
+  {
+    "title": "JUNIOR ASSISTANT COUNTY ATTORNEY",
+    "grade": "23",
+    "spec": 6153.0
+  },
+  {
+    "title": "JUNIOR ASSISTANT DISTRICT ATTORNEY",
+    "grade": "23",
+    "spec": 6110.0
+  },
+  {
+    "title": "JUNIOR ASSISTANT ELECTION CLERK 1",
+    "grade": "UNG",
+    "spec": 9220.0
+  },
+  {
+    "title": "JUNIOR ASSISTANT ELECTION CLERK 2",
+    "grade": "UNG",
+    "spec": 9221.0
+  },
+  {
+    "title": "JUNIOR ASSISTANT ELECTION CLERK 3",
+    "grade": "UNG",
+    "spec": 9222.0
+  },
+  {
+    "title": "JUNIOR ASSISTANT ELECTION CLERK 4",
+    "grade": "UNG",
+    "spec": 9223.0
+  },
+  {
+    "title": "JUNIOR ASSISTANT ELECTION CLERK 5",
+    "grade": "UNG",
+    "spec": 9224.0
+  },
+  {
+    "title": "JUNIOR ASSISTANT ELECTION CLERK 6",
+    "grade": "UNG",
+    "spec": 9225.0
+  },
+  {
+    "title": "JUNIOR ASSISTANT ELECTION CLERK 7",
+    "grade": "UNG",
+    "spec": 9226.0
+  },
+  {
+    "title": "JUNIOR ASSISTANT ELECTION CLERK 8",
+    "grade": "UNG",
+    "spec": 9227.0
+  },
+  {
+    "title": "JUNIOR ASSISTANT ELECTION CLERK 9",
+    "grade": "UNG",
+    "spec": 9228.0
+  },
+  {
+    "title": "JUNIOR CIVIL ENGINEER",
+    "grade": "23",
+    "spec": 1011.0
+  },
+  {
+    "title": "JUNIOR CIVIL ENGINEER TRAINEE",
+    "grade": "19",
+    "spec": 1010.0
+  },
+  {
+    "title": "JUSTICE COURT CLERK",
+    "grade": "14",
+    "spec": 50.0
+  },
+  {
+    "title": "LABOR CREW LEADER (35 HOUR)",
+    "grade": "14",
+    "spec": 7302.0
+  },
+  {
+    "title": "LABOR CREW LEADER (37 1/2 HOUR)",
+    "grade": "14",
+    "spec": 7301.0
+  },
+  {
+    "title": "LABOR MEDIATOR",
+    "grade": "30",
+    "spec": 922.0
+  },
+  {
+    "title": "LABOR MEDIATOR TRAINEE",
+    "grade": "23",
+    "spec": 921.0
+  },
+  {
+    "title": "LABOR RELATIONS ANALYST",
+    "grade": "19",
+    "spec": 932.0
+  },
+  {
+    "title": "LABOR RELATIONS TECHNICIAN",
+    "grade": "17",
+    "spec": 931.0
+  },
+  {
+    "title": "LABOR SPECIALIST I",
+    "grade": "19",
+    "spec": 3721.0
+  },
+  {
+    "title": "LABOR SPECIALIST II",
+    "grade": "21",
+    "spec": 3722.0
+  },
+  {
+    "title": "LABOR SPECIALIST III",
+    "grade": "23",
+    "spec": 3723.0
+  },
+  {
+    "title": "LABOR SPECIALIST IV",
+    "grade": "25",
+    "spec": 3724.0
+  },
+  {
+    "title": "LABOR SPECIALIST TRAINEE",
+    "grade": "UNG",
+    "spec": 3720.0
+  },
+  {
+    "title": "LABOR SPECIALIST TRAINEE",
+    "grade": "17",
+    "spec": 3720.0
+  },
+  {
+    "title": "LABOR SPECIALIST TRAINEE (SPANISH SPEAKING)",
+    "grade": "17",
+    "spec": 3740.0
+  },
+  {
+    "title": "LABOR SPECIALIST V",
+    "grade": "27",
+    "spec": 3725.0
+  },
+  {
+    "title": "LABORATORY AIDE",
+    "grade": "06",
+    "spec": 2201.0
+  },
+  {
+    "title": "LABORATORY DIRECTOR",
+    "grade": "30",
+    "spec": 2222.0
+  },
+  {
+    "title": "LABORATORY TECHNICIAN",
+    "grade": "UNG",
+    "spec": 2203.0
+  },
+  {
+    "title": "LABORATORY TECHNICIAN",
+    "grade": "15",
+    "spec": 2203.0
+  },
+  {
+    "title": "LABORATORY TECHNICIAN (PUBLIC WORKS)",
+    "grade": "15",
+    "spec": 2204.0
+  },
+  {
+    "title": "LABORER",
+    "grade": "10",
+    "spec": 7001.0
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST I",
+    "grade": "UNG",
+    "spec": 691.0
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST I",
+    "grade": "13",
+    "spec": 691.0
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST II",
+    "grade": "16",
+    "spec": 692.0
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST II",
+    "grade": "UNG",
+    "spec": 692.0
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST III",
+    "grade": "UNG",
+    "spec": 693.0
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST III",
+    "grade": "19",
+    "spec": 693.0
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST IV",
+    "grade": "UNG",
+    "spec": 694.0
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST IV",
+    "grade": "22",
+    "spec": 694.0
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST V",
+    "grade": "27",
+    "spec": 695.0
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST VI",
+    "grade": "31",
+    "spec": 696.0
+  },
+  {
+    "title": "LANDSCAPE ARCHITECT",
+    "grade": "29",
+    "spec": 1151.0
+  },
+  {
+    "title": "LAUNDRY WORKER",
+    "grade": "06",
+    "spec": 8201.0
+  },
+  {
+    "title": "LAW ASSISTANT I",
+    "grade": "25",
+    "spec": 6151.0
+  },
+  {
+    "title": "LAW ASSISTANT II",
+    "grade": "27",
+    "spec": 6152.0
+  },
+  {
+    "title": "LAW INTERN",
+    "grade": "UNG",
+    "spec": 3822.0
+  },
+  {
+    "title": "LAW LIBRARY CLERK",
+    "grade": "08",
+    "spec": 49.0
+  },
+  {
+    "title": "LEGAL NURSE CONSULTANT",
+    "grade": "22",
+    "spec": 2018.0
+  },
+  {
+    "title": "LEGAL SECRETARY",
+    "grade": "11",
+    "spec": 60.0
+  },
+  {
+    "title": "LEGISLATIVE AIDE I",
+    "grade": "16",
+    "spec": 9818.0
+  },
+  {
+    "title": "LEGISLATIVE AIDE II",
+    "grade": "24",
+    "spec": 9817.0
+  },
+  {
+    "title": "LEGISLATIVE AIDE III",
+    "grade": "31",
+    "spec": 9816.0
+  },
+  {
+    "title": "LEGISLATIVE AIDE IV",
+    "grade": "39",
+    "spec": 9815.0
+  },
+  {
+    "title": "LEGISLATIVE ANALYST",
+    "grade": "25-2",
+    "spec": 771.0
+  },
+  {
+    "title": "LEGISLATIVE ASSISTANT",
+    "grade": "22",
+    "spec": 9819.0
+  },
+  {
+    "title": "LEGISLATIVE FINANCIAL EVALUATOR",
+    "grade": "26",
+    "spec": 219.0
+  },
+  {
+    "title": "LEGISLATIVE LIAISON (COUNTY ATTORNEY)",
+    "grade": "21",
+    "spec": 790.0
+  },
+  {
+    "title": "LEGISLATIVE LIAISON (DISTRICT ATTORNEY)",
+    "grade": "21",
+    "spec": 791.0
+  },
+  {
+    "title": "LEGISLATIVE SECRETARY DISTRICT OFFICE",
+    "grade": "15",
+    "spec": 9806.0
+  },
+  {
+    "title": "LEGISLATIVE SECRETARY I",
+    "grade": "13",
+    "spec": 9803.0
+  },
+  {
+    "title": "LEGISLATIVE SECRETARY II",
+    "grade": "15",
+    "spec": 9804.0
+  },
+  {
+    "title": "LEGISLATIVE TECHNICIAN",
+    "grade": "17",
+    "spec": 769.0
+  },
+  {
+    "title": "LIABILITY CLAIMS EXAMINER",
+    "grade": "20",
+    "spec": 923.0
+  },
+  {
+    "title": "LIABILITY CLAIMS SUPERVISOR",
+    "grade": "25",
+    "spec": 924.0
+  },
+  {
+    "title": "LIBRARIAN",
+    "grade": "UNG",
+    "spec": 9121.0
+  },
+  {
+    "title": "LICENSED PRACTICAL NURSE",
+    "grade": "14",
+    "spec": 2005.0
+  },
+  {
+    "title": "LIEUTENANT (POLICE)",
+    "grade": "UNG",
+    "spec": 5004.0
+  },
+  {
+    "title": "LIFEGUARD (OCEAN)",
+    "grade": "UNG",
+    "spec": 4041.0
+  },
+  {
+    "title": "LIFEGUARD (STILL WATER)",
+    "grade": "UNG",
+    "spec": 4040.0
+  },
+  {
+    "title": "LOAN ADVISOR",
+    "grade": "20",
+    "spec": 277.0
+  },
+  {
+    "title": "LOCAL LAW COMPLIANCE COORDINATOR",
+    "grade": "28",
+    "spec": 3726.0
+  },
+  {
+    "title": "LOCK TENDER",
+    "grade": "10",
+    "spec": 7044.0
+  },
+  {
+    "title": "LOCKSMITH",
+    "grade": "23",
+    "spec": 7115.0
+  },
+  {
+    "title": "MAIL CLERK",
+    "grade": "06",
+    "spec": 17.0
+  },
+  {
+    "title": "MAIL ROOM SUPERVISOR",
+    "grade": "17",
+    "spec": 19.0
+  },
+  {
+    "title": "MAINTENANCE CREW CHIEF (STEAM AND HVAC)",
+    "grade": "23",
+    "spec": 7664.0
+  },
+  {
+    "title": "MAINTENANCE CREW CHIEF (WASTEWATER TREATMENT)",
+    "grade": "23",
+    "spec": 7663.0
+  },
+  {
+    "title": "MAINTENANCE MECHANIC I",
+    "grade": "12",
+    "spec": 7002.0
+  },
+  {
+    "title": "MAINTENANCE MECHANIC II",
+    "grade": "15",
+    "spec": 7003.0
+  },
+  {
+    "title": "MAINTENANCE MECHANIC III",
+    "grade": "17",
+    "spec": 7004.0
+  },
+  {
+    "title": "MAINTENANCE MECHANIC IV",
+    "grade": "20",
+    "spec": 7005.0
+  },
+  {
+    "title": "MAINTENANCE MECHANIC V",
+    "grade": "22",
+    "spec": 7006.0
+  },
+  {
+    "title": "MANAGEMENT ANALYST",
+    "grade": "UNG",
+    "spec": 731.0
+  },
+  {
+    "title": "MANAGEMENT ANALYST",
+    "grade": "22",
+    "spec": 731.0
+  },
+  {
+    "title": "MANAGEMENT TECHNICIAN",
+    "grade": "17",
+    "spec": 730.0
+  },
+  {
+    "title": "MAP AND COORDINATE SUPERVISOR",
+    "grade": "29",
+    "spec": 1131.0
+  },
+  {
+    "title": "MAP DRAFTER I",
+    "grade": "17",
+    "spec": 1121.0
+  },
+  {
+    "title": "MAP DRAFTER II",
+    "grade": "20",
+    "spec": 1122.0
+  },
+  {
+    "title": "MAP DRAFTER III",
+    "grade": "23",
+    "spec": 1123.0
+  },
+  {
+    "title": "MAPPING PRODUCTS DEVELOPER",
+    "grade": "30",
+    "spec": 1124.0
+  },
+  {
+    "title": "MARINE BIOLOGIST",
+    "grade": "29",
+    "spec": 1233.0
+  },
+  {
+    "title": "MARINE MECHANIC",
+    "grade": "18",
+    "spec": 7161.0
+  },
+  {
+    "title": "MARINE MECHANIC-CERTIFIED TECHNICIAN",
+    "grade": "20",
+    "spec": 7162.0
+  },
+  {
+    "title": "MARINE MUSEUM DIRECTOR",
+    "grade": "23",
+    "spec": 4111.0
+  },
+  {
+    "title": "MARKETING SPECIALIST",
+    "grade": "27",
+    "spec": 995.0
+  },
+  {
+    "title": "MATERIEL CONTROL CLERK I",
+    "grade": "05",
+    "spec": 301.0
+  },
+  {
+    "title": "MATERIEL CONTROL CLERK II",
+    "grade": "09",
+    "spec": 302.0
+  },
+  {
+    "title": "MATERIEL CONTROL CLERK III",
+    "grade": "12",
+    "spec": 303.0
+  },
+  {
+    "title": "MATERIEL CONTROL CLERK IV",
+    "grade": "15",
+    "spec": 304.0
+  },
+  {
+    "title": "MECHANICAL ENGINEER",
+    "grade": "26",
+    "spec": 1037.0
+  },
+  {
+    "title": "MEDIA DEVELOPMENT COORDINATOR",
+    "grade": "26",
+    "spec": 1900.0
+  },
+  {
+    "title": "MEDIA DEVELOPMENT SPECIALIST",
+    "grade": "21",
+    "spec": 1899.0
+  },
+  {
+    "title": "MEDICAL ASSISTANT",
+    "grade": "09",
+    "spec": 2606.0
+  },
+  {
+    "title": "MEDICAL ASSISTANT (SPANISH SPEAKING)",
+    "grade": "09",
+    "spec": 2610.0
+  },
+  {
+    "title": "MEDICAL DIRECTOR DRUG ABUSE TREATMENT",
+    "grade": "38",
+    "spec": 2447.0
+  },
+  {
+    "title": "MEDICAL DIRECTOR EMERGENCY MEDICAL SERVICES",
+    "grade": "38",
+    "spec": 2445.0
+  },
+  {
+    "title": "MEDICAL DIRECTOR MEDICAL ASSISTANCE PROGRAM",
+    "grade": "38",
+    "spec": 2443.0
+  },
+  {
+    "title": "MEDICAL FORENSIC INVESTIGATOR",
+    "grade": "29-11",
+    "spec": 2847.0
+  },
+  {
+    "title": "MEDICAL PHOTOGRAPHER",
+    "grade": "21",
+    "spec": 1927.0
+  },
+  {
+    "title": "MEDICAL PHOTOGRAPHER II",
+    "grade": "23",
+    "spec": 1928.0
+  },
+  {
+    "title": "MEDICAL PROGRAM ADMINISTRATOR",
+    "grade": "38",
+    "spec": 2405.0
+  },
+  {
+    "title": "MEDICAL RECORDS ADMINISTRATOR",
+    "grade": "21",
+    "spec": 68.0
+  },
+  {
+    "title": "MEDICAL RECORDS CLERK",
+    "grade": "11",
+    "spec": 70.0
+  },
+  {
+    "title": "MEDICAL RECORDS CLERK (SPANISH SPEAKING)",
+    "grade": "11",
+    "spec": 69.0
+  },
+  {
+    "title": "MEDICAL RESEARCH TECHNICIAN",
+    "grade": "17",
+    "spec": 721.0
+  },
+  {
+    "title": "MEDICAL SERVICES BUREAU DIRECTOR",
+    "grade": "31",
+    "spec": 2648.0
+  },
+  {
+    "title": "MEDICAL SERVICES COORDINATOR",
+    "grade": "27",
+    "spec": 2656.0
+  },
+  {
+    "title": "MEDICAL SERVICES DIRECTOR",
+    "grade": "38",
+    "spec": 2455.0
+  },
+  {
+    "title": "MEDICAL SERVICES SPECIALIST",
+    "grade": "25-6",
+    "spec": 2641.0
+  },
+  {
+    "title": "MEDICAL SOCIAL WORKER",
+    "grade": "21",
+    "spec": 2661.0
+  },
+  {
+    "title": "MEDICAL SOCIAL WORKER (SPANISH SPEAKING)",
+    "grade": "21",
+    "spec": 2662.0
+  },
+  {
+    "title": "MEDICAL SOCIAL WORKER ASSISTANT",
+    "grade": "18",
+    "spec": 2660.0
+  },
+  {
+    "title": "MEDICAL SOCIAL WORKER II",
+    "grade": "23",
+    "spec": 2663.0
+  },
+  {
+    "title": "MEDICAL TRANSCRIPTIONIST",
+    "grade": "11",
+    "spec": 67.0
+  },
+  {
+    "title": "MENTAL HEALTH AIDE",
+    "grade": "10",
+    "spec": 2501.0
+  },
+  {
+    "title": "MENTAL HEALTH ASSISTANT",
+    "grade": "15",
+    "spec": 2503.0
+  },
+  {
+    "title": "MENTOR",
+    "grade": "UNG",
+    "spec": 9902.0
+  },
+  {
+    "title": "MICROFILM OPERATOR",
+    "grade": "09",
+    "spec": 123.0
+  },
+  {
+    "title": "MICROGRAPHICS MANAGER",
+    "grade": "32",
+    "spec": 139.0
+  },
+  {
+    "title": "MICROGRAPHICS OPERATOR",
+    "grade": "06",
+    "spec": 120.0
+  },
+  {
+    "title": "MICROGRAPHICS TECHNICIAN",
+    "grade": "14",
+    "spec": 126.0
+  },
+  {
+    "title": "MIGRANT_HEALTH PROJECT SUPERVISOR",
+    "grade": "20",
+    "spec": 3738.0
+  },
+  {
+    "title": "MIGRANT_WORKER AFFAIRS COORDINATOR",
+    "grade": "23",
+    "spec": 3739.0
+  },
+  {
+    "title": "MINORITY AFFAIRS OFFICER",
+    "grade": "28",
+    "spec": 437.0
+  },
+  {
+    "title": "MORGUE AMBULANCE DRIVER",
+    "grade": "14",
+    "spec": 2813.0
+  },
+  {
+    "title": "MORGUE ASSISTANT",
+    "grade": "16",
+    "spec": 2805.0
+  },
+  {
+    "title": "MORGUE ASSISTANT",
+    "grade": "UNG",
+    "spec": 2805.0
+  },
+  {
+    "title": "MORGUE CLERK",
+    "grade": "12",
+    "spec": 2801.0
+  },
+  {
+    "title": "MORGUE CLERK",
+    "grade": "UNG",
+    "spec": 2801.0
+  },
+  {
+    "title": "MORTGAGE TAX CLERK",
+    "grade": "22",
+    "spec": 271.0
+  },
+  {
+    "title": "MULTICULTURAL AFFAIRS SPECIALIST",
+    "grade": "28",
+    "spec": 3682.0
+  },
+  {
+    "title": "MUNICIPAL FINANCE ADMINISTRATOR",
+    "grade": "32",
+    "spec": 9314.0
+  },
+  {
+    "title": "MUSEUM DIRECTOR",
+    "grade": "25",
+    "spec": 4192.0
+  },
+  {
+    "title": "NEEDLE TRADES SPECIALIST",
+    "grade": "10",
+    "spec": 8212.0
+  },
+  {
+    "title": "NEIGHBORHOOD AIDE",
+    "grade": "13",
+    "spec": 3706.0
+  },
+  {
+    "title": "NEUROPATHOLOGIST",
+    "grade": "UNG",
+    "spec": 2826.0
+  },
+  {
+    "title": "NURSE PRACTITIONER (FAMILY PLANNING)",
+    "grade": "20",
+    "spec": 2040.0
+  },
+  {
+    "title": "NURSES AIDE",
+    "grade": "09",
+    "spec": 2003.0
+  },
+  {
+    "title": "NURSING CARE DIRECTOR",
+    "grade": "27",
+    "spec": 2036.0
+  },
+  {
+    "title": "NUTRITION ASSISTANT",
+    "grade": "14",
+    "spec": 2679.0
+  },
+  {
+    "title": "NUTRITIONIST I",
+    "grade": "24",
+    "spec": 2680.0
+  },
+  {
+    "title": "NUTRITIONIST II",
+    "grade": "26",
+    "spec": 2681.0
+  },
+  {
+    "title": "OCCUPATIONAL THERAPIST",
+    "grade": "21",
+    "spec": 2305.0
+  },
+  {
+    "title": "OCCUPATIONAL THERAPIST ASSISTANT",
+    "grade": "17",
+    "spec": 2304.0
+  },
+  {
+    "title": "OCCUPATIONAL THERAPY AIDE",
+    "grade": "10",
+    "spec": 2301.0
+  },
+  {
+    "title": "OFFICE APPLICATIONS SPECIALIST",
+    "grade": "15",
+    "spec": 37.0
+  },
+  {
+    "title": "OFFICE ASSISTANT",
+    "grade": "09",
+    "spec": 25.0
+  },
+  {
+    "title": "OFFICE ASSISTANT",
+    "grade": "UNG",
+    "spec": 25.0
+  },
+  {
+    "title": "OFFICE ASSISTANT (SPANISH SPEAKING)",
+    "grade": "09",
+    "spec": 29.0
+  },
+  {
+    "title": "OFFICE ASSISTANT (SPANISH SPEAKING)",
+    "grade": "UNG",
+    "spec": 29.0
+  },
+  {
+    "title": "OFFICE SYSTEMS ANALYST I",
+    "grade": "19",
+    "spec": 766.0
+  },
+  {
+    "title": "OFFICE SYSTEMS ANALYST II",
+    "grade": "21",
+    "spec": 765.0
+  },
+  {
+    "title": "OFFICE SYSTEMS ANALYST III",
+    "grade": "24",
+    "spec": 764.0
+  },
+  {
+    "title": "OFFICE SYSTEMS ANALYST IV",
+    "grade": "28",
+    "spec": 763.0
+  },
+  {
+    "title": "OFFICE SYSTEMS TECHNICIAN",
+    "grade": "17",
+    "spec": 767.0
+  },
+  {
+    "title": "OFFICIAL EXAMINER OF TITLE",
+    "grade": "31",
+    "spec": 650.0
+  },
+  {
+    "title": "OPERATIONS CREW CHIEF (WASTEWATER TREATMENT)",
+    "grade": "23",
+    "spec": 7654.0
+  },
+  {
+    "title": "OPERATIONS OFFICER EMERGENCY PREPAREDNESS",
+    "grade": "16",
+    "spec": 5806.0
+  },
+  {
+    "title": "OPERATIONS REVIEW SPECIALIST",
+    "grade": "20",
+    "spec": 226.0
+  },
+  {
+    "title": "PARALEGAL",
+    "grade": "17",
+    "spec": 6139.0
+  },
+  {
+    "title": "PARK AIDE",
+    "grade": "UNG",
+    "spec": 4203.0
+  },
+  {
+    "title": "PARK ATTENDANT I",
+    "grade": "UNG",
+    "spec": 4204.0
+  },
+  {
+    "title": "PARK ATTENDANT II",
+    "grade": "UNG",
+    "spec": 4205.0
+  },
+  {
+    "title": "PARK ATTENDANT III",
+    "grade": "UNG",
+    "spec": 4200.0
+  },
+  {
+    "title": "PARK FACILITIES SUPERVISOR",
+    "grade": "18",
+    "spec": 4240.0
+  },
+  {
+    "title": "PARK INTERPRETIVE SPECIALIST",
+    "grade": "17",
+    "spec": 4260.0
+  },
+  {
+    "title": "PARK MAINTENANCE SUPERVISOR",
+    "grade": "24",
+    "spec": 7341.0
+  },
+  {
+    "title": "PARK RANGER I",
+    "grade": "17",
+    "spec": 5601.0
+  },
+  {
+    "title": "PARK RANGER II",
+    "grade": "19",
+    "spec": 5602.0
+  },
+  {
+    "title": "PARK RANGER II (PT/SEASONAL)",
+    "grade": "UNG",
+    "spec": 5610.0
+  },
+  {
+    "title": "PARK RANGER III",
+    "grade": "22",
+    "spec": 5603.0
+  },
+  {
+    "title": "PARK RANGER IV",
+    "grade": "25",
+    "spec": 5604.0
+  },
+  {
+    "title": "PARK SECURITY AIDE I",
+    "grade": "UNG",
+    "spec": 7074.0
+  },
+  {
+    "title": "PARK SECURITY AIDE II",
+    "grade": "UNG",
+    "spec": 7075.0
+  },
+  {
+    "title": "PARK SUPERVISOR I",
+    "grade": "15",
+    "spec": 4246.0
+  },
+  {
+    "title": "PARK SUPERVISOR II",
+    "grade": "19",
+    "spec": 4247.0
+  },
+  {
+    "title": "PARK SUPERVISOR III",
+    "grade": "22",
+    "spec": 4248.0
+  },
+  {
+    "title": "PARKS FOUNDATION DIRECTOR",
+    "grade": "30",
+    "spec": 4265.0
+  },
+  {
+    "title": "PAYROLL COMPLIANCE EXAMINER",
+    "grade": "28",
+    "spec": 216.0
+  },
+  {
+    "title": "PAYROLL COORDINATOR",
+    "grade": "25",
+    "spec": 443.0
+  },
+  {
+    "title": "PAYROLL MANAGER",
+    "grade": "25",
+    "spec": 442.0
+  },
+  {
+    "title": "PAYROLL SUPERVISOR",
+    "grade": "22",
+    "spec": 441.0
+  },
+  {
+    "title": "PEDIATRICIAN",
+    "grade": "36",
+    "spec": 2409.0
+  },
+  {
+    "title": "PERSONNEL ANALYST",
+    "grade": "22",
+    "spec": 402.0
+  },
+  {
+    "title": "PERSONNEL ANALYST TRAINEE",
+    "grade": "19",
+    "spec": 400.0
+  },
+  {
+    "title": "PERSONNEL PLANNER",
+    "grade": "23",
+    "spec": 1531.0
+  },
+  {
+    "title": "PERSONNEL SERVICES ADMINISTRATOR",
+    "grade": "30",
+    "spec": 960.0
+  },
+  {
+    "title": "PERSONNEL TECHNICIAN",
+    "grade": "17",
+    "spec": 401.0
+  },
+  {
+    "title": "PERSONNEL TRANSACTIONS CLERK",
+    "grade": "10",
+    "spec": 410.0
+  },
+  {
+    "title": "PERSONNEL TRANSACTIONS SUPERVISOR",
+    "grade": "15",
+    "spec": 411.0
+  },
+  {
+    "title": "PHARMACIST I",
+    "grade": "25",
+    "spec": 2236.0
+  },
+  {
+    "title": "PHARMACIST II",
+    "grade": "27",
+    "spec": 2237.0
+  },
+  {
+    "title": "PHARMACY AIDE",
+    "grade": "12",
+    "spec": 2231.0
+  },
+  {
+    "title": "PHOTOCOPY MACHINE OPERATOR",
+    "grade": "08",
+    "spec": 130.0
+  },
+  {
+    "title": "PHOTOGRAPHER",
+    "grade": "21",
+    "spec": 1923.0
+  },
+  {
+    "title": "PHOTOGRAPHIC PLANT MANAGER",
+    "grade": "22",
+    "spec": 1925.0
+  },
+  {
+    "title": "PHOTOGRAPHIC TECHNICIAN",
+    "grade": "09",
+    "spec": 1921.0
+  },
+  {
+    "title": "PHYSICAL THERAPIST",
+    "grade": "21",
+    "spec": 2321.0
+  },
+  {
+    "title": "PHYSICAL THERAPIST ASSISTANT",
+    "grade": "17",
+    "spec": 2320.0
+  },
+  {
+    "title": "PHYSICAL THERAPY AIDE",
+    "grade": "10",
+    "spec": 2319.0
+  },
+  {
+    "title": "PHYSICIAN I",
+    "grade": "36",
+    "spec": 2402.0
+  },
+  {
+    "title": "PHYSICIAN II",
+    "grade": "37",
+    "spec": 2403.0
+  },
+  {
+    "title": "PHYSICIAN III",
+    "grade": "38",
+    "spec": 2404.0
+  },
+  {
+    "title": "PHYSICIAN'S ASSISTANT I",
+    "grade": "25",
+    "spec": 2053.0
+  },
+  {
+    "title": "PHYSICIAN'S ASSISTANT II",
+    "grade": "28",
+    "spec": 2054.0
+  },
+  {
+    "title": "PLANNER",
+    "grade": "21",
+    "spec": 1511.0
+  },
+  {
+    "title": "PLANNER (CRIMINAL JUSTICE)",
+    "grade": "20",
+    "spec": 1543.0
+  },
+  {
+    "title": "PLANNER (YOUTH SERVICES)",
+    "grade": "23",
+    "spec": 1552.0
+  },
+  {
+    "title": "PLANNING AIDE",
+    "grade": "UNG",
+    "spec": 1510.0
+  },
+  {
+    "title": "PLANNING AIDE",
+    "grade": "17",
+    "spec": 1510.0
+  },
+  {
+    "title": "PLANNING DIRECTOR",
+    "grade": "36",
+    "spec": 9376.0
+  },
+  {
+    "title": "POLICE COMMUNICATIONS SYSTEMS DIRECTOR",
+    "grade": "34-6",
+    "spec": 7177.0
+  },
+  {
+    "title": "POLICE FIREARMS INSTRUCTOR",
+    "grade": "21",
+    "spec": 5064.0
+  },
+  {
+    "title": "POLICE OFFICER",
+    "grade": "UNG",
+    "spec": 5002.0
+  },
+  {
+    "title": "POLICE OFFICER (SPANISH SPEAKING)",
+    "grade": "UNG",
+    "spec": 5006.0
+  },
+  {
+    "title": "POLICE OPERATIONS AIDE",
+    "grade": "13",
+    "spec": 164.0
+  },
+  {
+    "title": "POLICE OPERATIONS AIDE (SPANISH SPEAKING)",
+    "grade": "13",
+    "spec": 167.0
+  },
+  {
+    "title": "POLICE TRANSPORTATION MANAGER",
+    "grade": "18",
+    "spec": 7208.0
+  },
+  {
+    "title": "POLYGRAPH EXAMINER",
+    "grade": "17",
+    "spec": 5780.0
+  },
+  {
+    "title": "PRESIDING OFFICER OF THE COUNTY LEGISLATURE",
+    "grade": "UNG",
+    "spec": 9862.0
+  },
+  {
+    "title": "PRETREATMENT PROGRAM COORDINATOR",
+    "grade": "28",
+    "spec": 7682.0
+  },
+  {
+    "title": "PREVENTIVE MAINTENANCE SUPERVISOR",
+    "grade": "25",
+    "spec": 7530.0
+  },
+  {
+    "title": "PRINCIPAL ACCOUNT CLERK",
+    "grade": "17",
+    "spec": 207.0
+  },
+  {
+    "title": "PRINCIPAL ACCOUNTANT",
+    "grade": "29",
+    "spec": 223.0
+  },
+  {
+    "title": "PRINCIPAL ASSISTANT COUNTY ATTORNEY",
+    "grade": "34",
+    "spec": 6176.0
+  },
+  {
+    "title": "PRINCIPAL ASSISTANT DISTRICT ATTORNEY",
+    "grade": "38",
+    "spec": 6130.0
+  },
+  {
+    "title": "PRINCIPAL AUDITOR",
+    "grade": "29",
+    "spec": 233.0
+  },
+  {
+    "title": "PRINCIPAL BUDGET EXAMINER",
+    "grade": "28",
+    "spec": 243.0
+  },
+  {
+    "title": "PRINCIPAL BUSINESS INTELLIGENCE APPLICATIONS ANALYST",
+    "grade": "30",
+    "spec": 39.0
+  },
+  {
+    "title": "PRINCIPAL BUSINESS INTELLIGENCE SYSTEMS DEVELOPER",
+    "grade": "30",
+    "spec": 780.0
+  },
+  {
+    "title": "PRINCIPAL CIVIL ENGINEER",
+    "grade": "34",
+    "spec": 1017.0
+  },
+  {
+    "title": "PRINCIPAL COMMUNITY DEVELOPMENT AND PLANNING SPECIALIST",
+    "grade": "28",
+    "spec": 1596.0
+  },
+  {
+    "title": "PRINCIPAL COMMUNITY ORGANIZATION SPECIALIST",
+    "grade": "31",
+    "spec": 3763.0
+  },
+  {
+    "title": "PRINCIPAL CONTRACTS EXAMINER",
+    "grade": "28",
+    "spec": 354.0
+  },
+  {
+    "title": "PRINCIPAL DATA ENTRY OPERATOR",
+    "grade": "15",
+    "spec": 509.0
+  },
+  {
+    "title": "PRINCIPAL DETECTIVE INVESTIGATOR",
+    "grade": "32",
+    "spec": 5733.0
+  },
+  {
+    "title": "PRINCIPAL ECONOMIST",
+    "grade": "30",
+    "spec": 710.0
+  },
+  {
+    "title": "PRINCIPAL ELECTRICAL ENGINEER",
+    "grade": "34",
+    "spec": 1030.0
+  },
+  {
+    "title": "PRINCIPAL EMPLOYEE BENEFITS REPRESENTATIVE",
+    "grade": "18",
+    "spec": 428.0
+  },
+  {
+    "title": "PRINCIPAL ENGINEERING AIDE",
+    "grade": "18",
+    "spec": 1003.0
+  },
+  {
+    "title": "PRINCIPAL ENVIRONMENTAL ANALYST",
+    "grade": "29",
+    "spec": 1223.0
+  },
+  {
+    "title": "PRINCIPAL EXECUTIVE ANALYST",
+    "grade": "33",
+    "spec": 785.0
+  },
+  {
+    "title": "PRINCIPAL FEDERAL & STATE AID CLAIMS EXAMINER",
+    "grade": "28",
+    "spec": 270.0
+  },
+  {
+    "title": "PRINCIPAL FINANCIAL ANALYST",
+    "grade": "28",
+    "spec": 253.0
+  },
+  {
+    "title": "PRINCIPAL HUMAN RESOURCES ANALYST",
+    "grade": "30",
+    "spec": 449.0
+  },
+  {
+    "title": "PRINCIPAL HUMAN RIGHTS INVESTIGATOR",
+    "grade": "24",
+    "spec": 3744.0
+  },
+  {
+    "title": "PRINCIPAL LEGAL SECRETARY",
+    "grade": "17",
+    "spec": 62.0
+  },
+  {
+    "title": "PRINCIPAL LEGISLATIVE ANALYST",
+    "grade": "29",
+    "spec": 773.0
+  },
+  {
+    "title": "PRINCIPAL MANAGEMENT ANALYST",
+    "grade": "28",
+    "spec": 733.0
+  },
+  {
+    "title": "PRINCIPAL MECHANICAL ENGINEER",
+    "grade": "34",
+    "spec": 1040.0
+  },
+  {
+    "title": "PRINCIPAL OFFICE ASSISTANT",
+    "grade": "14",
+    "spec": 27.0
+  },
+  {
+    "title": "PRINCIPAL PERSONNEL ANALYST",
+    "grade": "30",
+    "spec": 404.0
+  },
+  {
+    "title": "PRINCIPAL PLANNER",
+    "grade": "28",
+    "spec": 1514.0
+  },
+  {
+    "title": "PRINCIPAL PLANNER (CRIMINAL JUSTICE)",
+    "grade": "28",
+    "spec": 1546.0
+  },
+  {
+    "title": "PRINCIPAL PLANNER (TRANSPORTATION)",
+    "grade": "28",
+    "spec": 1625.0
+  },
+  {
+    "title": "PRINCIPAL PLANNER YOUTH SERVICES",
+    "grade": "28",
+    "spec": 1554.0
+  },
+  {
+    "title": "PRINCIPAL PROBATION OFFICER",
+    "grade": "29",
+    "spec": 6514.0
+  },
+  {
+    "title": "PRINCIPAL PROGRAM EXAMINER",
+    "grade": "30",
+    "spec": 743.0
+  },
+  {
+    "title": "PRINCIPAL PROGRAMMER ANALYST",
+    "grade": "30",
+    "spec": 568.0
+  },
+  {
+    "title": "PRINCIPAL PUBLIC HEALTH ENGINEER",
+    "grade": "34",
+    "spec": 2135.0
+  },
+  {
+    "title": "PRINCIPAL PUBLIC HEALTH SANITARIAN",
+    "grade": "32",
+    "spec": 2114.0
+  },
+  {
+    "title": "PRINCIPAL PURCHASING AGENT",
+    "grade": "28",
+    "spec": 347.0
+  },
+  {
+    "title": "PRINCIPAL RESEARCH ANALYST",
+    "grade": "30",
+    "spec": 704.0
+  },
+  {
+    "title": "PRINCIPAL STENOGRAPHER",
+    "grade": "15",
+    "spec": 33.0
+  },
+  {
+    "title": "PRINCIPAL WORKERS' COMPENSATION CLAIMS EXAMINER",
+    "grade": "21",
+    "spec": 947.0
+  },
+  {
+    "title": "PRINT SHOP SUPERVISOR",
+    "grade": "24",
+    "spec": 117.0
+  },
+  {
+    "title": "PROBATION ASSISTANT",
+    "grade": "17",
+    "spec": 6501.0
+  },
+  {
+    "title": "PROBATION ASSISTANT (SPANISH SPEAKING)",
+    "grade": "17",
+    "spec": 6502.0
+  },
+  {
+    "title": "PROBATION INVESTIGATOR",
+    "grade": "17",
+    "spec": 5711.0
+  },
+  {
+    "title": "PROBATION OFFICER",
+    "grade": "21",
+    "spec": 6511.0
+  },
+  {
+    "title": "PROBATION OFFICER (SPANISH SPEAKING)",
+    "grade": "21",
+    "spec": 6508.0
+  },
+  {
+    "title": "PROBATION OFFICER TRAINEE",
+    "grade": "19",
+    "spec": 6510.0
+  },
+  {
+    "title": "PROBATION OFFICER TRAINEE (SPANISH SPEAKING)",
+    "grade": "19",
+    "spec": 6509.0
+  },
+  {
+    "title": "PROBATION SUPERVISOR",
+    "grade": "26",
+    "spec": 6513.0
+  },
+  {
+    "title": "PROBATION SUPERVISOR",
+    "grade": "28",
+    "spec": 6523.0
+  },
+  {
+    "title": "PROBATION TRAINING DIRECTOR",
+    "grade": "28",
+    "spec": 6521.0
+  },
+  {
+    "title": "PROCTOR",
+    "grade": "UNG",
+    "spec": 9905.0
+  },
+  {
+    "title": "PROFESSIONAL ASSISTANT",
+    "grade": "UNG",
+    "spec": 9100.0
+  },
+  {
+    "title": "PROFESSIONAL ASSISTANT 1",
+    "grade": "UNG",
+    "spec": 9101.0
+  },
+  {
+    "title": "PROFESSIONAL ASSISTANT 2",
+    "grade": "UNG",
+    "spec": 9102.0
+  },
+  {
+    "title": "PROFESSIONAL ASSISTANT 3",
+    "grade": "UNG",
+    "spec": 9103.0
+  },
+  {
+    "title": "PROFESSOR",
+    "grade": "UNG",
+    "spec": 9107.0
+  },
+  {
+    "title": "PROGRAM AIDE I",
+    "grade": "UNG",
+    "spec": 3808.0
+  },
+  {
+    "title": "PROGRAM AIDE II",
+    "grade": "UNG",
+    "spec": 3809.0
+  },
+  {
+    "title": "PROGRAM AIDE III",
+    "grade": "UNG",
+    "spec": 3810.0
+  },
+  {
+    "title": "PROGRAM AIDE IV",
+    "grade": "UNG",
+    "spec": 3807.0
+  },
+  {
+    "title": "PROGRAM COORDINATOR (CRIMINAL JUSTICE PLANNING)",
+    "grade": "24",
+    "spec": 259.0
+  },
+  {
+    "title": "PROGRAM COORDINATOR (CULTURAL AFFAIRS)",
+    "grade": "25",
+    "spec": 9678.0
+  },
+  {
+    "title": "PROGRAM EXAMINER",
+    "grade": "22",
+    "spec": 741.0
+  },
+  {
+    "title": "PROGRAM EXAMINER TRAINEE",
+    "grade": "18",
+    "spec": 740.0
+  },
+  {
+    "title": "PROGRAMMER ANALYST",
+    "grade": "24",
+    "spec": 555.0
+  },
+  {
+    "title": "PROPERTY MANAGEMENT ADMINISTRATOR",
+    "grade": "31",
+    "spec": 698.0
+  },
+  {
+    "title": "PSYCHIATRIC NURSE COORDINATOR",
+    "grade": "25",
+    "spec": 2517.0
+  },
+  {
+    "title": "PSYCHIATRIC SOCIAL WORKER",
+    "grade": "21",
+    "spec": 2511.0
+  },
+  {
+    "title": "PSYCHIATRIC SOCIAL WORKER ALCOHOLISM",
+    "grade": "21",
+    "spec": 2510.0
+  },
+  {
+    "title": "PSYCHIATRIST",
+    "grade": "38",
+    "spec": 2533.0
+  },
+  {
+    "title": "PSYCHIATRIST I",
+    "grade": "36",
+    "spec": 2531.0
+  },
+  {
+    "title": "PSYCHIATRIST II",
+    "grade": "37",
+    "spec": 2532.0
+  },
+  {
+    "title": "PSYCHOLOGIST TRAINEE",
+    "grade": "19",
+    "spec": 2520.0
+  },
+  {
+    "title": "PUBLIC ACCESS DEFIBRILLATOR COORDINATOR",
+    "grade": "20",
+    "spec": 2640.0
+  },
+  {
+    "title": "PUBLIC ADMINISTRATOR",
+    "grade": "38",
+    "spec": 9389.0
+  },
+  {
+    "title": "PUBLIC HEALTH AIDE",
+    "grade": "UNG",
+    "spec": 2603.0
+  },
+  {
+    "title": "PUBLIC HEALTH AIDE",
+    "grade": "06",
+    "spec": 2603.0
+  },
+  {
+    "title": "PUBLIC HEALTH EDUCATOR",
+    "grade": "19",
+    "spec": 2620.0
+  },
+  {
+    "title": "PUBLIC HEALTH ENGINEER",
+    "grade": "26",
+    "spec": 2132.0
+  },
+  {
+    "title": "PUBLIC HEALTH FELLOW I",
+    "grade": "16",
+    "spec": 2097.0
+  },
+  {
+    "title": "PUBLIC HEALTH FELLOW II",
+    "grade": "22",
+    "spec": 2098.0
+  },
+  {
+    "title": "PUBLIC HEALTH FELLOW III",
+    "grade": "27",
+    "spec": 2099.0
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE COORDINATOR",
+    "grade": "24",
+    "spec": 2044.0
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE I",
+    "grade": "23-5",
+    "spec": 2020.0
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE I",
+    "grade": "UNG",
+    "spec": 2020.0
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE I (SPANISH SPEAKING)",
+    "grade": "23-5",
+    "spec": 2019.0
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE II",
+    "grade": "26",
+    "spec": 2021.0
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE III",
+    "grade": "29",
+    "spec": 2022.0
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE III (HOME HEALTH SERVICES)",
+    "grade": "27",
+    "spec": 2023.0
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE III (IN-SERVICE TRAINING)",
+    "grade": "28",
+    "spec": 2024.0
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE III (MATERNAL AND CHILD HEALTH)",
+    "grade": "27",
+    "spec": 2025.0
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE IV",
+    "grade": "31",
+    "spec": 2026.0
+  },
+  {
+    "title": "PUBLIC HEALTH NURSING DIRECTOR",
+    "grade": "32",
+    "spec": 2027.0
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN",
+    "grade": "21",
+    "spec": 2111.0
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN (SPANISH SPEAKING)",
+    "grade": "21",
+    "spec": 2103.0
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN TRAINEE",
+    "grade": "16",
+    "spec": 2110.0
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN TRAINEE (SPANISH SPEAKING)",
+    "grade": "16",
+    "spec": 2102.0
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN TRAINEE (SPANISH SPEAKING)- HELP PROGRAM",
+    "grade": "16",
+    "spec": 9008.0
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN TRAINEE- HELP PROGRAM",
+    "grade": "16",
+    "spec": 9007.0
+  },
+  {
+    "title": "PUBLIC INFORMATION OFFICER (DISTRICT ATTORNEY)",
+    "grade": "29",
+    "spec": 9336.0
+  },
+  {
+    "title": "PUBLIC INFORMATION OFFICER (SHERIFF)",
+    "grade": "29",
+    "spec": 9337.0
+  },
+  {
+    "title": "PUBLIC RELATIONS ASSISTANT",
+    "grade": "21",
+    "spec": 980.0
+  },
+  {
+    "title": "PUBLIC RELATIONS DIRECTOR",
+    "grade": "28",
+    "spec": 983.0
+  },
+  {
+    "title": "PUBLIC RELATIONS SPECIALIST",
+    "grade": "21",
+    "spec": 981.0
+  },
+  {
+    "title": "PUBLIC SAFETY DISPATCHER I",
+    "grade": "18",
+    "spec": 177.0
+  },
+  {
+    "title": "PUBLIC SAFETY DISPATCHER I",
+    "grade": "UNG",
+    "spec": 177.0
+  },
+  {
+    "title": "PUBLIC SAFETY DISPATCHER II",
+    "grade": "20",
+    "spec": 178.0
+  },
+  {
+    "title": "PUBLIC SAFETY DISPATCHER III",
+    "grade": "22",
+    "spec": 179.0
+  },
+  {
+    "title": "PUBLIC SAFETY PROJECT SUPERVISOR",
+    "grade": "26",
+    "spec": 528.0
+  },
+  {
+    "title": "PUBLIC SAFETY TECHNICAL COORDINATOR",
+    "grade": "24",
+    "spec": 527.0
+  },
+  {
+    "title": "PUBLIC TRANSPORTATION ANALYST I",
+    "grade": "20",
+    "spec": 1642.0
+  },
+  {
+    "title": "PUBLIC WORKS CAPITAL PROJECTS MANAGER",
+    "grade": "35",
+    "spec": 753.0
+  },
+  {
+    "title": "PUBLIC WORKS CONSTRUCTION CONTRACT ANALYST",
+    "grade": "25",
+    "spec": 1054.0
+  },
+  {
+    "title": "PUBLIC WORKS SPECIAL PROJECTS SUPERVISOR",
+    "grade": "31",
+    "spec": 752.0
+  },
+  {
+    "title": "PURCHASING AGENT",
+    "grade": "20",
+    "spec": 343.0
+  },
+  {
+    "title": "PURCHASING TECHNICIAN",
+    "grade": "17",
+    "spec": 341.0
+  },
+  {
+    "title": "RADIO DISPATCHER",
+    "grade": "UNG",
+    "spec": 161.0
+  },
+  {
+    "title": "RADIO DISPATCHER",
+    "grade": "12",
+    "spec": 161.0
+  },
+  {
+    "title": "RADIO DISPATCHER II",
+    "grade": "14",
+    "spec": 162.0
+  },
+  {
+    "title": "RADIO SHOP SUPERVISOR",
+    "grade": "20",
+    "spec": 7170.0
+  },
+  {
+    "title": "RADIOLOGICAL DEFENSE OFFICER",
+    "grade": "16",
+    "spec": 5816.0
+  },
+  {
+    "title": "READER",
+    "grade": "UNG",
+    "spec": 9903.0
+  },
+  {
+    "title": "REAL ESTATE ACCOUNTS SUPERVISOR",
+    "grade": "19",
+    "spec": 217.0
+  },
+  {
+    "title": "REAL ESTATE AGENT",
+    "grade": "28",
+    "spec": 662.0
+  },
+  {
+    "title": "REAL ESTATE ANALYST",
+    "grade": "28",
+    "spec": 663.0
+  },
+  {
+    "title": "REAL ESTATE APPRAISAL TECHNICIAN I",
+    "grade": "16",
+    "spec": 636.0
+  },
+  {
+    "title": "REAL ESTATE PROJECT COORDINATOR",
+    "grade": "25",
+    "spec": 690.0
+  },
+  {
+    "title": "REAL PROPERTY APPRAISAL SUPERVISOR",
+    "grade": "29",
+    "spec": 616.0
+  },
+  {
+    "title": "REAL PROPERTY APPRAISAL TECHNICIAN I",
+    "grade": "16",
+    "spec": 610.0
+  },
+  {
+    "title": "REAL PROPERTY APPRAISAL TECHNICIAN II",
+    "grade": "18",
+    "spec": 611.0
+  },
+  {
+    "title": "REAL PROPERTY APPRAISER II",
+    "grade": "22",
+    "spec": 613.0
+  },
+  {
+    "title": "REAL PROPERTY APPRAISER III",
+    "grade": "26",
+    "spec": 614.0
+  },
+  {
+    "title": "REAL PROPERTY RECORDER I",
+    "grade": "09",
+    "spec": 681.0
+  },
+  {
+    "title": "REAL PROPERTY RECORDER II",
+    "grade": "10",
+    "spec": 682.0
+  },
+  {
+    "title": "REAL PROPERTY RECORDER III",
+    "grade": "13",
+    "spec": 683.0
+  },
+  {
+    "title": "REAL PROPERTY RECORDER IV",
+    "grade": "18",
+    "spec": 684.0
+  },
+  {
+    "title": "RECORDS MANAGEMENT ASSISTANT",
+    "grade": "15",
+    "spec": 746.0
+  },
+  {
+    "title": "RECORDS RETENTION MANAGER",
+    "grade": "25",
+    "spec": 755.0
+  },
+  {
+    "title": "RECORDS SERVICE MANAGER",
+    "grade": "30",
+    "spec": 747.0
+  },
+  {
+    "title": "RECREATION AIDE",
+    "grade": "08",
+    "spec": 4001.0
+  },
+  {
+    "title": "RECREATION INSTRUCTOR",
+    "grade": "17",
+    "spec": 4008.0
+  },
+  {
+    "title": "RECREATION SUPERVISOR",
+    "grade": "21",
+    "spec": 4010.0
+  },
+  {
+    "title": "RECYCLING COORDINATOR",
+    "grade": "25",
+    "spec": 1218.0
+  },
+  {
+    "title": "REGISTERED NURSE",
+    "grade": "21-5",
+    "spec": 2011.0
+  },
+  {
+    "title": "REGISTERED NURSE SUPERVISOR CLINIC",
+    "grade": "23",
+    "spec": 2014.0
+  },
+  {
+    "title": "REGISTERED NURSE SUPERVISOR HOME HEALTH SERVICES",
+    "grade": "21",
+    "spec": 2015.0
+  },
+  {
+    "title": "REGISTERED NURSE SUPERVISOR NURSING HOME",
+    "grade": "22",
+    "spec": 2016.0
+  },
+  {
+    "title": "REGISTRAR CATALOGUER",
+    "grade": "15",
+    "spec": 4186.0
+  },
+  {
+    "title": "REHABILITATION COORDINATOR",
+    "grade": "24",
+    "spec": 3734.0
+  },
+  {
+    "title": "RESEARCH ANALYST",
+    "grade": "22",
+    "spec": 702.0
+  },
+  {
+    "title": "RESEARCH ANALYST",
+    "grade": "UNG",
+    "spec": 702.0
+  },
+  {
+    "title": "RESEARCH TECHNICIAN",
+    "grade": "17",
+    "spec": 701.0
+  },
+  {
+    "title": "RESEARCH TECHNICIAN",
+    "grade": "UNG",
+    "spec": 701.0
+  },
+  {
+    "title": "RESIDENT PHYSICIAN",
+    "grade": "30",
+    "spec": 2406.0
+  },
+  {
+    "title": "RESOURCES MANAGEMENT OFFICER (EMERGENCY PREPAREDNESS)",
+    "grade": "16",
+    "spec": 5808.0
+  },
+  {
+    "title": "RISK MANAGEMENT ADMINISTRATOR",
+    "grade": "30",
+    "spec": 930.0
+  },
+  {
+    "title": "RISK MANAGEMENT COORDINATOR",
+    "grade": "29",
+    "spec": 955.0
+  },
+  {
+    "title": "RUNAWAY COORDINATOR",
+    "grade": "21",
+    "spec": 1549.0
+  },
+  {
+    "title": "SAFETY OFFICER",
+    "grade": "20",
+    "spec": 5361.0
+  },
+  {
+    "title": "SAFETY OFFICER TRAINEE",
+    "grade": "17",
+    "spec": 5360.0
+  },
+  {
+    "title": "SAFETY SUPERVISOR",
+    "grade": "16",
+    "spec": 5371.0
+  },
+  {
+    "title": "SCHOOL CROSSING GUARD",
+    "grade": "07",
+    "spec": 5059.0
+  },
+  {
+    "title": "SECRETARIAL ASSISTANT",
+    "grade": "17",
+    "spec": 36.0
+  },
+  {
+    "title": "SECRETARY",
+    "grade": "17",
+    "spec": 97.0
+  },
+  {
+    "title": "SECRETARY",
+    "grade": "17",
+    "spec": 97.0
+  },
+  {
+    "title": "SECRETARY",
+    "grade": "10",
+    "spec": 95.0
+  },
+  {
+    "title": "SECRETARY",
+    "grade": "14",
+    "spec": 96.0
+  },
+  {
+    "title": "SECURITY DIRECTOR",
+    "grade": "27",
+    "spec": 7095.0
+  },
+  {
+    "title": "SECURITY GUARD",
+    "grade": "13",
+    "spec": 7090.0
+  },
+  {
+    "title": "SECURITY SUPERVISOR",
+    "grade": "21",
+    "spec": 7093.0
+  },
+  {
+    "title": "SENIOR ACCOUNT CLERK",
+    "grade": "14",
+    "spec": 206.0
+  },
+  {
+    "title": "SENIOR ACCOUNT CLERK STENOGRAPHER",
+    "grade": "14",
+    "spec": 215.0
+  },
+  {
+    "title": "SENIOR ACCOUNT CLERK TYPIST",
+    "grade": "14",
+    "spec": 213.0
+  },
+  {
+    "title": "SENIOR ACCOUNTANT",
+    "grade": "25",
+    "spec": 222.0
+  },
+  {
+    "title": "SENIOR AIRPORT SECURITY GUARD",
+    "grade": "20",
+    "spec": 5072.0
+  },
+  {
+    "title": "SENIOR APPRAISAL REVIEWER",
+    "grade": "31",
+    "spec": 622.0
+  },
+  {
+    "title": "SENIOR ASSETS ANALYST",
+    "grade": "22",
+    "spec": 632.0
+  },
+  {
+    "title": "SENIOR ASSISTANT COMMISSIONER OF ELECTIONS",
+    "grade": "UNG",
+    "spec": 9292.0
+  },
+  {
+    "title": "SENIOR ASSISTANT COUNTY ATTORNEY",
+    "grade": "27",
+    "spec": 6175.0
+  },
+  {
+    "title": "SENIOR ASSISTANT DISTRICT ATTORNEY",
+    "grade": "34",
+    "spec": 6129.0
+  },
+  {
+    "title": "SENIOR ASSISTANT TO COMMISSIONER (SOCIAL SERVICES)",
+    "grade": "32",
+    "spec": 9440.0
+  },
+  {
+    "title": "SENIOR ASSISTANT TO THE PERSONNEL OFFICER",
+    "grade": "25",
+    "spec": 417.0
+  },
+  {
+    "title": "SENIOR AUDITOR",
+    "grade": "25",
+    "spec": 232.0
+  },
+  {
+    "title": "SENIOR BOAT OPERATOR",
+    "grade": "18",
+    "spec": 7233.0
+  },
+  {
+    "title": "SENIOR BUDGET ANALYST",
+    "grade": "24",
+    "spec": 252.0
+  },
+  {
+    "title": "SENIOR BUDGET EXAMINER",
+    "grade": "27",
+    "spec": 242.0
+  },
+  {
+    "title": "SENIOR BUSINESS INTELLIGENCE APPLICATIONS ANALYST",
+    "grade": "27",
+    "spec": 40.0
+  },
+  {
+    "title": "SENIOR BUSINESS INTELLIGENCE SYSTEMS DEVELOPER",
+    "grade": "27",
+    "spec": 779.0
+  },
+  {
+    "title": "SENIOR CALL CENTER REPRESENTATIVE",
+    "grade": "16",
+    "spec": 104.0
+  },
+  {
+    "title": "SENIOR CARTOGRAPHER",
+    "grade": "28",
+    "spec": 1138.0
+  },
+  {
+    "title": "SENIOR CASEWORKER",
+    "grade": "25",
+    "spec": 3006.0
+  },
+  {
+    "title": "SENIOR CASHIER",
+    "grade": "10",
+    "spec": 202.0
+  },
+  {
+    "title": "SENIOR CITIZEN ADVOCATE",
+    "grade": "29",
+    "spec": 3712.0
+  },
+  {
+    "title": "SENIOR CITIZEN AIDE",
+    "grade": "04",
+    "spec": 3710.0
+  },
+  {
+    "title": "SENIOR CITIZEN AIDE II",
+    "grade": "06",
+    "spec": 3700.0
+  },
+  {
+    "title": "SENIOR CITIZENS PROGRAM ADMINISTRATOR",
+    "grade": "25",
+    "spec": 3704.0
+  },
+  {
+    "title": "SENIOR CITIZENS PROGRAM ADMINISTRATOR II",
+    "grade": "27",
+    "spec": 3698.0
+  },
+  {
+    "title": "SENIOR CIVIL ENGINEER",
+    "grade": "29",
+    "spec": 1015.0
+  },
+  {
+    "title": "SENIOR CLERK",
+    "grade": "11",
+    "spec": 12.0
+  },
+  {
+    "title": "SENIOR COMMUNITY DEVELOPMENT AND PLANNING SPECIALIST",
+    "grade": "24",
+    "spec": 1595.0
+  },
+  {
+    "title": "SENIOR COMMUNITY SERVICE AIDE",
+    "grade": "08",
+    "spec": 3702.0
+  },
+  {
+    "title": "SENIOR COMPUTER PROGRAMMER",
+    "grade": "24",
+    "spec": 542.0
+  },
+  {
+    "title": "SENIOR CONTRACTS EXAMINER",
+    "grade": "24",
+    "spec": 353.0
+  },
+  {
+    "title": "SENIOR COOK",
+    "grade": "14",
+    "spec": 8112.0
+  },
+  {
+    "title": "SENIOR COUNTY PARKS SUPERINTENDENT",
+    "grade": "31",
+    "spec": 4257.0
+  },
+  {
+    "title": "SENIOR CRIMINAL IDENTIFICATION TECHNICIAN",
+    "grade": "21",
+    "spec": 5702.0
+  },
+  {
+    "title": "SENIOR DATA ENTRY OPERATOR",
+    "grade": "11",
+    "spec": 508.0
+  },
+  {
+    "title": "SENIOR DENTAL HYGIENIST",
+    "grade": "19",
+    "spec": 2614.0
+  },
+  {
+    "title": "SENIOR DEPUTY COMMISSIONER OF LABOR, LICENSING AND CONSUMER AFFAIRS",
+    "grade": "35",
+    "spec": 9358.0
+  },
+  {
+    "title": "SENIOR DEPUTY COUNTY CLERK",
+    "grade": "29",
+    "spec": 9320.0
+  },
+  {
+    "title": "SENIOR DEPUTY MEDICAL EXAMINER",
+    "grade": "UNG",
+    "spec": 2822.0
+  },
+  {
+    "title": "SENIOR DETECTIVE INVESTIGATOR",
+    "grade": "29",
+    "spec": 5732.0
+  },
+  {
+    "title": "SENIOR DRUG ABUSE EDUCATOR",
+    "grade": "22",
+    "spec": 2712.0
+  },
+  {
+    "title": "SENIOR ECONOMIST",
+    "grade": "28",
+    "spec": 709.0
+  },
+  {
+    "title": "SENIOR EDUCATION CONSULTANT",
+    "grade": "23",
+    "spec": 3035.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 1",
+    "grade": "UNG",
+    "spec": 9260.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 10",
+    "grade": "UNG",
+    "spec": 9269.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 11",
+    "grade": "UNG",
+    "spec": 9270.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 12",
+    "grade": "UNG",
+    "spec": 9271.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 13",
+    "grade": "UNG",
+    "spec": 9272.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 2",
+    "grade": "UNG",
+    "spec": 9261.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 3",
+    "grade": "UNG",
+    "spec": 9262.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 4",
+    "grade": "UNG",
+    "spec": 9263.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 5",
+    "grade": "UNG",
+    "spec": 9264.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 6",
+    "grade": "UNG",
+    "spec": 9265.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 7",
+    "grade": "UNG",
+    "spec": 9266.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 8",
+    "grade": "UNG",
+    "spec": 9267.0
+  },
+  {
+    "title": "SENIOR ELECTION CLERK 9",
+    "grade": "UNG",
+    "spec": 9268.0
+  },
+  {
+    "title": "SENIOR ELECTRICAL ENGINEER",
+    "grade": "29",
+    "spec": 1024.0
+  },
+  {
+    "title": "SENIOR EMPLOYEE BENEFITS REPRESENTATIVE",
+    "grade": "14",
+    "spec": 427.0
+  },
+  {
+    "title": "SENIOR ENERGY COORDINATOR",
+    "grade": "24",
+    "spec": 5220.0
+  },
+  {
+    "title": "SENIOR ENGINEERING AIDE",
+    "grade": "14",
+    "spec": 1002.0
+  },
+  {
+    "title": "SENIOR ENVIRONMENTAL ANALYST",
+    "grade": "26",
+    "spec": 1242.0
+  },
+  {
+    "title": "SENIOR ENVIRONMENTAL PLANNER",
+    "grade": "24",
+    "spec": 1518.0
+  },
+  {
+    "title": "SENIOR EVIDENCE SPECIALIST",
+    "grade": "28-11",
+    "spec": 5706.0
+  },
+  {
+    "title": "SENIOR EXECUTIVE ANALYST",
+    "grade": "30",
+    "spec": 784.0
+  },
+  {
+    "title": "SENIOR FEDERAL AND STATE AID CLAIMS EXAMINER",
+    "grade": "25",
+    "spec": 274.0
+  },
+  {
+    "title": "SENIOR FINANCIAL ANALYST",
+    "grade": "26",
+    "spec": 236.0
+  },
+  {
+    "title": "SENIOR FOOD SERVICE SUPERVISOR",
+    "grade": "25",
+    "spec": 8142.0
+  },
+  {
+    "title": "SENIOR GOVERNMENT LIAISON OFFICER",
+    "grade": "35",
+    "spec": 279.0
+  },
+  {
+    "title": "SENIOR GRANTS ANALYST",
+    "grade": "24",
+    "spec": 718.0
+  },
+  {
+    "title": "SENIOR GUARD",
+    "grade": "18",
+    "spec": 7081.0
+  },
+  {
+    "title": "SENIOR HUMAN RESOURCES ANALYST",
+    "grade": "26",
+    "spec": 448.0
+  },
+  {
+    "title": "SENIOR HUMAN RIGHTS INVESTIGATOR",
+    "grade": "21",
+    "spec": 3743.0
+  },
+  {
+    "title": "SENIOR ILLUSTRATOR",
+    "grade": "19",
+    "spec": 1128.0
+  },
+  {
+    "title": "SENIOR INDUSTRIAL ENGINEER",
+    "grade": "29",
+    "spec": 1029.0
+  },
+  {
+    "title": "SENIOR INDUSTRIAL WASTE PRETREATMENT TECHNICIAN",
+    "grade": "23",
+    "spec": 7678.0
+  },
+  {
+    "title": "SENIOR INSTRUMENTATION TECHNICIAN",
+    "grade": "23",
+    "spec": 1073.0
+  },
+  {
+    "title": "SENIOR INSURANCE CONTRACT ANALYST",
+    "grade": "24",
+    "spec": 938.0
+  },
+  {
+    "title": "SENIOR INVESTIGATIVE AUDITOR",
+    "grade": "33",
+    "spec": 239.0
+  },
+  {
+    "title": "SENIOR LABOR MEDIATOR",
+    "grade": "31",
+    "spec": 918.0
+  },
+  {
+    "title": "SENIOR LABOR RELATIONS ANALYST",
+    "grade": "24",
+    "spec": 933.0
+  },
+  {
+    "title": "SENIOR LEGAL SECRETARY",
+    "grade": "14",
+    "spec": 61.0
+  },
+  {
+    "title": "SENIOR LEGISLATIVE ANALYST",
+    "grade": "27",
+    "spec": 772.0
+  },
+  {
+    "title": "SENIOR LEGISLATIVE ASSISTANT",
+    "grade": "27",
+    "spec": 9820.0
+  },
+  {
+    "title": "SENIOR LEGISLATIVE ASSISTANT",
+    "grade": "27",
+    "spec": 9820.0
+  },
+  {
+    "title": "SENIOR LIFEGUARD",
+    "grade": "UNG",
+    "spec": 4042.0
+  },
+  {
+    "title": "SENIOR MAIL CLERK",
+    "grade": "11",
+    "spec": 18.0
+  },
+  {
+    "title": "SENIOR MANAGEMENT ANALYST",
+    "grade": "26",
+    "spec": 732.0
+  },
+  {
+    "title": "SENIOR MECHANICAL ENGINEER",
+    "grade": "29",
+    "spec": 1038.0
+  },
+  {
+    "title": "SENIOR MEDICAL RECORDS CLERK",
+    "grade": "14",
+    "spec": 71.0
+  },
+  {
+    "title": "SENIOR MEDICAL SERVICES SPECIALIST",
+    "grade": "26",
+    "spec": 2642.0
+  },
+  {
+    "title": "SENIOR MICROGRAPHICS OPERATOR",
+    "grade": "10",
+    "spec": 121.0
+  },
+  {
+    "title": "SENIOR MICROGRAPHICS TECHNICIAN",
+    "grade": "18",
+    "spec": 127.0
+  },
+  {
+    "title": "SENIOR MORGUE AMBULANCE DRIVER",
+    "grade": "18",
+    "spec": 2814.0
+  },
+  {
+    "title": "SENIOR MORGUE ASSISTANT",
+    "grade": "18",
+    "spec": 2806.0
+  },
+  {
+    "title": "SENIOR NEIGHBORHOOD AIDE",
+    "grade": "17",
+    "spec": 3707.0
+  },
+  {
+    "title": "SENIOR OFFICE ASSISTANT",
+    "grade": "12",
+    "spec": 26.0
+  },
+  {
+    "title": "SENIOR OFFICE ASSISTANT",
+    "grade": "12",
+    "spec": 26.0
+  },
+  {
+    "title": "SENIOR OFFICIAL EXAMINER OF TITLE",
+    "grade": "39",
+    "spec": 654.0
+  },
+  {
+    "title": "SENIOR OPERATIONS REVIEW SPECIALIST",
+    "grade": "24",
+    "spec": 227.0
+  },
+  {
+    "title": "SENIOR PARALEGAL",
+    "grade": "19",
+    "spec": 6138.0
+  },
+  {
+    "title": "SENIOR PERSONNEL ANALYST",
+    "grade": "26",
+    "spec": 403.0
+  },
+  {
+    "title": "SENIOR PHOTOGRAPHIC TECHNICIAN",
+    "grade": "17",
+    "spec": 1922.0
+  },
+  {
+    "title": "SENIOR PLANNER",
+    "grade": "26",
+    "spec": 1512.0
+  },
+  {
+    "title": "SENIOR PLANNER (TRANSPORTATION)",
+    "grade": "26",
+    "spec": 1626.0
+  },
+  {
+    "title": "SENIOR POLICE OPERATIONS AIDE",
+    "grade": "16",
+    "spec": 163.0
+  },
+  {
+    "title": "SENIOR PROBATION OFFICER",
+    "grade": "23",
+    "spec": 6512.0
+  },
+  {
+    "title": "SENIOR PROGRAM EXAMINER",
+    "grade": "26",
+    "spec": 742.0
+  },
+  {
+    "title": "SENIOR PROGRAMMER ANALYST",
+    "grade": "27",
+    "spec": 556.0
+  },
+  {
+    "title": "SENIOR PSYCHIATRIC SOCIAL WORKER",
+    "grade": "25",
+    "spec": 2512.0
+  },
+  {
+    "title": "SENIOR PUBLIC HEALTH EDUCATOR",
+    "grade": "22",
+    "spec": 2621.0
+  },
+  {
+    "title": "SENIOR PUBLIC HEALTH ENGINEER",
+    "grade": "29",
+    "spec": 2133.0
+  },
+  {
+    "title": "SENIOR PUBLIC HEALTH SANITARIAN",
+    "grade": "24",
+    "spec": 2112.0
+  },
+  {
+    "title": "SENIOR PURCHASING AGENT",
+    "grade": "24",
+    "spec": 345.0
+  },
+  {
+    "title": "SENIOR RESEARCH ANALYST",
+    "grade": "26",
+    "spec": 703.0
+  },
+  {
+    "title": "SENIOR SAFETY OFFICER",
+    "grade": "26",
+    "spec": 5362.0
+  },
+  {
+    "title": "SENIOR SECURITY GUARD",
+    "grade": "17",
+    "spec": 7091.0
+  },
+  {
+    "title": "SENIOR SOIL DISTRICT TECHNICIAN",
+    "grade": "19",
+    "spec": 1281.0
+  },
+  {
+    "title": "SENIOR STENOGRAPHER",
+    "grade": "12",
+    "spec": 32.0
+  },
+  {
+    "title": "SENIOR SYSTEMS ANALYST",
+    "grade": "27",
+    "spec": 562.0
+  },
+  {
+    "title": "SENIOR TRAFFIC COURT SPECIALIST",
+    "grade": "18",
+    "spec": 57.0
+  },
+  {
+    "title": "SENIOR VETERANS SERVICE OFFICER",
+    "grade": "20",
+    "spec": 3771.0
+  },
+  {
+    "title": "SENIOR VOCATIONAL REHABILITATION COUNSELOR",
+    "grade": "24",
+    "spec": 3736.0
+  },
+  {
+    "title": "SENIOR WASTEWATER TREATMENT PLANT HELPER",
+    "grade": "14",
+    "spec": 7669.0
+  },
+  {
+    "title": "SENIOR WASTEWATER TREATMENT PLANT OPERATOR (2)",
+    "grade": "20",
+    "spec": 7472.0
+  },
+  {
+    "title": "SENIOR WASTEWATER TREATMENT PLANT OPERATOR (3A)",
+    "grade": "20",
+    "spec": 7475.0
+  },
+  {
+    "title": "SENIOR WASTEWATER TREATMENT PLANT OPERATOR (4A)",
+    "grade": "20",
+    "spec": 7478.0
+  },
+  {
+    "title": "SENIOR WEIGHTS AND MEASURES INSPECTOR",
+    "grade": "23",
+    "spec": 5252.0
+  },
+  {
+    "title": "SENIOR WORKERS' COMPENSATION CLAIMS EXAMINER",
+    "grade": "19",
+    "spec": 946.0
+  },
+  {
+    "title": "SENIOR X-RAY TECHNICIAN",
+    "grade": "18",
+    "spec": 2242.0
+  },
+  {
+    "title": "SERGEANT (POLICE)",
+    "grade": "UNG",
+    "spec": 5003.0
+  },
+  {
+    "title": "SHELTER OFFICER (EMERGENCY PREPAREDNESS)",
+    "grade": "16",
+    "spec": 5810.0
+  },
+  {
+    "title": "SHERIFF",
+    "grade": "UNG",
+    "spec": 9405.0
+  },
+  {
+    "title": "SIGN PAINTER I",
+    "grade": "16",
+    "spec": 7111.0
+  },
+  {
+    "title": "SIGN PAINTER II",
+    "grade": "18",
+    "spec": 7333.0
+  },
+  {
+    "title": "SIGN SHOP MANAGER",
+    "grade": "22",
+    "spec": 7332.0
+  },
+  {
+    "title": "SOCIAL SERVICES ADMINISTRATIVE PLANNER",
+    "grade": "26",
+    "spec": 1540.0
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER I",
+    "grade": "UNG",
+    "spec": 3081.0
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER I",
+    "grade": "16",
+    "spec": 3081.0
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER I (SPANISH SPEAKING)",
+    "grade": "16",
+    "spec": 3091.0
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER I (SPANISH SPEAKING)- HELP PROGRAM",
+    "grade": "16",
+    "spec": 9006.0
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER I- HELP PROGRAM",
+    "grade": "16",
+    "spec": 9005.0
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER II",
+    "grade": "19",
+    "spec": 3082.0
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER III",
+    "grade": "23",
+    "spec": 3083.0
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER IV",
+    "grade": "27",
+    "spec": 3084.0
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER V",
+    "grade": "29",
+    "spec": 3085.0
+  },
+  {
+    "title": "SOCIAL SERVICES HOUSING ADVISOR",
+    "grade": "16",
+    "spec": 3211.0
+  },
+  {
+    "title": "SOCIAL SERVICES HOUSING CONSULTANT",
+    "grade": "20",
+    "spec": 3213.0
+  },
+  {
+    "title": "SOCIAL SERVICES MANAGEMENT SYSTEMS COORDINATOR",
+    "grade": "28",
+    "spec": 3087.0
+  },
+  {
+    "title": "SOCIAL SERVICES MANAGEMENT SYSTEMS SPECIALIST",
+    "grade": "23",
+    "spec": 3086.0
+  },
+  {
+    "title": "SOCIAL SERVICES PROJECT COORDINATOR",
+    "grade": "23",
+    "spec": 3020.0
+  },
+  {
+    "title": "SOCIAL SERVICES TRAINING ADMINISTRATOR",
+    "grade": "26",
+    "spec": 3039.0
+  },
+  {
+    "title": "SOCIAL SERVICES TRAINING SPECIALIST",
+    "grade": "24",
+    "spec": 3038.0
+  },
+  {
+    "title": "SOCIAL WORK TRAINING DIRECTOR",
+    "grade": "28",
+    "spec": 3037.0
+  },
+  {
+    "title": "SOIL DISTRICT TECHNICIAN",
+    "grade": "18",
+    "spec": 1280.0
+  },
+  {
+    "title": "SPECIAL ASSISTANT TO COUNTY EXECUTIVE",
+    "grade": "37",
+    "spec": 9683.0
+  },
+  {
+    "title": "SPECIAL ASSISTANT TO COUNTY EXECUTIVE (MINORITY AFFAIRS)",
+    "grade": "26",
+    "spec": 439.0
+  },
+  {
+    "title": "SPECIAL CUSTODIAN",
+    "grade": "UNG",
+    "spec": 9201.0
+  },
+  {
+    "title": "SPECIAL EDUCATION COORDINATOR",
+    "grade": "23",
+    "spec": 2631.0
+  },
+  {
+    "title": "SPECIAL EDUCATION COORDINATOR (SPANISH SPEAKING)",
+    "grade": "23",
+    "spec": 2630.0
+  },
+  {
+    "title": "SPECIAL EDUCATION SERVICES PROVIDER",
+    "grade": "23",
+    "spec": 2629.0
+  },
+  {
+    "title": "SPECIAL INVESTIGATOR",
+    "grade": "26",
+    "spec": 5741.0
+  },
+  {
+    "title": "SPECIAL PROJECTS COORDINATOR",
+    "grade": "31",
+    "spec": 751.0
+  },
+  {
+    "title": "SPECIAL SERVICES COORDINATOR",
+    "grade": "34",
+    "spec": 748.0
+  },
+  {
+    "title": "SPECIAL TRAFFIC OPTIONS PROGRAM COORDINATOR",
+    "grade": "30",
+    "spec": 2732.0
+  },
+  {
+    "title": "SPECIAL TRANSPORTATION COORDINATOR",
+    "grade": "27",
+    "spec": 1631.0
+  },
+  {
+    "title": "SPECIALIST 2",
+    "grade": "UNG",
+    "spec": 9108.0
+  },
+  {
+    "title": "SPEECH THERAPIST",
+    "grade": "21",
+    "spec": 2316.0
+  },
+  {
+    "title": "STATISTICIAN",
+    "grade": "21",
+    "spec": 711.0
+  },
+  {
+    "title": "STENOGRAPHER",
+    "grade": "UNG",
+    "spec": 31.0
+  },
+  {
+    "title": "STENOGRAPHER",
+    "grade": "10",
+    "spec": 31.0
+  },
+  {
+    "title": "STENOGRAPHER (SPANISH SPEAKING)",
+    "grade": "10",
+    "spec": 30.0
+  },
+  {
+    "title": "STOCK CLERK",
+    "grade": "UNG",
+    "spec": 311.0
+  },
+  {
+    "title": "STOREKEEPER",
+    "grade": "13",
+    "spec": 313.0
+  },
+  {
+    "title": "STORM RESPONSE EQUIPMENT OPERATOR",
+    "grade": "UNG",
+    "spec": 7202.0
+  },
+  {
+    "title": "STORMWATER CONTROL SPECIALIST",
+    "grade": "18",
+    "spec": 1285.0
+  },
+  {
+    "title": "STRUCTURAL DRAFTER",
+    "grade": "20",
+    "spec": 1117.0
+  },
+  {
+    "title": "SUPERINTENDENT OF RECREATION II",
+    "grade": "23",
+    "spec": 4024.0
+  },
+  {
+    "title": "SUPERVISING COMMUNITY SERVICE AIDE",
+    "grade": "12",
+    "spec": 3703.0
+  },
+  {
+    "title": "SUPERVISING MEDICAL FORENSIC INVESTIGATOR",
+    "grade": "32-11",
+    "spec": 2848.0
+  },
+  {
+    "title": "SUPERVISING MEDICAL SERVICES SPECIALIST",
+    "grade": "27",
+    "spec": 2643.0
+  },
+  {
+    "title": "SUPERVISING NURSE",
+    "grade": "19",
+    "spec": 2013.0
+  },
+  {
+    "title": "SUPERVISING PHYSICAL THERAPIST",
+    "grade": "23",
+    "spec": 2325.0
+  },
+  {
+    "title": "SUPERVISING PSYCHIATRIC SOCIAL WORKER",
+    "grade": "29",
+    "spec": 2513.0
+  },
+  {
+    "title": "SUPERVISING PSYCHOLOGIST",
+    "grade": "29",
+    "spec": 2523.0
+  },
+  {
+    "title": "SUPERVISING PUBLIC HEALTH EDUCATOR",
+    "grade": "26",
+    "spec": 2622.0
+  },
+  {
+    "title": "SUPERVISOR OF MEDICAL SOCIAL WORK",
+    "grade": "25",
+    "spec": 2665.0
+  },
+  {
+    "title": "SUPPORT SERVICES SUPERVISOR",
+    "grade": "27",
+    "spec": 9.0
+  },
+  {
+    "title": "SYSTEMS ANALYSIS SUPERVISOR",
+    "grade": "30",
+    "spec": 564.0
+  },
+  {
+    "title": "SYSTEMS ANALYSIS SUPERVISOR (CRIMINAL JUSTICE)",
+    "grade": "30",
+    "spec": 565.0
+  },
+  {
+    "title": "SYSTEMS ANALYSIS SUPERVISOR (SOCIAL SERVICES)",
+    "grade": "30",
+    "spec": 566.0
+  },
+  {
+    "title": "SYSTEMS ANALYST",
+    "grade": "24-2",
+    "spec": 561.0
+  },
+  {
+    "title": "SYSTEMS AND DATA BASE COORDINATOR",
+    "grade": "31",
+    "spec": 515.0
+  },
+  {
+    "title": "SYSTEMS PROGRAMMER",
+    "grade": "24",
+    "spec": 547.0
+  },
+  {
+    "title": "TAILOR",
+    "grade": "18",
+    "spec": 8213.0
+  },
+  {
+    "title": "TAX DEED SPECIALIST",
+    "grade": "18",
+    "spec": 74.0
+  },
+  {
+    "title": "TAX HISTORY CLERK",
+    "grade": "18",
+    "spec": 75.0
+  },
+  {
+    "title": "TAX HISTORY SUPERVISOR",
+    "grade": "21",
+    "spec": 76.0
+  },
+  {
+    "title": "TECHNICAL COORDINATOR OF COMPUTER SERVICES",
+    "grade": "UNG",
+    "spec": 9161.0
+  },
+  {
+    "title": "TELECOMMUNICATIONS AIDE",
+    "grade": "13",
+    "spec": 102.0
+  },
+  {
+    "title": "TELEVISION TECHNICIAN",
+    "grade": "21",
+    "spec": 1941.0
+  },
+  {
+    "title": "TEST SUPERVISOR",
+    "grade": "UNG",
+    "spec": 9904.0
+  },
+  {
+    "title": "THERAPEUTIC ACTIVITIES SPECIALIST",
+    "grade": "21",
+    "spec": 2312.0
+  },
+  {
+    "title": "THERAPEUTIC ACTIVITIES WORKER",
+    "grade": "10",
+    "spec": 2309.0
+  },
+  {
+    "title": "TITLE REGISTRATION SUPERVISOR",
+    "grade": "19",
+    "spec": 649.0
+  },
+  {
+    "title": "TORT CLAIMS ASSISTANT",
+    "grade": "11",
+    "spec": 6142.0
+  },
+  {
+    "title": "TORT CLAIMS MANAGER",
+    "grade": "17",
+    "spec": 6143.0
+  },
+  {
+    "title": "TOWN CUSTODIAN",
+    "grade": "UNG",
+    "spec": 9202.0
+  },
+  {
+    "title": "TRADE SHOP ASSISTANT",
+    "grade": "17",
+    "spec": 7528.0
+  },
+  {
+    "title": "TRADE SHOP MANAGER",
+    "grade": "23",
+    "spec": 7525.0
+  },
+  {
+    "title": "TRAFFIC COURT ADMINISTRATOR",
+    "grade": "32",
+    "spec": 59.0
+  },
+  {
+    "title": "TRAFFIC COURT SPECIALIST",
+    "grade": "UNG",
+    "spec": 56.0
+  },
+  {
+    "title": "TRAFFIC COURT SPECIALIST",
+    "grade": "16",
+    "spec": 56.0
+  },
+  {
+    "title": "TRAFFIC COURT SPECIALIST (SPANISH SPEAKING)",
+    "grade": "16",
+    "spec": 54.0
+  },
+  {
+    "title": "TRAFFIC COURT SPECIALIST TRAINEE",
+    "grade": "14",
+    "spec": 47.0
+  },
+  {
+    "title": "TRAFFIC COURT SPECIALIST TRAINEE (SPANISH SPEAKING)",
+    "grade": "14",
+    "spec": 48.0
+  },
+  {
+    "title": "TRAFFIC COURT SUPERVISOR",
+    "grade": "21",
+    "spec": 58.0
+  },
+  {
+    "title": "TRAFFIC ENGINEER I",
+    "grade": "23",
+    "spec": 1605.0
+  },
+  {
+    "title": "TRAFFIC ENGINEER II",
+    "grade": "26",
+    "spec": 1606.0
+  },
+  {
+    "title": "TRAFFIC ENGINEER III",
+    "grade": "29",
+    "spec": 1607.0
+  },
+  {
+    "title": "TRAFFIC TECHNICIAN I",
+    "grade": "14",
+    "spec": 1601.0
+  },
+  {
+    "title": "TRAFFIC TECHNICIAN II",
+    "grade": "17",
+    "spec": 1602.0
+  },
+  {
+    "title": "TRAFFIC TECHNICIAN III",
+    "grade": "19",
+    "spec": 1603.0
+  },
+  {
+    "title": "TRAINING AND SAFETY OFFICER",
+    "grade": "27",
+    "spec": 7657.0
+  },
+  {
+    "title": "TRAINING COORDINATOR",
+    "grade": "26",
+    "spec": 421.0
+  },
+  {
+    "title": "TRAINING OFFICER- EMERGENCY PREPAREDNESS",
+    "grade": "24",
+    "spec": 5812.0
+  },
+  {
+    "title": "TRANSPORTATION COORDINATOR",
+    "grade": "23",
+    "spec": 1620.0
+  },
+  {
+    "title": "TREE TRIMMER I",
+    "grade": "16",
+    "spec": 7016.0
+  },
+  {
+    "title": "TREE TRIMMER II",
+    "grade": "18",
+    "spec": 7362.0
+  },
+  {
+    "title": "TUGBOAT CAPTAIN",
+    "grade": "17",
+    "spec": 7384.0
+  },
+  {
+    "title": "TUTOR",
+    "grade": "UNG",
+    "spec": 9901.0
+  },
+  {
+    "title": "UNDERSHERIFF",
+    "grade": "UNG",
+    "spec": 9404.0
+  },
+  {
+    "title": "UTILIZATION REVIEW COORDINATOR",
+    "grade": "19",
+    "spec": 2645.0
+  },
+  {
+    "title": "VECTOR CONTROL AIDE",
+    "grade": "13",
+    "spec": 7801.0
+  },
+  {
+    "title": "VECTOR CONTROL ASSISTANT",
+    "grade": "10",
+    "spec": 7811.0
+  },
+  {
+    "title": "VECTOR CONTROL LABOR CREW LEADER",
+    "grade": "19",
+    "spec": 7303.0
+  },
+  {
+    "title": "VECTOR CONTROL SUPERINTENDENT",
+    "grade": "35",
+    "spec": 9363.0
+  },
+  {
+    "title": "VECTOR CONTROL SUPERVISOR",
+    "grade": "31",
+    "spec": 7813.0
+  },
+  {
+    "title": "VETERANS SERVICE AIDE",
+    "grade": "16",
+    "spec": 3772.0
+  },
+  {
+    "title": "VETERANS SERVICE OFFICER",
+    "grade": "18",
+    "spec": 3770.0
+  },
+  {
+    "title": "VICTIMS SERVICES COORDINATOR",
+    "grade": "21",
+    "spec": 6149.0
+  },
+  {
+    "title": "VOCATIONAL REHABILITATION COUNSELOR",
+    "grade": "22",
+    "spec": 3735.0
+  },
+  {
+    "title": "VOCATIONAL TRAINING SUPERVISOR",
+    "grade": "23",
+    "spec": 3737.0
+  },
+  {
+    "title": "VOLUNTEER COORDINATOR",
+    "grade": "17",
+    "spec": 3769.0
+  },
+  {
+    "title": "VOLUNTEER PROGRAMS COORDINATOR",
+    "grade": "21",
+    "spec": 3768.0
+  },
+  {
+    "title": "WARDEN",
+    "grade": "UNG",
+    "spec": 5510.0
+  },
+  {
+    "title": "WAREHOUSE WORKER II",
+    "grade": "10",
+    "spec": 316.0
+  },
+  {
+    "title": "WASTEWATER PLANT OPERATIONS SUPERVISOR",
+    "grade": "25",
+    "spec": 7653.0
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT HELPER",
+    "grade": "13",
+    "spec": 7670.0
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT OPERATOR (2)",
+    "grade": "18",
+    "spec": 7462.0
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT OPERATOR (3A)",
+    "grade": "18",
+    "spec": 7465.0
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT OPERATOR (4A)",
+    "grade": "18",
+    "spec": 7468.0
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT OPERATOR TRAINEE",
+    "grade": "16",
+    "spec": 7460.0
+  },
+  {
+    "title": "WATERWAYS MAINTENANCE MECHANIC II",
+    "grade": "13",
+    "spec": 7153.0
+  },
+  {
+    "title": "WATERWAYS MAINTENANCE MECHANIC III",
+    "grade": "16",
+    "spec": 7387.0
+  },
+  {
+    "title": "WEB AND SOCIAL MEDIA ADMINISTRATOR",
+    "grade": "25",
+    "spec": 754.0
+  },
+  {
+    "title": "WEBSITE MANAGER",
+    "grade": "21",
+    "spec": 756.0
+  },
+  {
+    "title": "WEBSITE SPECIALIST",
+    "grade": "17",
+    "spec": 757.0
+  },
+  {
+    "title": "WEIGHTS AND MEASURES INSPECTOR",
+    "grade": "20",
+    "spec": 5251.0
+  },
+  {
+    "title": "WELL DRILLER I",
+    "grade": "20",
+    "spec": 7240.0
+  },
+  {
+    "title": "WELL DRILLER I (DEEP AUGER)",
+    "grade": "22",
+    "spec": 7242.0
+  },
+  {
+    "title": "WELL DRILLER II",
+    "grade": "23",
+    "spec": 7241.0
+  },
+  {
+    "title": "WILDLIFE SPECIALIST",
+    "grade": "21",
+    "spec": 1249.0
+  },
+  {
+    "title": "WOMEN'S RESOURCES ADVISOR I",
+    "grade": "17",
+    "spec": 3777.0
+  },
+  {
+    "title": "WOMEN'S RESOURCES ADVISOR II",
+    "grade": "21",
+    "spec": 3776.0
+  },
+  {
+    "title": "WORKERS' COMPENSATION CLAIMS EXAMINER",
+    "grade": "17",
+    "spec": 945.0
+  },
+  {
+    "title": "WORKERS' COMPENSATION COORDINATOR",
+    "grade": "28",
+    "spec": 952.0
+  },
+  {
+    "title": "WORKERS' COMPENSATION INVESTIGATOR",
+    "grade": "21",
+    "spec": 950.0
+  },
+  {
+    "title": "WORKERS' COMPENSATION SUPERVISOR",
+    "grade": "26",
+    "spec": 925.0
+  },
+  {
+    "title": "WORKFORCE DEVELOPMENT BOARD COORDINATOR",
+    "grade": "30",
+    "spec": 3747.0
+  },
+  {
+    "title": "X-RAY TECHNICIAN",
+    "grade": "14",
+    "spec": 2241.0
+  },
+  {
+    "title": "YOUTH SERVICES COORDINATOR",
+    "grade": "27",
+    "spec": 3751.0
+  },
+  {
+    "title": "YOUTH SERVICES SPECIALIST",
+    "grade": "20",
+    "spec": 3750.0
+  },
+  {
+    "title": "YOUTH SERVICES SUPERVISOR",
+    "grade": "25",
+    "spec": 3749.0
+  }
+]
