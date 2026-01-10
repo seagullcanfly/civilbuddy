@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import Select from 'react-select';
 import salaryDataRaw from './salaries.json';
 import titleDataRaw from './titles.json';
@@ -11,167 +11,212 @@ type TitleData = { title: string; grade: string | number; spec: number };
 const salaryData = salaryDataRaw as SalaryData;
 const titleData = titleDataRaw as TitleData[];
 
-// Constants (Defaults based on analysis)
+// Constants
 const PAY_PERIODS = 26.1;
-const DEFAULT_HOLIDAYS = 13;
-const DEFAULT_HOLIDAY_MULTIPLIER = 1.5;
-const DEFAULT_EVE_DIFF = 0.06; // 6%
-const DEFAULT_NIGHT_DIFF = 0.10; // 10%
+const DEFAULT_HOLIDAYS = 13; // Can be adjusted
+const HOLIDAY_RATE_MULTIPLIER = 1.5;
 
 function App() {
-  const [selectedTitle, setSelectedTitle] = useState<{ value: string; label: string; grade: string; spec: number } | null>(null);
-  const [manualGrade, setManualGrade] = useState<string>('');
+  // Selection State
+  const [selectedTitle, setSelectedTitle] = useState<{ value: string; label: string; grade: string } | null>(null);
+  const [step, setStep] = useState<string>('0'); // Default to Step 0 (S)
   
-  // Settings State
-  const [holidays, setHolidays] = useState(DEFAULT_HOLIDAYS);
-  const [eveDiff, setEveDiff] = useState(DEFAULT_EVE_DIFF * 100);
-  const [nightDiff, setNightDiff] = useState(DEFAULT_NIGHT_DIFF * 100);
+  // Modifiers State
+  const [differential, setDifferential] = useState<number>(0); // 0, 0.06, or 0.10
+  const [includeHolidays, setIncludeHolidays] = useState<boolean>(false);
 
-  // Prepare options for Select
-  const options = useMemo(() => titleData.map(t => ({
-    value: t.title,
-    label: `${t.title} (Grade ${t.grade})`,
-    grade: String(t.grade),
-    spec: t.spec
-  })), []);
-
-  // Determine current grade (from title or manual override)
-  const currentGrade = selectedTitle ? selectedTitle.grade : manualGrade;
-
-  // Get steps for the grade
+  // Derived State
+  const currentGrade = selectedTitle ? String(selectedTitle.grade) : null;
+  
+  // Available Steps for the selected Grade
   const steps = useMemo(() => {
     if (!currentGrade || !salaryData[currentGrade]) return [];
-    // Sort steps: S, 1, 2, ... 15 (Handle 'S' as 0 for sorting)
+    // Sort steps numerically, treating 'S' as 0
     return Object.keys(salaryData[currentGrade]).sort((a, b) => {
-        if (a === 'S') return -1;
-        if (b === 'S') return 1;
-        return parseInt(a) - parseInt(b);
+        const valA = a === 'S' ? 0 : parseInt(a);
+        const valB = b === 'S' ? 0 : parseInt(b);
+        return valA - valB;
     });
   }, [currentGrade]);
 
-  const formatCurrency = (val: number) => val.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 });
+  // Reset step to '0' (S) when Grade changes
+  useEffect(() => {
+    if (steps.includes('S')) setStep('S');
+    else if (steps.includes('0')) setStep('0');
+    else if (steps.length > 0) setStep(steps[0]);
+  }, [currentGrade, steps]);
+
+  // Calculations
+  const baseBiWeekly = (currentGrade && step && salaryData[currentGrade] && salaryData[currentGrade][step]) 
+    ? salaryData[currentGrade][step] 
+    : 0;
+
+  // Apply Differential
+  const biWeeklyWithDiff = baseBiWeekly * (1 + differential);
+  
+  // Calculate Annual Base (with Diff)
+  const annualWithDiff = biWeeklyWithDiff * PAY_PERIODS;
+
+  // Calculate Holiday Pay
+  // Formula: (BaseBiWeekly / 10) * 1.5 * 13
+  // Note: Differentials usually apply to holiday pay too? 
+  // If you work the holiday, you get your normal pay (with diff) + holiday pay (1.5x).
+  // Assuming the "Holiday" checkbox means "Add the extra holiday pay check amount to the annual total".
+  
+  // Using Base for Holiday calculation (standard) or With Diff? 
+  // Usually, Holiday Pay is based on the daily rate including differential if it's a permanent shift.
+  // I will use the rate *with* differential to be safe, as night shift workers get night rate for holidays.
+  const dailyRate = biWeeklyWithDiff / 10;
+  const holidayPayTotal = includeHolidays ? (dailyRate * HOLIDAY_RATE_MULTIPLIER * DEFAULT_HOLIDAYS) : 0;
+
+  const finalAnnual = annualWithDiff + holidayPayTotal;
+
+  // Formatting
+  const formatMoney = (val: number) => val.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
+
+  // Select Options
+  const titleOptions = useMemo(() => titleData.map(t => ({
+    value: t.title,
+    label: `${t.title}`,
+    grade: String(t.grade)
+  })), []);
 
   return (
-    <div className="container my-5">
-      <div className="card shadow-lg">
-        <div className="card-header bg-primary text-white">
-          <h2 className="mb-0">Civil Buddy Salary Calculator</h2>
-          <small>Suffolk County Civil Service</small>
+    <div className="container mt-5" style={{ maxWidth: '800px' }}>
+      <div className="card shadow border-0">
+        <div className="card-header bg-dark text-white text-center py-4">
+          <h2 className="mb-0 fw-bold">Civil Buddy</h2>
+          <p className="mb-0 opacity-75">Suffolk County Salary Calculator</p>
         </div>
         
-        <div className="card-body">
-          {/* Controls */}
+        <div className="card-body p-4">
+          
+          {/* 1. Job Title Select */}
+          <div className="mb-4">
+            <label className="form-label fw-bold">Job Title</label>
+            <Select 
+              options={titleOptions} 
+              onChange={setSelectedTitle}
+              placeholder="Search for your title..."
+              isClearable
+              className="basic-single"
+              classNamePrefix="select"
+            />
+            {currentGrade && <small className="text-muted">Grade: {currentGrade}</small>}
+          </div>
+
+          {/* 2. Step, Diff, Holiday Row */}
           <div className="row g-3 mb-4">
-            <div className="col-md-8">
-              <label className="form-label fw-bold">Select Job Title</label>
-              <Select 
-                options={options} 
-                onChange={setSelectedTitle}
-                placeholder="Search for a job title..."
-                isClearable
-                className="text-dark"
-              />
-            </div>
+            
+            {/* Step Selection */}
             <div className="col-md-4">
-               <label className="form-label fw-bold">Grade</label>
-               <input 
-                 type="text" 
-                 className="form-control" 
-                 value={currentGrade} 
-                 onChange={(e) => {
-                   setManualGrade(e.target.value);
-                   setSelectedTitle(null);
-                 }}
-                 placeholder="Or enter Grade manually"
-               />
+              <label className="form-label fw-bold">Step</label>
+              <select 
+                className="form-select" 
+                value={step} 
+                onChange={(e) => setStep(e.target.value)}
+                disabled={!currentGrade}
+              >
+                {steps.map(s => (
+                  <option key={s} value={s}>
+                    {s === '0' || s === 'S' ? 'Step S (Starting)' : `Step ${s}`}
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            {/* Differential Selection */}
+            <div className="col-md-5">
+              <label className="form-label fw-bold">Differential</label>
+              <div className="btn-group w-100" role="group">
+                <input 
+                  type="radio" 
+                  className="btn-check" 
+                  name="diff" 
+                  id="diffNone" 
+                  checked={differential === 0} 
+                  onChange={() => setDifferential(0)} 
+                />
+                <label className="btn btn-outline-secondary" htmlFor="diffNone">None</label>
+
+                <input 
+                  type="radio" 
+                  className="btn-check" 
+                  name="diff" 
+                  id="diffEve" 
+                  checked={differential === 0.06} 
+                  onChange={() => setDifferential(0.06)} 
+                />
+                <label className="btn btn-outline-secondary" htmlFor="diffEve">Eve (6%)</label>
+
+                <input 
+                  type="radio" 
+                  className="btn-check" 
+                  name="diff" 
+                  id="diffNight" 
+                  checked={differential === 0.10} 
+                  onChange={() => setDifferential(0.10)} 
+                />
+                <label className="btn btn-outline-secondary" htmlFor="diffNight">Night (10%)</label>
+              </div>
+            </div>
+
+            {/* Holiday Toggle */}
+            <div className="col-md-3">
+               <label className="form-label fw-bold d-block">Holidays</label>
+               <div className="form-check form-switch mt-2">
+                 <input 
+                   className="form-check-input" 
+                   type="checkbox" 
+                   id="holidaySwitch"
+                   checked={includeHolidays}
+                   onChange={(e) => setIncludeHolidays(e.target.checked)}
+                 />
+                 <label className="form-check-label" htmlFor="holidaySwitch">Include</label>
+               </div>
             </div>
           </div>
 
-          {/* Settings Toggle */}
-          <details className="mb-4">
-            <summary className="text-primary fw-bold cursor-pointer">Advanced Settings (Differentials & Holidays)</summary>
-            <div className="card card-body mt-2 bg-light">
-              <div className="row g-3">
-                 <div className="col-md-4">
-                   <label className="form-label">Evening Diff (%)</label>
-                   <input type="number" className="form-control" value={eveDiff} onChange={e => setEveDiff(Number(e.target.value))} />
+          <hr className="my-4" />
+
+          {/* 3. Big Result Display */}
+          <div className="text-center">
+            {currentGrade ? (
+               <div className="row justify-content-center">
+                 <div className="col-md-6 mb-3">
+                   <div className="card h-100 border-primary bg-light">
+                     <div className="card-body">
+                       <h6 className="text-uppercase text-muted fw-bold">Bi-Weekly Gross</h6>
+                       <h2 className="display-6 fw-bold text-primary mb-0">{formatMoney(biWeeklyWithDiff)}</h2>
+                       {differential > 0 && <small className="text-success">Includes {differential * 100}% Diff</small>}
+                     </div>
+                   </div>
                  </div>
-                 <div className="col-md-4">
-                   <label className="form-label">Night Diff (%)</label>
-                   <input type="number" className="form-control" value={nightDiff} onChange={e => setNightDiff(Number(e.target.value))} />
+
+                 <div className="col-md-6 mb-3">
+                   <div className="card h-100 border-success bg-light">
+                     <div className="card-body">
+                       <h6 className="text-uppercase text-muted fw-bold">Annual Gross</h6>
+                       <h2 className="display-6 fw-bold text-success mb-0">{formatMoney(finalAnnual)}</h2>
+                       {includeHolidays && <small className="text-muted d-block">+ Holiday Pay Included</small>}
+                     </div>
+                   </div>
                  </div>
-                 <div className="col-md-4">
-                   <label className="form-label">Paid Holidays (Days)</label>
-                   <input type="number" className="form-control" value={holidays} onChange={e => setHolidays(Number(e.target.value))} />
-                 </div>
+               </div>
+            ) : (
+              <div className="text-muted py-4">
+                <p className="mb-0">Select a Job Title above to see salary details.</p>
               </div>
-            </div>
-          </details>
+            )}
+          </div>
 
-          {/* Results Table */}
-          {currentGrade && steps.length > 0 ? (
-            <div className="table-responsive">
-              <table className="table table-striped table-hover table-bordered text-center align-middle">
-                <thead className="table-dark">
-                  <tr>
-                    <th rowSpan={2}>Step</th>
-                    <th colSpan={2}>Base Pay</th>
-                    <th colSpan={2}>Evening ({eveDiff}%)</th>
-                    <th colSpan={2}>Night ({nightDiff}%)</th>
-                  </tr>
-                  <tr>
-                    <th>Bi-Weekly</th>
-                    <th>Annual</th>
-                    <th>Bi-Weekly</th>
-                    <th>Annual (+Hol)</th>
-                    <th>Bi-Weekly</th>
-                    <th>Annual (+Hol)</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {steps.map(step => {
-                    const baseBiWeekly = salaryData[currentGrade][step];
-                    const baseAnnual = baseBiWeekly * PAY_PERIODS;
-                    
-                    const dailyRate = baseBiWeekly / 10;
-                    const holidayPayTotal = dailyRate * DEFAULT_HOLIDAY_MULTIPLIER * holidays;
-
-                    // Evening
-                    const eveBiWeekly = baseBiWeekly * (1 + (eveDiff / 100));
-                    const eveAnnual = (eveBiWeekly * PAY_PERIODS);
-                    const eveAnnualWithHol = eveAnnual + holidayPayTotal; // Holidays are usually added to total comp
-
-                    // Night
-                    const nightBiWeekly = baseBiWeekly * (1 + (nightDiff / 100));
-                    const nightAnnual = (nightBiWeekly * PAY_PERIODS);
-                    const nightAnnualWithHol = nightAnnual + holidayPayTotal;
-
-                    return (
-                      <tr key={step}>
-                        <td className="fw-bold">{step}</td>
-                        <td className="bg-white">{formatCurrency(baseBiWeekly)}</td>
-                        <td className="fw-bold text-primary">{formatCurrency(baseAnnual)}</td>
-                        
-                        <td>{formatCurrency(eveBiWeekly)}</td>
-                        <td className="text-success">{formatCurrency(eveAnnualWithHol)}</td>
-                        
-                        <td>{formatCurrency(nightBiWeekly)}</td>
-                        <td className="text-success">{formatCurrency(nightAnnualWithHol)}</td>
-                      </tr>
-                    );
-                  })}
-                </tbody>
-              </table>
-            </div>
-          ) : (
-             <div className="alert alert-info text-center">
-               Please select a Job Title or enter a Grade to view the salary schedule.
-             </div>
-          )}
+        </div>
+        <div className="card-footer bg-white text-center text-muted">
+           <small>Rates effective Jan 2024. Standard 26.1 Pay Periods.</small>
         </div>
       </div>
     </div>
   )
 }
 
-export default App
+export default App;
