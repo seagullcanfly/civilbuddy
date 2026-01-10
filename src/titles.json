@@ -161,7 +161,7 @@
   },
   {
     "title": "ANIMAL CARETAKER",
-    "grade": "09",
+    "grade": "9",
     "spec": 5409.0
   },
   {
@@ -341,7 +341,7 @@
   },
   {
     "title": "ASSISTANT COOK",
-    "grade": "09",
+    "grade": "9",
     "spec": 8110.0
   },
   {
@@ -1076,7 +1076,7 @@
   },
   {
     "title": "AUDIO VISUAL AIDE",
-    "grade": "07",
+    "grade": "7",
     "spec": 1901.0
   },
   {
@@ -1141,7 +1141,7 @@
   },
   {
     "title": "AUTOMOTIVE PARTS CLERK",
-    "grade": "09",
+    "grade": "9",
     "spec": 322.0
   },
   {
@@ -1466,12 +1466,12 @@
   },
   {
     "title": "CASHIER",
-    "grade": "08",
+    "grade": "8",
     "spec": 201.0
   },
   {
     "title": "CASHIER (SPANISH SPEAKING)",
-    "grade": "08",
+    "grade": "8",
     "spec": 209.0
   },
   {
@@ -1881,7 +1881,7 @@
   },
   {
     "title": "CLERK",
-    "grade": "09",
+    "grade": "9",
     "spec": 11.0
   },
   {
@@ -1906,7 +1906,7 @@
   },
   {
     "title": "CLINIC AIDE",
-    "grade": "06",
+    "grade": "6",
     "spec": 2601.0
   },
   {
@@ -2341,7 +2341,7 @@
   },
   {
     "title": "COMMUNITY SERVICE AIDE",
-    "grade": "05",
+    "grade": "5",
     "spec": 3701.0
   },
   {
@@ -2721,7 +2721,7 @@
   },
   {
     "title": "CUSTODIAL AIDE",
-    "grade": "06",
+    "grade": "6",
     "spec": 8050.0
   },
   {
@@ -2791,7 +2791,7 @@
   },
   {
     "title": "DATA ENTRY OPERATOR",
-    "grade": "09",
+    "grade": "9",
     "spec": 507.0
   },
   {
@@ -2826,7 +2826,7 @@
   },
   {
     "title": "DENTAL ASSISTANT",
-    "grade": "08",
+    "grade": "8",
     "spec": 2607.0
   },
   {
@@ -2843,11 +2843,6 @@
     "title": "DENTAL SERVICE COORDINATOR",
     "grade": "13",
     "spec": 2609.0
-  },
-  {
-    "title": "DENTIST",
-    "grade": "26",
-    "spec": 2413.0
   },
   {
     "title": "DENTIST",
@@ -2998,11 +2993,6 @@
     "title": "DEPUTY DIRECTOR OF LABOR RELATIONS",
     "grade": "30",
     "spec": 935.0
-  },
-  {
-    "title": "DEPUTY DIRECTOR OF PROBATION",
-    "grade": "36",
-    "spec": 9385.0
   },
   {
     "title": "DEPUTY DIRECTOR OF PROBATION",
@@ -3631,7 +3621,7 @@
   },
   {
     "title": "DRIVER MESSENGER",
-    "grade": "08",
+    "grade": "8",
     "spec": 7211.0
   },
   {
@@ -3656,7 +3646,7 @@
   },
   {
     "title": "DUPLICATING MACHINE OPERATOR I",
-    "grade": "09",
+    "grade": "9",
     "spec": 110.0
   },
   {
@@ -3831,7 +3821,7 @@
   },
   {
     "title": "ELEVATOR OPERATOR",
-    "grade": "04",
+    "grade": "4",
     "spec": 7020.0
   },
   {
@@ -4156,7 +4146,7 @@
   },
   {
     "title": "FAMILY PLANNING AIDE",
-    "grade": "08",
+    "grade": "8",
     "spec": 2605.0
   },
   {
@@ -4256,12 +4246,12 @@
   },
   {
     "title": "FOOD SERVICE WORKER",
-    "grade": "07",
+    "grade": "7",
     "spec": 8101.0
   },
   {
     "title": "FOOD SERVICE WORKER II",
-    "grade": "09",
+    "grade": "9",
     "spec": 8102.0
   },
   {
@@ -4436,7 +4426,7 @@
   },
   {
     "title": "GARDENER",
-    "grade": "09",
+    "grade": "9",
     "spec": 7013.0
   },
   {
@@ -4641,7 +4631,7 @@
   },
   {
     "title": "HOME HEALTH AIDE",
-    "grade": "08",
+    "grade": "8",
     "spec": 2001.0
   },
   {
@@ -5021,7 +5011,7 @@
   },
   {
     "title": "LABORATORY AIDE",
-    "grade": "06",
+    "grade": "6",
     "spec": 2201.0
   },
   {
@@ -5106,7 +5096,7 @@
   },
   {
     "title": "LAUNDRY WORKER",
-    "grade": "06",
+    "grade": "6",
     "spec": 8201.0
   },
   {
@@ -5126,7 +5116,7 @@
   },
   {
     "title": "LAW LIBRARY CLERK",
-    "grade": "08",
+    "grade": "8",
     "spec": 49.0
   },
   {
@@ -5261,7 +5251,7 @@
   },
   {
     "title": "MAIL CLERK",
-    "grade": "06",
+    "grade": "6",
     "spec": 17.0
   },
   {
@@ -5371,12 +5361,12 @@
   },
   {
     "title": "MATERIEL CONTROL CLERK I",
-    "grade": "05",
+    "grade": "5",
     "spec": 301.0
   },
   {
     "title": "MATERIEL CONTROL CLERK II",
-    "grade": "09",
+    "grade": "9",
     "spec": 302.0
   },
   {
@@ -5406,12 +5396,12 @@
   },
   {
     "title": "MEDICAL ASSISTANT",
-    "grade": "09",
+    "grade": "9",
     "spec": 2606.0
   },
   {
     "title": "MEDICAL ASSISTANT (SPANISH SPEAKING)",
-    "grade": "09",
+    "grade": "9",
     "spec": 2610.0
   },
   {
@@ -5531,7 +5521,7 @@
   },
   {
     "title": "MICROFILM OPERATOR",
-    "grade": "09",
+    "grade": "9",
     "spec": 123.0
   },
   {
@@ -5541,7 +5531,7 @@
   },
   {
     "title": "MICROGRAPHICS OPERATOR",
-    "grade": "06",
+    "grade": "6",
     "spec": 120.0
   },
   {
@@ -5631,7 +5621,7 @@
   },
   {
     "title": "NURSES AIDE",
-    "grade": "09",
+    "grade": "9",
     "spec": 2003.0
   },
   {
@@ -5676,7 +5666,7 @@
   },
   {
     "title": "OFFICE ASSISTANT",
-    "grade": "09",
+    "grade": "9",
     "spec": 25.0
   },
   {
@@ -5686,7 +5676,7 @@
   },
   {
     "title": "OFFICE ASSISTANT (SPANISH SPEAKING)",
-    "grade": "09",
+    "grade": "9",
     "spec": 29.0
   },
   {
@@ -5911,7 +5901,7 @@
   },
   {
     "title": "PHOTOCOPY MACHINE OPERATOR",
-    "grade": "08",
+    "grade": "8",
     "spec": 130.0
   },
   {
@@ -5926,7 +5916,7 @@
   },
   {
     "title": "PHOTOGRAPHIC TECHNICIAN",
-    "grade": "09",
+    "grade": "9",
     "spec": 1921.0
   },
   {
@@ -6456,7 +6446,7 @@
   },
   {
     "title": "PUBLIC HEALTH AIDE",
-    "grade": "06",
+    "grade": "6",
     "spec": 2603.0
   },
   {
@@ -6736,7 +6726,7 @@
   },
   {
     "title": "REAL PROPERTY RECORDER I",
-    "grade": "09",
+    "grade": "9",
     "spec": 681.0
   },
   {
@@ -6771,7 +6761,7 @@
   },
   {
     "title": "RECREATION AIDE",
-    "grade": "08",
+    "grade": "8",
     "spec": 4001.0
   },
   {
@@ -6881,18 +6871,13 @@
   },
   {
     "title": "SCHOOL CROSSING GUARD",
-    "grade": "07",
+    "grade": "7",
     "spec": 5059.0
   },
   {
     "title": "SECRETARIAL ASSISTANT",
     "grade": "17",
     "spec": 36.0
-  },
-  {
-    "title": "SECRETARY",
-    "grade": "17",
-    "spec": 97.0
   },
   {
     "title": "SECRETARY",
@@ -7041,12 +7026,12 @@
   },
   {
     "title": "SENIOR CITIZEN AIDE",
-    "grade": "04",
+    "grade": "4",
     "spec": 3710.0
   },
   {
     "title": "SENIOR CITIZEN AIDE II",
-    "grade": "06",
+    "grade": "6",
     "spec": 3700.0
   },
   {
@@ -7076,7 +7061,7 @@
   },
   {
     "title": "SENIOR COMMUNITY SERVICE AIDE",
-    "grade": "08",
+    "grade": "8",
     "spec": 3702.0
   },
   {
@@ -7350,11 +7335,6 @@
     "spec": 9820.0
   },
   {
-    "title": "SENIOR LEGISLATIVE ASSISTANT",
-    "grade": "27",
-    "spec": 9820.0
-  },
-  {
     "title": "SENIOR LIFEGUARD",
     "grade": "UNG",
     "spec": 4042.0
@@ -7408,11 +7388,6 @@
     "title": "SENIOR NEIGHBORHOOD AIDE",
     "grade": "17",
     "spec": 3707.0
-  },
-  {
-    "title": "SENIOR OFFICE ASSISTANT",
-    "grade": "12",
-    "spec": 26.0
   },
   {
     "title": "SENIOR OFFICE ASSISTANT",
