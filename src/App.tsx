@@ -3,6 +3,7 @@ import type { ErrorInfo, ReactNode } from 'react';
 import { HashRouter as Router, Routes, Route, Link, useLocation } from 'react-router-dom';
 import SalaryVerification from './pages/SalaryVerification';
 import PromotionCalculator from './pages/PromotionCalculator';
+import CareerMap from './pages/CareerMap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Error Boundary Component
@@ -60,6 +61,9 @@ function NavBar() {
             <li className="nav-item">
               <Link className={`nav-link ${isActive('/promotion')}`} to="/promotion">Promotion Calculator</Link>
             </li>
+            <li className="nav-item">
+              <Link className={`nav-link ${isActive('/career-map')}`} to="/career-map">Career Map</Link>
+            </li>
           </ul>
         </div>
       </div>
@@ -76,6 +80,7 @@ function App() {
           <Routes>
             <Route path="/" element={<SalaryVerification />} />
             <Route path="/promotion" element={<PromotionCalculator />} />
+            <Route path="/career-map" element={<CareerMap />} />
           </Routes>
           
           <footer className="text-center text-muted mt-5 py-3">

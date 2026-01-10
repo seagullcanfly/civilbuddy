@@ -1,0 +1,8691 @@
+[
+  {
+    "title": "support services supervisor",
+    "parents": []
+  },
+  {
+    "title": "0011     doc        26,112  08-29-00  9:45a 0011.doc",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CLERK",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL CLERK",
+    "parents": []
+  },
+  {
+    "title": "HEAD CLERK",
+    "parents": []
+  },
+  {
+    "title": "CLERK (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "MAIL CLERK",
+    "parents": []
+  },
+  {
+    "title": "SENIOR MAIL CLERK",
+    "parents": []
+  },
+  {
+    "title": "MAIL ROOM SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "CLERK TYPIST (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CLERK TYPIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CLERK TYPIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR OFFICE ASSISTANT (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "OFFICE ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "SENIOR OFFICE ASSISTANT",
+    "parents": [
+      "Office Assistant",
+      "Office Assistant (Spanish Speaking)",
+      "Clerk",
+      "Data Entry Operator",
+      "Library Clerk",
+      "Library Clerk (Spanish Speaking)",
+      "Law Library Clerk",
+      "Legal Secretary",
+      "Medical Records Clerk",
+      "Medical Records Clerk (Spanish Speaking)",
+      "Medical Transcriptionist",
+      "Personnel Transactions Clerk",
+      "Real Property Recorder I",
+      "School Attendance Aide",
+      "Stenographer",
+      "Switchboard Operator"
+    ]
+  },
+  {
+    "title": "PRINCIPAL OFFICE ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "CHIEF OFFICE ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "OFFICE ASSISTANT (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "STENOGRAPHER (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "STENOGRAPHER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR STENOGRAPHER",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL STENOGRAPHER",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL OFFICE APPLICATIONS SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR OFFICE APPLICATIONS SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SECRETARIAL ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "OFFICE APPLICATIONS SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "WORD PROCESSING TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "COURT STENOGRAPHER",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC COURT SPECIALIST TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC COURT SPECIALIST TRAINEE (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "LAW LIBRARY CLERK",
+    "parents": []
+  },
+  {
+    "title": "JUSTICE COURT CLERK",
+    "parents": []
+  },
+  {
+    "title": "SENIOR JUSTICE COURT CLERK",
+    "parents": []
+  },
+  {
+    "title": "JUSTICE COURT CLERK (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "JUSTICE COURT CASHIER",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC COURT SPECIALIST (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "JUSTICE COURT DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC COURT SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR TRAFFIC COURT SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC COURT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC COURT ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "LEGAL SECRETARY",
+    "parents": []
+  },
+  {
+    "title": "SENIOR LEGAL SECRETARY",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL LEGAL SECRETARY",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL TRANSCRIPTIONIST",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL RECORDS ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL RECORDS CLERK (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL RECORDS CLERK",
+    "parents": []
+  },
+  {
+    "title": "SENIOR MEDICAL RECORDS CLERK",
+    "parents": []
+  },
+  {
+    "title": "MARITIME RECORDS CLERK",
+    "parents": []
+  },
+  {
+    "title": "TAX DEED SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "TAX HISTORY CLERK",
+    "parents": []
+  },
+  {
+    "title": "TAX HISTORY SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "FIRE  DISTRICT SECRETARY",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE SECRETARY TO THE ECONOMIC DEVELOPMENT COMMISSION",
+    "parents": []
+  },
+  {
+    "title": "SECRETARY",
+    "parents": []
+  },
+  {
+    "title": "CALL CENTER REPRESENTATIVE II",
+    "parents": []
+  },
+  {
+    "title": "CALL CENTER REPRESENTATIVE (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CALL CENTER REPRESENTATIVE",
+    "parents": []
+  },
+  {
+    "title": "TELECOMMUNICATIONS AIDE",
+    "parents": []
+  },
+  {
+    "title": "CALL CENTER MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CALL CENTER REPRESENTATIVE",
+    "parents": []
+  },
+  {
+    "title": "CONSTITUENT SERVICES SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "CONSTITUENT SERVICES SUPERVISOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CONSTITUENT SERVICES REPRESENTATIVE",
+    "parents": []
+  },
+  {
+    "title": "COMMUNICATIONS SYSTEMS MANAGER",
+    "parents": []
+  },
+  {
+    "title": "DUPLICATING MACHINE OPERATOR I",
+    "parents": []
+  },
+  {
+    "title": "DUPLICATING MACHINE OPERATOR II",
+    "parents": []
+  },
+  {
+    "title": "DUPLICATING MACHINE OPERATOR III",
+    "parents": []
+  },
+  {
+    "title": "DUPLICATING MACHINE OPERATOR IV",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT PRINT SHOP SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "PRINT SHOP SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "MICROFILM OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "MICROGRAPHICS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "SENIOR MICROGRAPHICS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "PHOTOCOPY MACHINE OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "PHOTOCOPY MACHINE OPERATOR II",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT MICROGRAPHICS MANAGER",
+    "parents": []
+  },
+  {
+    "title": "MICROGRAPHICS MANAGER",
+    "parents": []
+  },
+  {
+    "title": "TAX CASHIER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR TAX CASHIER",
+    "parents": []
+  },
+  {
+    "title": "RADIO DISPATCHER",
+    "parents": []
+  },
+  {
+    "title": "RADIO DISPATCHER II",
+    "parents": []
+  },
+  {
+    "title": "SENIOR POLICE OPERATIONS AIDE",
+    "parents": []
+  },
+  {
+    "title": "POLICE OPERATIONS AIDE",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY COMPLAINT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY COMPLAINT OPERATOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "POLICE OPERATIONS AIDE\t (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT FIRE DISTRICT MANAGER",
+    "parents": []
+  },
+  {
+    "title": "FIREHOUSE ATTENDANT",
+    "parents": []
+  },
+  {
+    "title": "DISPATCHER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR FIRE HOUSE ATTENDANT",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY SERVICES DISPATCHER I",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY SERVICES DISPATCHER II",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY SERVICES DISPATCHER III",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC SAFETY DISPATCHER I",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC SAFETY DISPATCHER II",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC SAFETY DISPATCHER III",
+    "parents": []
+  },
+  {
+    "title": "COMMUNICATIONS ANALYST I",
+    "parents": []
+  },
+  {
+    "title": "COMMUNICATIONS ANALYST II",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF TELECOMMUNICATIONS",
+    "parents": []
+  },
+  {
+    "title": "FIRE DISTRICT COMMUNICATIONS AND COMPUTER SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "CASHIER FISHERS ISLAND FERRY DISTRICT",
+    "parents": []
+  },
+  {
+    "title": "CASHIER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CASHIER",
+    "parents": []
+  },
+  {
+    "title": "ACCOUNT CLERK TYPIST (FISHERS ISLAND FERRY DISTRICT)",
+    "parents": []
+  },
+  {
+    "title": "ACCOUNT CLERK",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ACCOUNT CLERK",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL ACCOUNT CLERK",
+    "parents": []
+  },
+  {
+    "title": "ACCOUNT CLERK TYPIST (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CASHIER (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CHIEF FINANCIAL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "ACCOUNT CLERK (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "ACCOUNT CLERK TYPIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ACCOUNT CLERK TYPIST",
+    "parents": []
+  },
+  {
+    "title": "ACCOUNT CLERK - STENOGRAPHER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ACCOUNT CLERK STENOGRAPHER",
+    "parents": []
+  },
+  {
+    "title": "PAYROLL COMPLIANCE EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "FINANCIAL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "LEGISLATIVE FINANCIAL EVALUATOR",
+    "parents": []
+  },
+  {
+    "title": "ACCOUNTANT TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "ACCOUNTANT",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ACCOUNTANT",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL ACCOUNTANT",
+    "parents": []
+  },
+  {
+    "title": "CHIEF ACCOUNTANT",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF FINANCE AND TAXATION",
+    "parents": []
+  },
+  {
+    "title": "OPERATIONS REVIEW SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR OPERATIONS REVIEW SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF BUDGET REVIEW",
+    "parents": []
+  },
+  {
+    "title": "AUDITOR TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "AUDITOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR AUDITOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL AUDITOR",
+    "parents": []
+  },
+  {
+    "title": "CHIEF AUDITOR",
+    "parents": []
+  },
+  {
+    "title": "BUDGET ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "SENIOR FINANCIAL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF BUDGET REVIEW",
+    "parents": []
+  },
+  {
+    "title": "INVESTIGATIVE AUDITOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR INVESTIGATIVE AUDITOR",
+    "parents": []
+  },
+  {
+    "title": "BUDGET TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "BUDGET EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR BUDGET EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL BUDGET EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "CHIEF BUDGET EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT BUDGET DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "BUDGET DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT INTERGOVERNMENTAL RELATIONS COORDINATOR\t0247",
+    "parents": []
+  },
+  {
+    "title": "INTERGOVERNMENTAL RELATIONS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "CHIEF PROGRAM EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF BUDGET REVIEW",
+    "parents": []
+  },
+  {
+    "title": "BUDGET ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR BUDGET ANALYST",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL FINANCIAL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "TOWN INTERGOVERNMENTAL RELATIONS COORDINATOR\t0254",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY BUDGET DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT FEDERAL AND STATE AID CLAIMS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT FEDERAL AND STATE AID COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "FEDERAL AND STATE AID CLAIMS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "PROGRAM COORDINATOR (CRIMINAL JUSTICE PLANNING)",
+    "parents": []
+  },
+  {
+    "title": "GRANTS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "HEALTH FINANCIAL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "FINANCIAL DIRECTOR-NURSING HOME",
+    "parents": []
+  },
+  {
+    "title": "FEDERAL AND STATE AID COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "PURSER (FISHERS ISLAND FERRY DISTRICT)",
+    "parents": []
+  },
+  {
+    "title": "SCALE OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR SCALE OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL FEDERAL AND STATE AID CLAIMS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "MORTGAGE TAX  CLERK",
+    "parents": []
+  },
+  {
+    "title": "FEDERAL AND STATE AID CLAIMS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "FEDERAL AND STATE AID CLAIMS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR FEDERAL AND STATE AID CLAIMS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO TOWN TAX RECEIVER",
+    "parents": []
+  },
+  {
+    "title": "LOAN ADVISOR",
+    "parents": []
+  },
+  {
+    "title": "GOVERNMENT LIAISON OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR GOVERNMENT LIAISON OFFICER",
+    "parents": []
+  },
+  {
+    "title": "INTERGOVERNMENTAL ANALYST  I",
+    "parents": []
+  },
+  {
+    "title": "INTERGOVERNMENTAL ANALYST II",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY TREASURER",
+    "parents": []
+  },
+  {
+    "title": "GARBAGE DISTRICT SECRETARY-TREASURER (SEAVIEW/OCEAN BAY PARK)\t0283",
+    "parents": []
+  },
+  {
+    "title": "FIRE DISTRICT MANAGER",
+    "parents": []
+  },
+  {
+    "title": "FIRE DISTRICT SECRETARY-TREASURER",
+    "parents": []
+  },
+  {
+    "title": "FIRE DISTRICT TREASURER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY FIRE DISTRICT TREASURER",
+    "parents": []
+  },
+  {
+    "title": "VILLAGE TREASURER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY VILLAGE TREASURER",
+    "parents": []
+  },
+  {
+    "title": "TOWN BUDGET OFFICER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF FINANCE",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMPTROLLER",
+    "parents": []
+  },
+  {
+    "title": "TOWN COMPTROLLER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY SCHOOL DISTRICT TREASURER\t0296",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL DISTRICT AUDITOR",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL DISTRICT CLERK-TREASURER",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL DISTRICT TREASURER",
+    "parents": []
+  },
+  {
+    "title": "WATER DISTRICT SECRETARY-TREASURER",
+    "parents": []
+  },
+  {
+    "title": "MATERIEL CONTROL CLERK I",
+    "parents": []
+  },
+  {
+    "title": "MATERIEL CONTROL CLERK II",
+    "parents": []
+  },
+  {
+    "title": "MATERIEL CONTROL CLERK III",
+    "parents": []
+  },
+  {
+    "title": "MATERIEL CONTROL CLERK IV",
+    "parents": []
+  },
+  {
+    "title": "INVENTORY CONTROL CLERK",
+    "parents": []
+  },
+  {
+    "title": "INVENTORY CONTROL SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "STOCK CLERK",
+    "parents": []
+  },
+  {
+    "title": "STOREKEEPER",
+    "parents": []
+  },
+  {
+    "title": "WAREHOUSE WORKER II",
+    "parents": []
+  },
+  {
+    "title": "WAREHOUSE WORKER III",
+    "parents": []
+  },
+  {
+    "title": "AUTOMOTIVE PARTS CLERK",
+    "parents": []
+  },
+  {
+    "title": "AUTOMOTIVE PARTS MANAGER",
+    "parents": []
+  },
+  {
+    "title": "AUTOMOTIVE SERVICE WRITER",
+    "parents": []
+  },
+  {
+    "title": "PURCHASING TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "PURCHASING AGENT",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PURCHASING AGENT",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL PURCHASING AGENT",
+    "parents": []
+  },
+  {
+    "title": "CHIEF PURCHASING AGENT",
+    "parents": []
+  },
+  {
+    "title": "CONTRACTS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "CONTRACTS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CONTRACTS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL CONTRACTS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "CONTRACT MANAGEMENT ANALYST",
+    "parents": []
+  },
+  {
+    "title": "CONTRACTS MANAGEMENT COORDINATOR (PROCUREMENT)",
+    "parents": []
+  },
+  {
+    "title": "CATEGORY MANAGEMENT COORDINATOR (PROCUREMENT)",
+    "parents": []
+  },
+  {
+    "title": "ASSOCIATE CHIEF PROCUREMENT OFFICER",
+    "parents": []
+  },
+  {
+    "title": "CHIEF PROCUREMENT OFFICER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN PURCHASING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN PURCHASING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL PURCHASING AGENT",
+    "parents": []
+  },
+  {
+    "title": "PERSONNEL ANALYST TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "PERSONNEL TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "PERSONNEL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PERSONNEL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL PERSONNEL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "CHIEF OF CLASSIFICATION",
+    "parents": []
+  },
+  {
+    "title": "CHIEF PERSONNEL ANALYST (CLASSIFICATION)",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF CLASSIFICATION",
+    "parents": []
+  },
+  {
+    "title": "PERSONNEL ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF EXAMINATIONS",
+    "parents": []
+  },
+  {
+    "title": "PERSONNEL TRANSACTIONS CLERK",
+    "parents": []
+  },
+  {
+    "title": "PERSONNEL TRANSACTIONS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "CERTIFICATIONS  MANAGER",
+    "parents": []
+  },
+  {
+    "title": "CERTIFICATIONS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "EMPLOYMENT COUNSELOR",
+    "parents": []
+  },
+  {
+    "title": "EMPLOYEE BENEFITS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "CAREER COUNSELOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ASSISTANT TO THE PERSONNEL OFFICER",
+    "parents": []
+  },
+  {
+    "title": "CAREER INFORMATION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "CHIEF OF EXAMINATIONS",
+    "parents": []
+  },
+  {
+    "title": "EMPLOYEE RELATIONS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "TRAINING COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "EMPLOYEE BENEFITS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "EMPLOYEE BENEFITS REPRESENTATIVE",
+    "parents": []
+  },
+  {
+    "title": "SENIOR EMPLOYEE BENEFITS REPRESENTATIVE",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL EMPLOYEE BENEFITS REPRESENTATIVE",
+    "parents": []
+  },
+  {
+    "title": "BOCES AVIATION EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "EXAMINER I",
+    "parents": []
+  },
+  {
+    "title": "EXAMINER II\t0432",
+    "parents": []
+  },
+  {
+    "title": "EXAMINER III",
+    "parents": []
+  },
+  {
+    "title": "EXAMINER IV",
+    "parents": []
+  },
+  {
+    "title": "EXAMINER V",
+    "parents": []
+  },
+  {
+    "title": "EXAMINER VI",
+    "parents": []
+  },
+  {
+    "title": "MINORITY AFFAIRS OFFICER",
+    "parents": []
+  },
+  {
+    "title": "AFFIRMATIVE ACTION OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SPECIAL ASSISTANT TO COUNTY EXECUTIVE (MINORITY AFFAIRS)",
+    "parents": []
+  },
+  {
+    "title": "AFFIRMATIVE ACTION OFFICER (COMMUNITY COLLEGE)",
+    "parents": []
+  },
+  {
+    "title": "PAYROLL SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "PAYROLL MANAGER",
+    "parents": []
+  },
+  {
+    "title": "PAYROLL COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT PAYROLL COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF MUNICIPAL HEALTH PLAN",
+    "parents": []
+  },
+  {
+    "title": "HUMAN RESOURCES ANALYST",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF PAYROLL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "SENIOR HUMAN RESOURCES ANALYST",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL HUMAN RESOURCES ANALYST",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF HUMAN RESOURCES",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DIVERSITY AND INCLUSION OFFICER",
+    "parents": []
+  },
+  {
+    "title": "TOWN PERSONNEL OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL PERSONNEL OFFICER",
+    "parents": []
+  },
+  {
+    "title": "COMPUTER FORENSICS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "DATA ENTRY OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR DATA ENTRY OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL DATA ENTRY OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "DATA PROCESSING EQUIPMENT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR DATA PROCESSING EQUIPMENT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL DATA PROCESSING EQUIPMENT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "SYSTEMS AND DATA BASE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "DATA BASE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "DATA ENTRY SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "DATA BASE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "Forensic Graphics Technician",
+    "parents": []
+  },
+  {
+    "title": "COMPUTER GRAPHICS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "SENIOR COMPUTER GRAPHICS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "MANAGEMENT INFORMATION SYSTEM SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "TECHNICAL COORDINATOR I",
+    "parents": []
+  },
+  {
+    "title": "TECHNICAL COORDINATOR II",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC SAFETY TECHNICAL COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC SAFETY PROJECT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "TECHNICAL SUPPORT AIDE",
+    "parents": []
+  },
+  {
+    "title": "COMPUTER OPERATOR I",
+    "parents": []
+  },
+  {
+    "title": "COMPUTER OPERATOR II",
+    "parents": []
+  },
+  {
+    "title": "COMPUTER OPERATOR III",
+    "parents": []
+  },
+  {
+    "title": "COMPUTER OPERATOR IV",
+    "parents": []
+  },
+  {
+    "title": "DATA PROCESSING OPERATIONS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "DATA PROCESSING OPERATIONS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "COMPUTER PROGRAMMER TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "COMPUTER PROGRAMMER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR COMPUTER PROGRAMMER",
+    "parents": []
+  },
+  {
+    "title": "COMPUTER PROGRAMMING SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "SYSTEMS PROGRAMMER",
+    "parents": []
+  },
+  {
+    "title": "BUDGET SYSTEMS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "FINANCIAL SYSTEMS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "PROGRAMMER ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PROGRAMMER ANALYST",
+    "parents": []
+  },
+  {
+    "title": "INFORMATION TECHNOLOGY SECURITY COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "INFORMATION TECHNOLOGY PROJECT COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "SYSTEMS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR SYSTEMS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "INFORMATION SERVICES PROJECT MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SYSTEMS ANALYSIS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "SYSTEMS ANALYSIS SUPERVISOR (CRIMINAL JUSTICE)",
+    "parents": []
+  },
+  {
+    "title": "SYSTEMS ANALYSIS SUPERVISOR (SOCIAL SERVICES)",
+    "parents": []
+  },
+  {
+    "title": "DATA PROCESSING SYSTEMS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL PROGRAMMER ANALYST",
+    "parents": []
+  },
+  {
+    "title": "INSTRUMENT AND DATA SYSTEMS MANAGER",
+    "parents": []
+  },
+  {
+    "title": "FORMS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "FORMS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR DATA PROCESSING CLERK",
+    "parents": []
+  },
+  {
+    "title": "DATA PROCESSING CLERK",
+    "parents": []
+  },
+  {
+    "title": "DATA CONTROL SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "DATA CONTROL SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "DATA CONTROL SPECIALIST II",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF INFORMATION MANAGEMENT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF INFORMATION MANAGEMENT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT MANAGER OF INFORMATION TECHNOLOGY OPERATIONS",
+    "parents": []
+  },
+  {
+    "title": "DATA PROCESSING MANAGER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF MANAGEMENT INFORMATION SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DATA PROCESSING SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF BOCES DATA PROCESSING",
+    "parents": []
+  },
+  {
+    "title": "BOCES DATA PROCESSING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSESSMENT CLERK",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ASSESSMENT CLERK",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL ASSESSMENT CLERK",
+    "parents": []
+  },
+  {
+    "title": "ASSESSMENT AIDE",
+    "parents": []
+  },
+  {
+    "title": "ABANDONMENT SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "ASSESSMENT ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ASSESSMENT ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO ASSESSOR",
+    "parents": []
+  },
+  {
+    "title": "ASSESSOR",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN ASSESSOR",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY APPRAISAL TECHNICIAN I",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY APPRAISAL TECHNICIAN II",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY APPRAISER II",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY APPRAISER III",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY APPRAISAL SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "CHIEF REAL PROPERTY TAX MAP",
+    "parents": []
+  },
+  {
+    "title": "APPRAISAL REVIEWER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR APPRAISAL REVIEWER",
+    "parents": []
+  },
+  {
+    "title": "APPRAISAL INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "VILLAGE TAX CLERK",
+    "parents": []
+  },
+  {
+    "title": "ASSETS ANALYST TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "ASSETS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ASSETS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "ASSETS AND RESOURCES SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "REAL ESTATE APPRAISAL TECHNICIAN I",
+    "parents": []
+  },
+  {
+    "title": "COURT RECORDS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "TITLE REGISTRATION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "OFFICIAL EXAMINER OF TITLE",
+    "parents": []
+  },
+  {
+    "title": "SENIOR OFFICIAL EXAMINER OF TITLE",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT REAL ESTATE AGENT",
+    "parents": []
+  },
+  {
+    "title": "REAL ESTATE AGENT",
+    "parents": []
+  },
+  {
+    "title": "REAL ESTATE ANALYST",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT LEASING AGENT",
+    "parents": []
+  },
+  {
+    "title": "APPRAISAL TRANSACTIONS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "APPRAISAL SYSTEMS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY SERVICE AIDE I",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY SERVICE AIDE II",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY SERVICE AIDE III",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY RECORDER I",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY RECORDER II",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY RECORDER III",
+    "parents": []
+  },
+  {
+    "title": "REAL PROPERTY RECORDER IV",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF ASSET MANAGEMENT",
+    "parents": []
+  },
+  {
+    "title": "REAL ESTATE PROJECT COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST I",
+    "parents": []
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST II",
+    "parents": []
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST III",
+    "parents": []
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST IV",
+    "parents": []
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST V",
+    "parents": []
+  },
+  {
+    "title": "LAND MANAGEMENT SPECIALIST VI",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT PROPERTY MANAGEMENT ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "PROPERTY MANAGEMENT ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "GENERAL REAL ESTATE APPRAISER",
+    "parents": []
+  },
+  {
+    "title": "RESEARCH TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "RESEARCH ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR RESEARCH ANALYST",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL RESEARCH ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL PLANNING COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ENERGY SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "ECONOMIST",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT ECONOMIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ECONOMIST",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL ECONOMIST",
+    "parents": []
+  },
+  {
+    "title": "STATISTICIAN",
+    "parents": []
+  },
+  {
+    "title": "BIOSTATISTICIAN",
+    "parents": []
+  },
+  {
+    "title": "DOG ENUMERATOR COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL CENSUS ENUMERATOR",
+    "parents": []
+  },
+  {
+    "title": "DOG ENUMERATOR",
+    "parents": []
+  },
+  {
+    "title": "GRANTS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "GRANTS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR GRANTS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL RESEARCH TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "REGISTRAR OF VITAL STATISTICS",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY REGISTRAR OF VITAL STATISTICS",
+    "parents": []
+  },
+  {
+    "title": "HEALTH PROGRAM ANALYST I",
+    "parents": []
+  },
+  {
+    "title": "HEALTH PROGRAM ANALYST II",
+    "parents": []
+  },
+  {
+    "title": "HEALTH PROGRAM ANALYST III",
+    "parents": []
+  },
+  {
+    "title": "MANAGEMENT TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "MANAGEMENT ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR MANAGEMENT ANALYST",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL MANAGEMENT ANALYST",
+    "parents": []
+  },
+  {
+    "title": "CHIEF MANAGEMENT ANALYST",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF MANAGEMENT AND RESEARCH",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF MANAGEMENT AND RESEARCH",
+    "parents": []
+  },
+  {
+    "title": "INDUSTRIAL PSYCHOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF CONTINUOUS INNOVATION",
+    "parents": []
+  },
+  {
+    "title": "PROGRAM EXAMINER TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "PROGRAM EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PROGRAM EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL PROGRAM EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "FACILITIES SPACE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT FACILITIES SPACE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "RECORDS MANAGEMENT ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "RECORDS SERVICE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SPECIAL SERVICES COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "HEALTH FACILITIES MANAGER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF PROGRAM EVALUATION",
+    "parents": []
+  },
+  {
+    "title": "SPECIAL PROJECTS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC WORKS SPECIAL PROJECTS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC WORKS CAPITAL PROJECTS MANAGER",
+    "parents": []
+  },
+  {
+    "title": "Web and social media administrator",
+    "parents": []
+  },
+  {
+    "title": "RECORDS RETENTION MANAGER",
+    "parents": []
+  },
+  {
+    "title": "WEBSITE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "WEBSITE SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "NETWORK AND SYSTEMS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "NETWORK AND SYSTEMS SPECIALIST I",
+    "parents": []
+  },
+  {
+    "title": "NETWORK AND SYSTEMS SPECIALIST II",
+    "parents": []
+  },
+  {
+    "title": "NETWORK AND SYSTEMS ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "NETWORK AND SYSTEMS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "OFFICE SYSTEMS ANALYST IV",
+    "parents": []
+  },
+  {
+    "title": "OFFICE SYSTEMS ANALYST III",
+    "parents": []
+  },
+  {
+    "title": "OFFICE SYSTEMS ANALYST II",
+    "parents": []
+  },
+  {
+    "title": "OFFICE SYSTEMS ANALYST I",
+    "parents": []
+  },
+  {
+    "title": "OFFICE SYSTEMS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF OPTICAL IMAGING",
+    "parents": []
+  },
+  {
+    "title": "LEGISLATIVE TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT LEGISLATIVE ANALYST",
+    "parents": []
+  },
+  {
+    "title": "LEGISLATIVE ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR LEGISLATIVE ANALYST",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL LEGISLATIVE ANALYST",
+    "parents": []
+  },
+  {
+    "title": "CHIEF LEGISLATIVE ANALYST",
+    "parents": []
+  },
+  {
+    "title": "Web and DIGITAL COMMUNICATIONS administrator",
+    "parents": []
+  },
+  {
+    "title": "BusiNESS INTELLIGENCE APPLICATIONS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "BusiNESS INTELLIGENCE SYSTEMS DEVELOPER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR BusiNESS INTELLIGENCE SYSTEMS DEVELOPER",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL BusiNESS INTELLIGENCE SYSTEMS DEVELOPER",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT EXECUTIVE ANALYST",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR EXECUTIVE ANALYST",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL EXECUTIVE ANALYST",
+    "parents": []
+  },
+  {
+    "title": "CHIEF EXECUTIVE ANALYST",
+    "parents": []
+  },
+  {
+    "title": "LEGISLATIVE LIAISON (COUNTY ATTORNEY)",
+    "parents": []
+  },
+  {
+    "title": "LEGISLATIVE LIAISON (DISTRICT ATTORNEY)",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY CLERK (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "PAGE",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY CLERK",
+    "parents": []
+  },
+  {
+    "title": "INSTRUCTIONAL MATERIALS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "INSTRUCTIONAL MATERIALS MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR LIBRARY CLERK",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL LIBRARY CLERK",
+    "parents": []
+  },
+  {
+    "title": "INSTRUCTIONAL MATERIALS ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "LITERACY VOLUNTEER PROGRAM ASSISTANT (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY ASSISTANT (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "LITERACY VOLUNTEER PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "LIBRARIAN TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "ENTRY LEVEL LIBRARIAN",
+    "parents": []
+  },
+  {
+    "title": "LIBRARIAN I",
+    "parents": []
+  },
+  {
+    "title": "LIBRARIAN I (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "LIBRARIAN I (CHILDREN\u2019S SERVICES)",
+    "parents": []
+  },
+  {
+    "title": "LIBRARIAN TRAINEE (CHILDREN\u2019S SERVICES)",
+    "parents": []
+  },
+  {
+    "title": "ENTRY LEVEL LIBRARIAN (CHiLDREN\u2019S SERVICES)",
+    "parents": []
+  },
+  {
+    "title": "LIBRARIAN I (CHILDREN\u2019S SERVICES/SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "LIBRARIAN II",
+    "parents": []
+  },
+  {
+    "title": "LIBRARIAN III",
+    "parents": []
+  },
+  {
+    "title": "LIBRARIAN IV",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY PROJECT COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT LIBRARY DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT LIBRARY DIRECTOR IV",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT LIBRARY DIRECTOR V",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY DEVELOPMENT ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY DIRECTOR III",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY DIRECTOR IV",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY DIRECTOR V",
+    "parents": []
+  },
+  {
+    "title": "ARCHIVIST",
+    "parents": []
+  },
+  {
+    "title": "INTERPRETER / TRANSLATOR",
+    "parents": []
+  },
+  {
+    "title": "ADMINISTRATIVE AIDE",
+    "parents": []
+  },
+  {
+    "title": "ADMINISTRATIVE ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "ADMINISTRATOR I",
+    "parents": []
+  },
+  {
+    "title": "ASSOCIATE ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "ADMINISTRATOR II",
+    "parents": []
+  },
+  {
+    "title": "ADMINISTRATOR III",
+    "parents": []
+  },
+  {
+    "title": "ADMINISTRATOR IV",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF INSTRUCTIONAL SUPPORT, PLANNING & TECHNOLOGY SERVICES\t0911",
+    "parents": []
+  },
+  {
+    "title": "BUSINESS MANAGER I (FISHERS ISLAND FERRY DISTRICT)",
+    "parents": []
+  },
+  {
+    "title": "BUSINESS MANAGER I",
+    "parents": []
+  },
+  {
+    "title": "BUSINESS MANAGER II",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL FINANCE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN DIRECTOR OF PUBLIC TRANSPORTATION AND TRAFFIC SAFETY\t0916",
+    "parents": []
+  },
+  {
+    "title": "SENIOR LABOR MEDIATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT WORKERS' COMPENSATION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "LABOR MEDIATOR TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "LABOR MEDIATOR",
+    "parents": []
+  },
+  {
+    "title": "LIABILITY CLAIMS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "LIABILITY CLAIMS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "WORKERS' COMPENSATION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "INSURANCE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT INSURANCE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "INSURANCE CONTRACT ANALYST",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF RISK MANAGEMENT",
+    "parents": []
+  },
+  {
+    "title": "RISK MANAGEMENT ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "LABOR RELATIONS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "LABOR RELATIONS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR LABOR RELATIONS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF LABOR RELATIONS",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF LABOR RELATIONS",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF LABOR RELATIONS",
+    "parents": []
+  },
+  {
+    "title": "SENIOR INSURANCE CONTRACT ANALYST",
+    "parents": []
+  },
+  {
+    "title": "DEFERRED COMPENSATION PLAN ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DEFERRED COMPENSATION PLAN ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "401(a) TERMINAL PAY PLAN ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "EMPLOYEE HEALTH PLAN ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF MUNICIPAL HEALTH PLAN",
+    "parents": []
+  },
+  {
+    "title": "WORKERS' COMPENSATION CLAIMS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR WORKERS' COMPENSATION CLAIMS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "WORKERS' COMPENSATION INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "WORKERS' COMPENSATION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "RISK MANAGEMENT COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "PERSONNEL SERVICES ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC RELATIONS ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC RELATIONS SPECIALIST\t0981",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC RELATIONS DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF HUMAN DEVELOPMENT",
+    "parents": []
+  },
+  {
+    "title": "EMPLOYEE RELATIONS DIRECTOR (SHERIFF\u2019S OFFICE)",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY RELATIONS DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "EMPLOYEE RELATIONS DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "BIO/HI TECH DEVELOPMENT SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "INDUSTRIAL DEVELOPMENT ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF INDUSTRIAL DEVELOPMENT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN DIRECTOR OF ECONOMIC DEVELOPMENT",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF ECONOMIC DEVELOPMENT",
+    "parents": []
+  },
+  {
+    "title": "ECONOMIC  DEVELOPMENT ZONE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "MARKETING SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "ECONOMIC DEVELOPMENT ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "MUNICIPAL PARKING ADMINSTRATOR",
+    "parents": []
+  },
+  {
+    "title": "ENGINEERING AIDE",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ENGINEERING AIDE",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL ENGINEERING AIDE",
+    "parents": []
+  },
+  {
+    "title": "JUNIOR CIVIL ENGINEER TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "JUNIOR CIVIL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CIVIL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "CIVIL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CIVIL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "ASSOCIATE CIVIL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL CIVIL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "SOLID WASTE COORDINATOR\t1018",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF RESOURCE RECOVERY",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF MATERIALS TESTING",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SOLID WASTE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ENERGY ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CHIEF ENGINEER (PUBLIC WORKS)\t1026",
+    "parents": []
+  },
+  {
+    "title": "CHIEF ENGINEER (PUBLIC WORKS)",
+    "parents": []
+  },
+  {
+    "title": "INDUSTRIAL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR INDUSTRIAL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT ELECTRICAL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "ELECTRICAL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "ASSOCIATE ELECTRICAL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT MECHANICAL ENGINEER TRAINEE\t1034",
+    "parents": []
+  },
+  {
+    "title": "CHIEF ENGINEER (FACILITIES)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT MECHANICAL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "MECHANICAL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR MECHANICAL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "ASSOCIATE MECHANICAL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL MECHANICAL ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "TOWN ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "VILLAGE ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "CLERK OF THE WORKS",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CLERK OF THE WORKS",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC WORKS CONSTRUCTION CONTRACT ANALYST",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY FUNDING PROGRAM MANAGER",
+    "parents": []
+  },
+  {
+    "title": "BUILDING PROJECT COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "INSTRUMENTATION TECHNICIAN TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "INSTRUMENTATION TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "SENIOR INSTRUMENTATION TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "ENGINEERING MAP CLERK",
+    "parents": []
+  },
+  {
+    "title": "DRAFTER I",
+    "parents": []
+  },
+  {
+    "title": "DRAFTER II",
+    "parents": []
+  },
+  {
+    "title": "DRAFTER III",
+    "parents": []
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS MANAGER",
+    "parents": []
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS TECHNICIAN I",
+    "parents": []
+  },
+  {
+    "title": "COMPUTER GRAPHICS MAPPING SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS TECHNICIAN II",
+    "parents": []
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ARCHITECTURAL DRAFTER I",
+    "parents": []
+  },
+  {
+    "title": "ARCHITECTURAL DRAFTER II",
+    "parents": []
+  },
+  {
+    "title": "ARCHITECTURAL DRAFTER III",
+    "parents": []
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS TECHNICIAN III",
+    "parents": []
+  },
+  {
+    "title": "GEOGRAPHIC INFORMATION SYSTEMS TECHNICIAN IV",
+    "parents": []
+  },
+  {
+    "title": "STRUCTURAL DRAFTER",
+    "parents": []
+  },
+  {
+    "title": "MAP DRAFTER I",
+    "parents": []
+  },
+  {
+    "title": "MAP DRAFTER II",
+    "parents": []
+  },
+  {
+    "title": "MAP DRAFTER III",
+    "parents": []
+  },
+  {
+    "title": "MAPPING PRODUCTS DEVELOPER",
+    "parents": []
+  },
+  {
+    "title": "DRAFTER-ILLUSTRATOR (PLANNING)",
+    "parents": []
+  },
+  {
+    "title": "ILLUSTRATOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ILLUSTRATOR",
+    "parents": []
+  },
+  {
+    "title": "COMPOSITE ARTIST",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT MAP AND COORDINATE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "MAP AND COORDINATE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "CARTOGRAPHER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CARTOGRAPHER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT ARCHITECT",
+    "parents": []
+  },
+  {
+    "title": "ARCHITECT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT COUNTY ARCHITECT",
+    "parents": []
+  },
+  {
+    "title": "COUNTY ARCHITECT",
+    "parents": []
+  },
+  {
+    "title": "LANDSCAPE ARCHITECT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT LANDSCAPE ARCHITECT",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL AIDE",
+    "parents": []
+  },
+  {
+    "title": "TOWN ENVIRONMENTAL RESOURCE LIAISON",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTALIST I",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTALIST II",
+    "parents": []
+  },
+  {
+    "title": "RECYCLING OPERATIONS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "RECYCLING COORDINATION AIDE",
+    "parents": []
+  },
+  {
+    "title": "RECYCLING EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "RECYCLING COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT RECYCLING COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "RESOURCE RECOVERY ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR RESOURCE RECOVERY ANALYST",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL TOXICOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL ENVIRONMENTAL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "CHIEF ENVIRONMENTAL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "BIOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT HYDROGEOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "HYDROGEOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "ASSOCIATE HYDROGEOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "MARINE BIOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT WATERWAYS MANAGEMENT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "WATERWAYS MANAGEMENT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ENVIRONMENTAL ANALYST",
+    "parents": []
+  },
+  {
+    "title": "BAY MANAGEMENT SPECIALIST I",
+    "parents": []
+  },
+  {
+    "title": "BAY MANAGEMENT SPECIALIST II",
+    "parents": []
+  },
+  {
+    "title": "WILDLIFE SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT ENVIRONMENTAL PROTECTION DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL PROTECTION DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "SOIL DISTRICT TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "SENIOR SOIL DISTRICT TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "AGRONOMIST",
+    "parents": []
+  },
+  {
+    "title": "STORMWATER CONTROL SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "STORMWATER MANAGEr",
+    "parents": []
+  },
+  {
+    "title": "PLANNER TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "PLANNING AIDE",
+    "parents": []
+  },
+  {
+    "title": "PLANNER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PLANNER",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL PLANNER",
+    "parents": []
+  },
+  {
+    "title": "CHIEF PLANNER",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL PLANNER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ENVIRONMENTAL PLANNER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO PLANNING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CARTOGRAPHER (PLANNING)",
+    "parents": []
+  },
+  {
+    "title": "CARTOGRAPHER (PLANNING)",
+    "parents": []
+  },
+  {
+    "title": "PERSONNEL PLANNER",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES ADMINISTRATIVE PLANNER",
+    "parents": []
+  },
+  {
+    "title": "PLANNER (CRIMINAL JUSTICE)",
+    "parents": []
+  },
+  {
+    "title": "CHIEF PLANNER (CRIMINAL JUSTICE)",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL PLANNER (CRIMINAL JUSTICE)",
+    "parents": []
+  },
+  {
+    "title": "RUNAWAY COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "PLANNER-YOUTH SERVICES",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL PLANNER-YOUTH SERVICES",
+    "parents": []
+  },
+  {
+    "title": "CHIEF PLANNER (HUMAN SERVICES)",
+    "parents": []
+  },
+  {
+    "title": "RENTAL SUBSIDY PROGRAM ASSISTANT (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "RENTAL SUBSIDY PROGRAM ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "RENTAL SUBSIDY PROGRAM TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT SPECIALIST I",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT SPECIALIST II",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT FISCAL MANAGER",
+    "parents": []
+  },
+  {
+    "title": "RENTAL SUBSIDY PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "HOUSING REHABILITATION MANAGER",
+    "parents": []
+  },
+  {
+    "title": "HOUSING REHABILITATION ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT COMMUNITY DEVELOPMENT PROJECT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT PROJECT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT PROJECT DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT COMMUNITY IMPROVEMENT COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY IMPROVEMENT COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT PROGRAM TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT PROGRAM MANAGER",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT PROGRAM ANALYST",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT HOUSING ANALYST",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT HOUSING TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN PLANNING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN PLANNING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT COMMUNITY DEVELOPMENT DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY DEVELOPMENT AND PLANNING SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR COMMUNITY DEVELOPMENT AND PLANNING SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL COMMUNITY DEVELOPMENT AND PLANNING SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF WATER SERVICES",
+    "parents": []
+  },
+  {
+    "title": "CHIEF COMMUNITY DEVELOPMENT AND PLANNING SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "ASSOCIATE CHIEF BUSINESS DEVELOPMENT AND INNOVATION OFFICER",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC TECHNICIAN I",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC TECHNICIAN II",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC TECHNICIAN III",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC ENGINEER I",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC ENGINEER II",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC ENGINEER III",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF TRAFFIC SAFETY",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZENS BUS SERVICE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZENS TRANSPORTATION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "TRANSPORTATION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR LONG ISLAND REGIONAL PLANNING BOARD\t1621",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF Transportation OPERATIONS",
+    "parents": []
+  },
+  {
+    "title": "CHIEF PLANNER (TRANSPORTATION)",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL PLANNER (TRANSPORTATION)",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PLANNER (TRANSPORTATION)",
+    "parents": []
+  },
+  {
+    "title": "PLANNER (TRANSPORTATION)",
+    "parents": []
+  },
+  {
+    "title": "SPECIAL TRANSPORTATION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "BUS MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "BUS TRANSPORTATION SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "BUS TRANSPORTATION TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC TRANSPORTATION ANALYST I",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC TRANSPORTATION ANALYST II",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC TRANSPORTATION OPERATIONS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC TRANSPORTATION OPERATIONS ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC SAFETY LABOR CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC SIGNAL MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF TRAFFIC SAFETY",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC SAFETY EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL TRANSPORTATION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL TRANSPORTATION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SCHOOL TRANSPORTATION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "BOCES TRANSPORTATION ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "TELECOMMUNICATIONS ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "Telecommunications technician",
+    "parents": []
+  },
+  {
+    "title": "TELECOMMUNICATIONS SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "TELECOMMUNICATIONS ANALYST",
+    "parents": []
+  },
+  {
+    "title": "TELEPHONE SYSTEMS SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "NETWORK COMMUNICATIONS SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "NETWORK COMMUNICATIONS MANAGER",
+    "parents": []
+  },
+  {
+    "title": "CYBER SECURITY ANALYST I",
+    "parents": []
+  },
+  {
+    "title": "CYBER SECURITY ANALYST II",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL COMMUNICATIONS AIDE",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL COMMUNICATIONS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL COMMUNICATIONS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "Media Development Specialist\t1899",
+    "parents": []
+  },
+  {
+    "title": "Media Development Coordinator",
+    "parents": []
+  },
+  {
+    "title": "AUDIO VISUAL AIDE",
+    "parents": []
+  },
+  {
+    "title": "AUDIO VISUAL TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "AUDIO VISUAL SPECIALIST\t1905",
+    "parents": []
+  },
+  {
+    "title": "LAYOUT ARTIST",
+    "parents": []
+  },
+  {
+    "title": "RADIO STATION MANAGER",
+    "parents": []
+  },
+  {
+    "title": "COPY CAMERA OPERATOR I\t1911",
+    "parents": []
+  },
+  {
+    "title": "COPY CAMERA OPERATOR II",
+    "parents": []
+  },
+  {
+    "title": "THEATRE PRODUCTION TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "THEATER PRODUCTION SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "THEATER PRODUCTION MANAGER",
+    "parents": []
+  },
+  {
+    "title": "PHOTOGRAPHIC TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PHOTOGRAPHIC TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "PHOTOGRAPHER",
+    "parents": []
+  },
+  {
+    "title": "PHOTOGRAPHIC PLANT MANAGER",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL PHOTOGRAPHER",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL PHOTOGRAPHER II",
+    "parents": []
+  },
+  {
+    "title": "GRAPHIC ARTS AIDE",
+    "parents": []
+  },
+  {
+    "title": "GRAPHICS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "GRAPHIC MATERIALS DESIGNER",
+    "parents": []
+  },
+  {
+    "title": "TELEVISION TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "AUDIO-VISUAL PRODUCTION MANAGER",
+    "parents": []
+  },
+  {
+    "title": "AUDIO-VISUAL PRODUCTION SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "AUDIO VISUAL/TELEVISION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF EDUCATION AND GOVERNMENT CABLE ACCESS",
+    "parents": []
+  },
+  {
+    "title": "HOME HEALTH AIDE",
+    "parents": []
+  },
+  {
+    "title": "NURSES' AIDE",
+    "parents": []
+  },
+  {
+    "title": "LICENSED PRACTICAL NURSE",
+    "parents": []
+  },
+  {
+    "title": "REGISTERED NURSE",
+    "parents": []
+  },
+  {
+    "title": "SUPERVISING NURSE",
+    "parents": []
+  },
+  {
+    "title": "REGISTERED NURSE SUPERVISOR - CLINIC",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE I  (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE I",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE II",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE III",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE III (Home Health Services)",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC\u00a0HEALTH\u00a0NURSE\u00a0III (In-Service Training)",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE III (MATERNAL AND CHILD HEALTH)",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE IV",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH NURSING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT NURSING CARE DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT NURSING CARE DIRECTOR (TRAINING)",
+    "parents": []
+  },
+  {
+    "title": "NURSING CARE DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "CLINICAL SERVICES ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "FAMILY PLANNING PROGRAM SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "NURSE PRACTITIONER (FAMILY PLANNING)",
+    "parents": []
+  },
+  {
+    "title": "CLINICAL NURSE PRACTITIONER",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH NURSE-COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "PHYSICIAN'S ASSISTANT I",
+    "parents": []
+  },
+  {
+    "title": "PHYSICIAN'S ASSISTANT II",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH FELLOW I",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN TRAINEE (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL HEALTH TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "HEALTH SERVICES EMPLOYEE RELATIONS DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PUBLIC HEALTH SANITARIAN",
+    "parents": []
+  },
+  {
+    "title": "ASSOCIATE PUBLIC HEALTH SANITARIAN",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL PUBLIC HEALTH SANITARIAN",
+    "parents": []
+  },
+  {
+    "title": "CHIEF PUBLIC HEALTH SANITARIAN",
+    "parents": []
+  },
+  {
+    "title": "HAZARDOUS MATERIALS PROCESSOR",
+    "parents": []
+  },
+  {
+    "title": "Hazardous Materials Coordinator",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL ENFORCEMENT SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "ASSOCIATE PUBLIC HEALTH SANITARIAN (HEARING OFFICER)",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL PROJECTS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "COMMERCIAL PLAN REVIEW AND PERMIT ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT PUBLIC HEALTH ENGINEER TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT PUBLIC HEALTH ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PUBLIC HEALTH ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "ASSOCIATE PUBLIC HEALTH ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL PUBLIC HEALTH ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "CHIEF PUBLIC HEALTH ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "LABORATORY AIDE\t2201",
+    "parents": []
+  },
+  {
+    "title": "LABORATORY TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "LABORATORY TECHNICIAN (PUBLIC WORKS)",
+    "parents": []
+  },
+  {
+    "title": "CLINICAL LABORATORY TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "BACTERIOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "BACTERIOLOGIST II",
+    "parents": []
+  },
+  {
+    "title": "BACTERIOLOGIST III",
+    "parents": []
+  },
+  {
+    "title": "LABORATORY DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "CHIEF ARTHROPOD-BORNE DISEASE LABORATORY",
+    "parents": []
+  },
+  {
+    "title": "CHIEF-PUBLIC & ENVIRONMENTAL HEALTH LABORATORY",
+    "parents": []
+  },
+  {
+    "title": "PHARMACY AIDE",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CHIEF - PUBLIC & ENVIRONMENTAL HEALTH LABORATORY",
+    "parents": []
+  },
+  {
+    "title": "PHARMACIST",
+    "parents": []
+  },
+  {
+    "title": "PHARMACIST II (CORRECTIONAL FACILITY)",
+    "parents": []
+  },
+  {
+    "title": "PHARMACIST I (CORRECTIONAL FACILITY)",
+    "parents": []
+  },
+  {
+    "title": "PHARMACIST I",
+    "parents": []
+  },
+  {
+    "title": "PHARMACIST II",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF MEDICAL SUPPORT SERVICES",
+    "parents": []
+  },
+  {
+    "title": "X-RAY TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "SENIOR X-RAY TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "CHEMIST I (ENVIRONMENTAL CONTROL)",
+    "parents": []
+  },
+  {
+    "title": "CHEMIST II (ENVIRONMENTAL CONTROL)",
+    "parents": []
+  },
+  {
+    "title": "CHEMIST I (PUBLIC HEALTH)",
+    "parents": []
+  },
+  {
+    "title": "CHEMIST II (PUBLIC HEALTH)",
+    "parents": []
+  },
+  {
+    "title": "CHEMIST I (PUBLIC WORKS)",
+    "parents": []
+  },
+  {
+    "title": "CHEMIST II (PUBLIC WORKS)",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL RADIOCHEMIST",
+    "parents": []
+  },
+  {
+    "title": "CHEMIST III (PUBLIC WORKS)",
+    "parents": []
+  },
+  {
+    "title": "CHEMIST III",
+    "parents": []
+  },
+  {
+    "title": "CHEMIST IV",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (TOXICOLOGY)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (TOXICOLOGY)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (BIOLOGICAL SCIENCES)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (BIOLOGICAL SCIENCES)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (TRACE EVIDENCE)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (TRACE EVIDENCE)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (FIREARMS)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (FIREARMS)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (Q.D.)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (Q.D.)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (DRUG CHEMISTRY)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (DRUG CHEMISTRY)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (AIR POLLUTION)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (AIR POLLUTION)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST III",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST I (HAZARDOUS MATERIALS)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST II (HAZARDOUS MATERIALS)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (QUALITY ASSURANCE)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (SEROLOGY)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (BIOLOGICAL SCIENCES)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (TOXICOLOGY)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (FIREARMS)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (Q.D.)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (DRUG CHEMISTRY)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (AIR POLLUTION)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST  III (HAZARDOUS MATERIALS)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST III (TRACE EVIDENCE)",
+    "parents": []
+  },
+  {
+    "title": "CHIEF-CRIME LABORATORY",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CHIEF-CRIME LABORATORY",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (BIOLOGICAL SCIENCES)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (DRUG CHEMISTRY)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (FIREARMS)",
+    "parents": []
+  },
+  {
+    "title": "FORENSIC SCIENTIST IV (TRACE EVIDENCE)",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL HEALTH SERVICES ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "OCCUPATIONAL THERAPY AIDE",
+    "parents": []
+  },
+  {
+    "title": "OCCUPATIONAL THERAPIST ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "OCCUPATIONAL THERAPIST",
+    "parents": []
+  },
+  {
+    "title": "SUPERVISING OCCUPATIONAL THERAPIST",
+    "parents": []
+  },
+  {
+    "title": "SUPERVISING OCCUPATIONAL AND PHYSICAL THERAPIST",
+    "parents": []
+  },
+  {
+    "title": "THERAPEUTIC ACTIVITIES WORKER",
+    "parents": []
+  },
+  {
+    "title": "THERAPEUTIC ACTIVITIES SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "AUDIOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "SPEECH THERAPIST",
+    "parents": []
+  },
+  {
+    "title": "PHYSICAL THERAPY AIDE",
+    "parents": []
+  },
+  {
+    "title": "PHYSICAL THERAPIST ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "PHYSICAL THERAPIST",
+    "parents": []
+  },
+  {
+    "title": "SUPERVISING PHYSICAL THERAPIST",
+    "parents": []
+  },
+  {
+    "title": "PHYSICIAN\t2401",
+    "parents": []
+  },
+  {
+    "title": "PHYSICIAN I",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL PROGRAM ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "RESIDENT PHYSICIAN",
+    "parents": []
+  },
+  {
+    "title": "PEDIATRICIAN",
+    "parents": []
+  },
+  {
+    "title": "OPTOMETRIST",
+    "parents": []
+  },
+  {
+    "title": "DENTIST",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF MATERNAL AND CHILD HEALTH",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL DIRECTOR - MEDICAL ASSISTANCE PROGRAM\t2443",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL DIRECTOR-EMERGENCY MEDICAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL DIRECTOR-DRUG ABUSE TREATMENT",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF LABORATORIES",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT MEDICAL SERVICES DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL SERVICES DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "CLINIC MEDICAL DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "CORRECTIONAL HEALTH SERVICES COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "DENTAL DIRECTOR - HEALTH SERVICES",
+    "parents": []
+  },
+  {
+    "title": "MENTAL HEALTH AIDE",
+    "parents": []
+  },
+  {
+    "title": "MENTAL HEALTH ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "INTENSIVE CASE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "PSYCHIATRIC SOCIAL WORKER - ALCOHOLISM",
+    "parents": []
+  },
+  {
+    "title": "PSYCHIATRIC SOCIAL WORKER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PSYCHIATRIC SOCIAL WORKER",
+    "parents": []
+  },
+  {
+    "title": "SUPERVISING PSYCHIATRIC SOCIAL WORKER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CORRECTIONS CLASSIFICATION AND DIAGNOSTIC SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "CORRECTIONS CLASSIFICATION AND DIAGNOSTIC SPECIALIST\t2515",
+    "parents": []
+  },
+  {
+    "title": "PSYCHIATRIC NURSE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "PSYCHOLOGIST TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "CLINICAL PSYCHOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "SUPERVISING PSYCHOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "PSYCHIATRIST I",
+    "parents": []
+  },
+  {
+    "title": "PSYCHIATRIST II",
+    "parents": []
+  },
+  {
+    "title": "PSYCHIATRIST III",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT PROGRAM DIRECTOR FOR EXCEPTIONAL CHILDREN",
+    "parents": []
+  },
+  {
+    "title": "PROGRAM DIRECTOR FOR EXCEPTIONAL CHILDREN",
+    "parents": []
+  },
+  {
+    "title": "PROGRAM SUPERVISOR FOR EXCEPTIONAL CHILDREN",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF THERAPEUTIC RECREATION",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT PROGRAM DIRECTOR FOR THERAPEUTIC RECREATION",
+    "parents": []
+  },
+  {
+    "title": "PROGRAM DIRECTOR FOR THERAPEUTIC RECREATION",
+    "parents": []
+  },
+  {
+    "title": "PROGRAM SUPERVISOR FOR THERAPEUTIC RECREATION",
+    "parents": []
+  },
+  {
+    "title": "CLINIC AIDE",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH AIDE",
+    "parents": []
+  },
+  {
+    "title": "FAMILY PLANNING AIDE",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "DENTAL ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "DENTAL SERVICES COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL ASSISTANT (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "JAIL MEDICAL ATTENDANT",
+    "parents": []
+  },
+  {
+    "title": "DENTAL HYGIENIST",
+    "parents": []
+  },
+  {
+    "title": "VENEREAL DISEASE INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "ATHLETIC TRAINER",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PUBLIC HEALTH EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "SUPERVISING PUBLIC HEALTH EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "HEALTH PLANNING COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "SPECIAL EDUCATION SERVICES PROVIDER",
+    "parents": []
+  },
+  {
+    "title": "SPECIAL EDUCATION COORDINATOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "SPECIAL EDUCATION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF SERVICES TO CHILDREN WITH SPECIAL NEEDS",
+    "parents": []
+  },
+  {
+    "title": "COORDINATOR OF SPECIAL EDUCATION",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT COORDINATOR OF SPECIAL EDUCATION",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY MEDICAL TRAINING OFFICER",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY MEDICAL SERVICES OFFICER",
+    "parents": []
+  },
+  {
+    "title": "AMBULANCE SERVICES CONSULTANT",
+    "parents": []
+  },
+  {
+    "title": "COORDINATOR OF EMERGENCY MEDICAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC ACCESS DEFIBRILLATOR COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL SERVICES SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR MEDICAL SERVICES SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SUPERVISING MEDICAL SERVICES SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "UTILIZATION REVIEW COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT MEDICAL SERVICES BUREAU DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL SERVICES BUREAU DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "CLINIC SUPERVISOR (DRUG ABUSE)",
+    "parents": []
+  },
+  {
+    "title": "CLINIC MANAGER (DRUG ABUSE)",
+    "parents": []
+  },
+  {
+    "title": "CLINIC COORDINATOR (DRUG ABUSE)",
+    "parents": []
+  },
+  {
+    "title": "CLINIC ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL SERVICES COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL SOCIAL WORKER ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL SOCIAL WORKER",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL SOCIAL WORKER (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL SOCIAL WORKER II",
+    "parents": []
+  },
+  {
+    "title": "SUPERVISOR OF MEDICAL SOCIAL WORK",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY MEDICAL TECHNICIAN- BASIC",
+    "parents": []
+  },
+  {
+    "title": "SENIOR EMERGENCY MEDICAL TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY MEDICAL INSTRUCTOR",
+    "parents": []
+  },
+  {
+    "title": "FIRE DISTRICT EMERGENCY MEDICAL SERVICES COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "NUTRITION EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "NUTRITION ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "NUTRITIONIST I",
+    "parents": []
+  },
+  {
+    "title": "NUTRITIONIST II",
+    "parents": []
+  },
+  {
+    "title": "DRUG COUNSELOR (Spanish Speaking)",
+    "parents": []
+  },
+  {
+    "title": "DRUG COUNSELOR",
+    "parents": []
+  },
+  {
+    "title": "ALCOHOLISM COUNSELOR",
+    "parents": []
+  },
+  {
+    "title": "ALCOHOLISM COUNSELOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN DIRECTOR OF TRAFFIC SAFETY",
+    "parents": []
+  },
+  {
+    "title": "DRUG AND ALCOHOL COMMUNITY COORDINATOR I",
+    "parents": []
+  },
+  {
+    "title": "DRUG AND ALCOHOL COUNSELOR I",
+    "parents": []
+  },
+  {
+    "title": "DRUG AND ALCOHOL COUNSELOR II",
+    "parents": []
+  },
+  {
+    "title": "DRUG AND ALCOHOL COMMUNITY COORDINATOR II",
+    "parents": []
+  },
+  {
+    "title": "DRUG AND ALCOHOL PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF DRUG AND ALCOHOL COUNSELING SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DRUG ABUSE EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR DRUG ABUSE EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "DRUG ABUSE EDUCATOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "DRUG AND ALCOHOL COUNSELOR I (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "ALCOHOLISM EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DRUG AND ALCOHOL PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "AIDS COUNSELOR I",
+    "parents": []
+  },
+  {
+    "title": "COMPLIANCE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "COORDINATOR OF ALCOHOLISM SERVICES",
+    "parents": []
+  },
+  {
+    "title": "SPECIAL TRAFFIC OPTIONS PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "PROBATION ALCOHOL PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "COORDINATOR OF COMMUNITY BASED DRUG PROGRAMS",
+    "parents": []
+  },
+  {
+    "title": "COORDINATOR OF COMMUNITY BASED PROGRAMS\t2738",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF PREVENTION, EDUCATION AND TRAINING",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY SAFETY AIDE",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY SAFETY PROGRAM MANAGER",
+    "parents": []
+  },
+  {
+    "title": "EMPLOYEE ASSISTANCE PROGRAM SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "EMPLOYEE ASSISTANCE PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "MORGUE CLERK",
+    "parents": []
+  },
+  {
+    "title": "MORGUE ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "SENIOR MORGUE ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "HISTOLOGY TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "AMBULANCE DRIVER",
+    "parents": []
+  },
+  {
+    "title": "MORGUE AMBULANCE DRIVER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR MORGUE AMBULANCE DRIVER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY MEDICAL EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY MEDICAL EXAMINER (PATHOLOGIST)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO THE CHIEF MEDICAL EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "NEUROPATHOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOXICOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "CHIEF-TOXICOLOGY LABORATORY",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL FORENSIC INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "SUPERVISING MEDICAL FORENSIC INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "AMERICANS WITH DISABILITIES ACT COMPLIANCE SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF HANDICAPPED SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF OFFICE FOR PEOPLE WITH DISABILITIES",
+    "parents": []
+  },
+  {
+    "title": "HANDICAPPED SERVICES COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "HANDICAPPED SERVICE AIDE",
+    "parents": []
+  },
+  {
+    "title": "DISABILITIES SERVICE AIDE",
+    "parents": []
+  },
+  {
+    "title": "CASEWORK ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "CASEWORK ASSISTANT (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CASEWORKER TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "CASEWORKER TRAINEE (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CASEWORKER (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CASEWORKER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CASEWORKER",
+    "parents": []
+  },
+  {
+    "title": "CASEWORK SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "CASE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CASE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "CASE MANAGER (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CRISIS INTERVENTION WORKER",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES PROJECT COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT BUREAU DIRECTOR OF SOCIAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "BUREAU DIRECTOR OF SOCIAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "COORDINATOR OF GROUP CARE",
+    "parents": []
+  },
+  {
+    "title": "SENIOR EDUCATION CONSULTANT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SOCIAL WORK TRAINING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL WORK TRAINING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES TRAINING SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES TRAINING ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF DEPARTMENT POLICY AND PROCEDURES UNIT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF DEPARTMENT POLICY AND PROCEDURES UNIT\t3041",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF SERVICES TO CHILDREN AND THEIR FAMILIES",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY SERVICES COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF GENERAL AND ADULT SERVICES",
+    "parents": []
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST I (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST I",
+    "parents": []
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST II",
+    "parents": []
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST III",
+    "parents": []
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST IV",
+    "parents": []
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST TRAINEE (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "FUEL ASSISTANCE WORKER I\t3068",
+    "parents": []
+  },
+  {
+    "title": "FUEL ASSISTANCE WORKER II",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY SERVICE WORKER",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER I",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER II",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER III",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER IV",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER V",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES  MANAGEMENT SYSTEMS SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES MANAGEMENT SYSTEMS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY SERVICE WORKER (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER I (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CHILD CARE AIDE",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL MONITOR",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL TEACHER AIDE",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL LABORATORY ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL ADMINISTRATIVE AIDE",
+    "parents": []
+  },
+  {
+    "title": "TEXTBOOK PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "SPECIAL EDUCATION AIDE",
+    "parents": []
+  },
+  {
+    "title": "FARM AIDE\t3186",
+    "parents": []
+  },
+  {
+    "title": "SIGN LANGUAGE INTERPRETER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR SCHOOL SUBSTITUTE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL SUBSTITUTE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL ATTENDANCE AIDE",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL ATTENDANCE SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "CAREER GUIDANCE TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "CAREER PLANNING SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "CAREER PLANNING SPECIALIST (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "HOMEMAKER",
+    "parents": []
+  },
+  {
+    "title": "HOME ECONOMIST",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES HOUSING ADVISOR",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES HOUSING CONSULTANT",
+    "parents": []
+  },
+  {
+    "title": "HOTLINE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE ASSISTANT FOR FINANCE & ADMINISTRATION",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF PUBLIC ASSISTANCE-QUALITY CONTROL",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIVISION ADMINISTRATOR OF SOCIAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DIVISION ADMINISTRATOR OF SOCIAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DIVISION ADMINISTRATOR OF SOCIAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF MEDICAL ASSISTANCE-QUALITY REVIEW",
+    "parents": []
+  },
+  {
+    "title": "MEDICAL ASSISTANCE ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT ADULT DAY CARE PROGRAM SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ADULT DAY CARE PROGRAM SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ADULT DAY HEALTH CARE PROGRAM DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "DIVISION ADMINISTRATOR FOR HUMAN SERVICES",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR FOR MULTICULTURAL AFFAIRS AND COMMUNITY ENGAGEMENT",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY ENGAGEMENT SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "MULTICULTURAL AFFAIRS SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZENS PROGRAM ADMINISTRATOR II",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZEN ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZEN AIDE II",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY SERVICE AIDE",
+    "parents": []
+  },
+  {
+    "title": "SENIOR COMMUNITY SERVICE AIDE",
+    "parents": []
+  },
+  {
+    "title": "SUPERVISING COMMUNITY SERVICE AIDE",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZENS PROGRAM ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "EDUCATION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "NEIGHBORHOOD AIDE",
+    "parents": []
+  },
+  {
+    "title": "SENIOR NEIGHBORHOOD AIDE",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY RELATIONS ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY RELATIONS SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZEN AIDE",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SENIOR CITIZENS NUTRITION CENTER MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZEN ADVOCATE",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZENS CENTER MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SENIOR CITIZENS CENTER MANAGER\t3714",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZENS NUTRITION CENTER MANAGER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF SENIOR CITIZENS SERVICES",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZENS PROGRAM SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZENS PROGRAM DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CITIZENS CLUB LEADER",
+    "parents": []
+  },
+  {
+    "title": "LABOR SPECIALIST TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "LABOR SPECIALIST I",
+    "parents": []
+  },
+  {
+    "title": "LABOR SPECIALIST II",
+    "parents": []
+  },
+  {
+    "title": "LABOR SPECIALIST III",
+    "parents": []
+  },
+  {
+    "title": "LABOR SPECIALIST IV",
+    "parents": []
+  },
+  {
+    "title": "LABOR SPECIALIST V",
+    "parents": []
+  },
+  {
+    "title": "LOCAL LAW COMPLIANCE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY RELATIONS ASSISTANT (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "OCCUPATIONAL EDUCATION AIDE",
+    "parents": []
+  },
+  {
+    "title": "YOUTH PROJECT DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "YOUTH PROJECT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "YOUTH COUNSELOR",
+    "parents": []
+  },
+  {
+    "title": "VOCATIONAL REHABILITATION COUNSELOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "JOB DEVELOPER COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "REHABILITATION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "VOCATIONAL REHABILITATION COUNSELOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR VOCATIONAL REHABILITATION COUNSELOR",
+    "parents": []
+  },
+  {
+    "title": "VOCATIONAL TRAINING SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "MIGRANT HEALTH PROJECT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "MIGRANT WORKER AFFAIRS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "LABOR SPECIALIST TRAINEE (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "HUMAN RIGHTS INVESTIGATOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "HUMAN RIGHTS INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR HUMAN RIGHTS INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL HUMAN RIGHTS INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "YOUTH COUNSELOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF LIVING WAGE COMPLIANCE",
+    "parents": []
+  },
+  {
+    "title": "WORKFORCE DEVELOPMENT BOARD COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "SANCTUARY COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "YOUTH SERVICES SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "YOUTH SERVICES SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "YOUTH SERVICES COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "MIGRANT EDUCATION OUTREACH COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SENIOR CITIZENS PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF YOUTH BUREAU",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF YOUTH BUREAU",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF YOUTH BUREAU",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN MANAGEMENT SERVICES ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY ORGANIZATION SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "TOWN BUILDING AND PLANNING ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL COMMUNITY ORGANIZATION SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "TOWN PLANNING AND DEVELOPMENT ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY LIAISON OFFICER",
+    "parents": []
+  },
+  {
+    "title": "TOWN MANAGEMENT SERVICES ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN ASSISTANCE PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "VOLUNTEER PROGRAMS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "VOLUNTEER COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "VETERANS SERVICE OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR VETERANS SERVICE OFFICER",
+    "parents": []
+  },
+  {
+    "title": "VETERANS SERVICE AIDE",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN PLANNING AND DEVELOPMENT ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "CAREER COUTURE ADVISOR",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF WOMEN'S SERVICES",
+    "parents": []
+  },
+  {
+    "title": "WOMEN'S RESOURCES ADVISOR II",
+    "parents": []
+  },
+  {
+    "title": "WOMEN'S RESOURCES ADVISOR I",
+    "parents": []
+  },
+  {
+    "title": "COLLEGE AIDE",
+    "parents": []
+  },
+  {
+    "title": "STUDENT AIDE",
+    "parents": []
+  },
+  {
+    "title": "WORK STUDY ASSISTANT \u2013 TUTOR",
+    "parents": []
+  },
+  {
+    "title": "WORK STUDY ASSISTANT \u2013 ON CAMPUS",
+    "parents": []
+  },
+  {
+    "title": "WORK STUDY ASSISTANT \u2013 OFF CAMPUS",
+    "parents": []
+  },
+  {
+    "title": "PROGRAM AIDE I",
+    "parents": []
+  },
+  {
+    "title": "YOUTH INTERN TRAINEE I",
+    "parents": []
+  },
+  {
+    "title": "STUDENT INTERN I",
+    "parents": []
+  },
+  {
+    "title": "STUDENT INTERN II",
+    "parents": []
+  },
+  {
+    "title": "STUDENT INTERN III",
+    "parents": []
+  },
+  {
+    "title": "SUMMER INTERN",
+    "parents": []
+  },
+  {
+    "title": "LAW INTERN",
+    "parents": []
+  },
+  {
+    "title": "WORK INTERN",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DAY CARE CENTER MANAGER",
+    "parents": []
+  },
+  {
+    "title": "DAY CARE CENTER SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "DAY CARE CENTER MANAGER",
+    "parents": []
+  },
+  {
+    "title": "GROUP LEADER (CHILD CARE)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT GROUP LEADER (SCHOOL-AGE CHILD CARE)",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF SCHOOL-AGE CHILD CARE",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF CHILD CARE PROGRAM",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL-HEALTH-AIDE\t\t\t\t\t3l87",
+    "parents": []
+  },
+  {
+    "title": "RECREATION AIDE",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT RECREATION LEADER",
+    "parents": []
+  },
+  {
+    "title": "RECREATION LEADER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR RECREATION LEADER",
+    "parents": []
+  },
+  {
+    "title": "RECREATION SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "RECREATION INSTRUCTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT RECREATION PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "RECREATION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "RECREATION PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT RECREATION CENTER MANAGER",
+    "parents": []
+  },
+  {
+    "title": "RECREATION CENTER MANAGER",
+    "parents": []
+  },
+  {
+    "title": "COUNTRY CLUB MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT ICE RINK MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ICE RINK MANAGER",
+    "parents": []
+  },
+  {
+    "title": "RECREATION PROGRAM PLANNER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SUPERINTENDENT OF RECREATION I",
+    "parents": []
+  },
+  {
+    "title": "SUPERINTENDENT OF RECREATION I",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SUPERINTENDENT OF RECREATION II",
+    "parents": []
+  },
+  {
+    "title": "SUPERINTENDENT OF RECREATION II",
+    "parents": []
+  },
+  {
+    "title": "PARKS AND RECREATION ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF FACILITIES, PARKS AND RECREATION",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF SPORTS AND RECREATION",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF SPORTS AND RECREATION",
+    "parents": []
+  },
+  {
+    "title": "CULTURAL\u00a0AFFAIRS\u00a0SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "LIFEGUARD",
+    "parents": []
+  },
+  {
+    "title": "LIFEGUARD (STILLWATER)\t4040",
+    "parents": []
+  },
+  {
+    "title": "LIFEGUARD (OCEAN)\t4041",
+    "parents": []
+  },
+  {
+    "title": "SENIOR LIFEGUARD",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CHIEF LIFEGUARD",
+    "parents": []
+  },
+  {
+    "title": "CHIEF LIFEGUARD",
+    "parents": []
+  },
+  {
+    "title": "TOUR GUIDE",
+    "parents": []
+  },
+  {
+    "title": "MARINE MUSEUM DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "COORDINATOR OF SPECIAL AFFAIRS",
+    "parents": []
+  },
+  {
+    "title": "HISTORIC SITE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "MUSEUM EDUCATION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "MUSEUM REGISTRAR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT MUSEUM DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "MUSEUM DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "PARK ATTENDANT III",
+    "parents": []
+  },
+  {
+    "title": "PARK ATTENDANT I",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PARK ATTENDANT",
+    "parents": []
+  },
+  {
+    "title": "BEAUTIFICATION WORKER                     \t420l",
+    "parents": []
+  },
+  {
+    "title": "RANGE OFFICER I",
+    "parents": []
+  },
+  {
+    "title": "RANGE OFFICER II",
+    "parents": []
+  },
+  {
+    "title": "RANGE OFFICER III",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT BEACH MANAGER",
+    "parents": []
+  },
+  {
+    "title": "BEACH MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR BEACH MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SWIMMING POOL MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SWIMMING POOL MANAGER",
+    "parents": []
+  },
+  {
+    "title": "TENNIS PROFESSIONAL",
+    "parents": []
+  },
+  {
+    "title": "TOWN CONCESSION MANAGER",
+    "parents": []
+  },
+  {
+    "title": "GOLF COURSE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "GOLF COURSE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT GOLF COURSE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "GOLF PROFESSIONAL",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT GOLF PROFESSIONAL",
+    "parents": []
+  },
+  {
+    "title": "HARBORMASTER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR HARBORMASTER",
+    "parents": []
+  },
+  {
+    "title": "HARBORMASTER I",
+    "parents": []
+  },
+  {
+    "title": "HARBORMASTER II",
+    "parents": []
+  },
+  {
+    "title": "HARBORMASTER III",
+    "parents": []
+  },
+  {
+    "title": "PARK FACILITIES SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "PARK SUPERVISOR I",
+    "parents": []
+  },
+  {
+    "title": "PARK SUPERVISOR II",
+    "parents": []
+  },
+  {
+    "title": "PARK SUPERVISOR III",
+    "parents": []
+  },
+  {
+    "title": "SENIOR COUNTY PARKS SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "COUNTY PARKS SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "HISTORIC RESTORATION CARPENTER",
+    "parents": []
+  },
+  {
+    "title": "PARK INTERPRETIVE SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF NATURAL RESOURCE MANAGEMENT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF HISTORIC SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF HISTORIC SERVICES",
+    "parents": []
+  },
+  {
+    "title": "PARKS FOUNDATION DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SUPERINTENDENT OF HARBORS & WATERWAYS",
+    "parents": []
+  },
+  {
+    "title": "SUPERINTENDENT OF HARBORS AND WATERWAYS",
+    "parents": []
+  },
+  {
+    "title": "TOWN HISTORIAN",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN HISTORIAN",
+    "parents": []
+  },
+  {
+    "title": "TOWN PARK SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN PARK SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN PARKS DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN PARKS DIRECTOR\t4295",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN BUDGET OFFICER",
+    "parents": []
+  },
+  {
+    "title": "MUSEUM RESTORATION SPECIALIST \t4l82",
+    "parents": []
+  },
+  {
+    "title": "POLICE OFFICER Part-Time/Seasonal",
+    "parents": []
+  },
+  {
+    "title": "POLICE OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SERGEANT (POLICE)",
+    "parents": []
+  },
+  {
+    "title": "LIEUTENANT (POLICE)",
+    "parents": []
+  },
+  {
+    "title": "CAPTAIN (POLICE)",
+    "parents": []
+  },
+  {
+    "title": "POLICE OFFICER (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "SERGEANT (POLICE: TOWNS & VILLAGES)",
+    "parents": []
+  },
+  {
+    "title": "LIEUTENANT (POLICE:TOWNS & VILLAGES)",
+    "parents": []
+  },
+  {
+    "title": "CAPTAIN (POLICE: TOWNS & VILLAGES)",
+    "parents": []
+  },
+  {
+    "title": "POLICE CHIEF (TOWNS & VILLAGES) \u2013 TYPE A",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC CONTROL OFFICER (SEASONAL)",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC CONTROL SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "CONSTABLE (VILLAGE OF EAST HAMPTON)",
+    "parents": []
+  },
+  {
+    "title": "CONSTABLE (VILLAGE OF WEST HAMPTON DUNES)",
+    "parents": []
+  },
+  {
+    "title": "CONSTABLE FISHERS ISLAND",
+    "parents": []
+  },
+  {
+    "title": "BAY CONSTABLE",
+    "parents": []
+  },
+  {
+    "title": "SENIOR BAY CONSTABLE",
+    "parents": []
+  },
+  {
+    "title": "DETENTION ATTENDANT",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL CROSSING GUARD",
+    "parents": []
+  },
+  {
+    "title": "GUNSMITH",
+    "parents": []
+  },
+  {
+    "title": "POLICE FIREARMS INSTRUCTOR",
+    "parents": []
+  },
+  {
+    "title": "EVIDENCE CONTROL CLERK",
+    "parents": []
+  },
+  {
+    "title": "EVIDENCE CONTROL CLERK II",
+    "parents": []
+  },
+  {
+    "title": "EVIDENCE CONTROL CLERK III",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT SECURITY GUARD",
+    "parents": []
+  },
+  {
+    "title": "SENIOR AIRPORT SECURITY GUARD",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL AIRPORT SECURITY GUARD",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT SECURITY DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT SECURITY SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT IDENTIFICATION TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "PARKING METER OFFICER",
+    "parents": []
+  },
+  {
+    "title": "PARKING METER COLLECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SPECIAL SERVICES MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SPECIAL SERVICES MANAGER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY POLICE COMMISSIONER (VILLAGE OF NISSEQUOGUE)",
+    "parents": []
+  },
+  {
+    "title": "BINGO INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR BINGO INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "BUILDING INSPECTOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "BUILDING PERMITS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "BUILDING AND ZONING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "BUILDING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR BUILDING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL BUILDING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "CHIEF BUILDING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR BUILDING AND ZONING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "BUILDING PERMITS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "BUILDING PLANS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SITE PLAN REVIEWER",
+    "parents": []
+  },
+  {
+    "title": "SITE PLAN REVIEWER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR SITE PLAN REVIEWER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR BUILDING PLANS EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "ENGINEERING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ENGINEERING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL ENGINEERING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "Fire Prevention Inspector",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CHIEF COUNTY FIRE MARSHAL",
+    "parents": []
+  },
+  {
+    "title": "CHIEF COUNTY FIRE MARSHAL",
+    "parents": []
+  },
+  {
+    "title": "FIRE MARSHAL I",
+    "parents": []
+  },
+  {
+    "title": "FIRE MARSHAL II",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CHIEF FIRE MARSHAL",
+    "parents": []
+  },
+  {
+    "title": "CHIEF FIRE MARSHAL",
+    "parents": []
+  },
+  {
+    "title": "CHIEF OF FIRE RESCUE SERVICES",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CHIEF OF FIRE RESCUE COMMUNICATIONS",
+    "parents": []
+  },
+  {
+    "title": "HOUSING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR HOUSING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL HOUSING INSPECTOR\t5133",
+    "parents": []
+  },
+  {
+    "title": "LIGHTING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR LIGHTING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "PLUMBING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PLUMBING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SANITATION INSPECTOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "SANITATION INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR SANITATION INSPECTOR\t      \t\t\t  5l50",
+    "parents": []
+  },
+  {
+    "title": "SIGN INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR SIGN INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "ZONING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ZONING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL ZONING INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "ZONING INSPECTOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "ZONING VIOLATIONS HEARING OFFICER",
+    "parents": []
+  },
+  {
+    "title": "HOUSING PROGRAM SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF HOUSING",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF HOUSING",
+    "parents": []
+  },
+  {
+    "title": "ACCESSORY APARTMENT REVIEW BOARD MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ACCESSORY APARTMENT HEARING OFFICER",
+    "parents": []
+  },
+  {
+    "title": "TAXI AND TOW TRUCK LICENSING AND SAFETY INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR/SECRETARY (HOUSING AUTHORITY)",
+    "parents": []
+  },
+  {
+    "title": "CODE ENFORCEMENT OFFICER (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ELECTRICAL INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "ELECTRICAL INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "CODE ENFORCEMENT OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CODE ENFORCEMENT OFFICER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CODE ENFORCEMENT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "CODE ENFORCEMENT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ORDINANCE INSPECTOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "ORDINANCE INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "CODE COMPLIANCE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ORDINANCE ENFORCEMENT OFFICER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF CODE ENFORCEMENT",
+    "parents": []
+  },
+  {
+    "title": "WATER ECONOMY TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "VILLAGE DIRECTOR OF DEVELOPMENT",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF BUILDING AND HOUSING",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF BUILDING AND HOUSING",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF ENGINEERING, BUILDING AND HOUSING",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN DIRECTOR OF ENGINEERING, BUILDING AND HOUSING",
+    "parents": []
+  },
+  {
+    "title": "TOWN OF SMITHTOWN BUILDING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "INVESTIGATIONS ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "INVESTIGATIONS MANAGER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF CITIZEN AFFAIRS",
+    "parents": []
+  },
+  {
+    "title": "ENERGY COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ENERGY COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "CONSUMER AFFAIRS EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "CONSUMER AFFAIRS TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "CONSUMER AFFAIRS SPECIALIST I",
+    "parents": []
+  },
+  {
+    "title": "CONSUMER AFFAIRS TECHNICIAN (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CONSUMER AFFAIRS SPECIALIST I (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CONSUMER AFFAIRS SPECIALIST II",
+    "parents": []
+  },
+  {
+    "title": "CONSUMER AFFAIRS SPECIALIST III",
+    "parents": []
+  },
+  {
+    "title": "WEIGHTS AND MEASURES INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR WEIGHTS AND MEASURES INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF WEIGHTS AND MEASURES",
+    "parents": []
+  },
+  {
+    "title": "Assistant Director of Consumer Affairs",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF WEIGHTS AND MEASURES",
+    "parents": []
+  },
+  {
+    "title": "VILLAGE FIRE DEPARTMENT ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "FIRE DISTRICT TRAINING ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "FIRE PREVENTION EDUCATOR",
+    "parents": []
+  },
+  {
+    "title": "FIRE PROTECTION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "FIRE PROTECTION ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "FIREFIGHTER",
+    "parents": []
+  },
+  {
+    "title": "FIREFIGHTER/EMERGENCY MEDICAL TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "HEALTH AND SAFETY ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "SAFETY OFFICER TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "SAFETY OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR SAFETY OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SAFETY & ADMINISTRATIVE SUPPORT MANAGER",
+    "parents": []
+  },
+  {
+    "title": "COUNTY SAFETY OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SAFETY SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "AUTOMOBILE CLAIMS ADJUSTER",
+    "parents": []
+  },
+  {
+    "title": "VEHICLE RECOVERY SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "ANIMAL CARETAKER",
+    "parents": []
+  },
+  {
+    "title": "KENNEL ATTENDANT",
+    "parents": []
+  },
+  {
+    "title": "ANIMAL CONTROL OFFICER I",
+    "parents": []
+  },
+  {
+    "title": "ANIMAL CONTROL OFFICER II",
+    "parents": []
+  },
+  {
+    "title": "ANIMAL SHELTER SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT ANIMAL SHELTER SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ANIMAL SHELTER EDUCATION SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "VETERINARY TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "VETERINARIAN",
+    "parents": []
+  },
+  {
+    "title": "ANIMAL PRESERVE CARETAKER",
+    "parents": []
+  },
+  {
+    "title": "CORRECTION OFFICER I",
+    "parents": []
+  },
+  {
+    "title": "CORRECTION OFFICER II",
+    "parents": []
+  },
+  {
+    "title": "CORRECTION OFFICER III",
+    "parents": []
+  },
+  {
+    "title": "CORRECTION OFFICER IV\t5506",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY WARDEN",
+    "parents": []
+  },
+  {
+    "title": "CORRECTIONS COORDINATOR - DWI ALTERNATIVE",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY SHERIFF I",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY SHERIFF II",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY SHERIFF III",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY SHERIFF IV",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO THE SHERIFF",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY SHERIFF",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT CHIEF DEPUTY SHERIFF",
+    "parents": []
+  },
+  {
+    "title": "CHIEF OF STAFF (SHERIFF)",
+    "parents": []
+  },
+  {
+    "title": "deputy undersheriff",
+    "parents": []
+  },
+  {
+    "title": "WARDEN  \t\t\t\t\t\t55l0",
+    "parents": []
+  },
+  {
+    "title": "PARK RANGER I (SEASONAL)",
+    "parents": []
+  },
+  {
+    "title": "PARK RANGER I",
+    "parents": []
+  },
+  {
+    "title": "PARK RANGER II",
+    "parents": []
+  },
+  {
+    "title": "PARK RANGER III",
+    "parents": []
+  },
+  {
+    "title": "PARK RANGER IV",
+    "parents": []
+  },
+  {
+    "title": "PARK POLICE OFFICER I",
+    "parents": []
+  },
+  {
+    "title": "PARK POLICE OFFICER II",
+    "parents": []
+  },
+  {
+    "title": "PARK POLICE OFFICER III",
+    "parents": []
+  },
+  {
+    "title": "PARK POLICE OFFICER IV",
+    "parents": []
+  },
+  {
+    "title": "PARK RANGER II (PT/SEASONAL)",
+    "parents": []
+  },
+  {
+    "title": "CRIMINAL IDENTIFICATION TECHNICIAN TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "CRIMINAL IDENTIFICATION TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "SENIOR CRIMINAL IDENTIFICATION TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "FIREARMS INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "EVIDENCE SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SENIOR EVIDENCE SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "Evidence Specialist Trainee",
+    "parents": []
+  },
+  {
+    "title": "FINGERPRINT ANALYST TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "FINGERPRINT ANALYST",
+    "parents": []
+  },
+  {
+    "title": "FINGERPRINT TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "PROBATION INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "PROBATION INVESTIGATOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "DISTRICT ATTORNEY OPERATIONS AIDE",
+    "parents": []
+  },
+  {
+    "title": "INVESTIGATIVE ASSISTANT (TECHNICAL SERVICES)",
+    "parents": []
+  },
+  {
+    "title": "DISTRICT ATTORNEY INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "DETECTIVE INVESTIGATOR (TECHNICAL SERVICES)",
+    "parents": []
+  },
+  {
+    "title": "DETECTIVE INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR DETECTIVE INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL DETECTIVE INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DETECTIVE INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY CHIEF DETECTIVE INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SPECIAL INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "SPECIAL INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "INVESTIGATOR I (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "INVESTIGATOR I",
+    "parents": []
+  },
+  {
+    "title": "INVESTIGATOR II",
+    "parents": []
+  },
+  {
+    "title": "INVESTIGATOR III",
+    "parents": []
+  },
+  {
+    "title": "INVESTIGATOR IV",
+    "parents": []
+  },
+  {
+    "title": "INVESTIGATOR II (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "CIVIL SERVICE INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "APPLICANT INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "APPLICANT AND COMPLAINT INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "POLYGRAPH EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL DISTRICT INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN CODE COMPLIANCE AND EMERGENCY MANAGEMENT ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN INVESTIGATOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "TOWN INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR TOWN INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL TOWN INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "CHIEF TOWN INVESTIGATOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF PUBLIC SAFETY",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN DIRECTOR OF PUBLIC SAFETY",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY EMERGENCY EVACUATION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY PREPAREDNESS OFFICER - HEALTH SERVICES",
+    "parents": []
+  },
+  {
+    "title": "OPERATIONS OFFICER (EMERGENCY PREPAREDNESS)",
+    "parents": []
+  },
+  {
+    "title": "RESOURCES MANAGEMENT OFFICER (EMERGENCY PREPAREDNESS)",
+    "parents": []
+  },
+  {
+    "title": "SHELTER OFFICER (EMERGENCY PREPAREDNESS)",
+    "parents": []
+  },
+  {
+    "title": "TRAINING OFFICER (eMERGENCY PREPAREDNESS)",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY PREPAREDNESS OFFICER - SOCIAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "RADIOLOGICAL DEFENSE OFFICER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN EMERGENCY PREPAREDNESS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN EMERGENCY PREPAREDNESS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY PREPAREDNESS & SAFETY TRAINER",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY PREPAREDNESS OFFICER",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY PREPAREDNESS OFFICER II",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY PREPAREDNESS OFFICER III",
+    "parents": []
+  },
+  {
+    "title": "DIVISION CHIEF",
+    "parents": []
+  },
+  {
+    "title": "PROSECUTOR (TOWNS & VILLAGES)",
+    "parents": []
+  },
+  {
+    "title": "BUREAU CHIEF",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY COUNTY ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COUNTY ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "JUNIOR ASSISTANT DISTRICT ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "BUREAU CHIEF I",
+    "parents": []
+  },
+  {
+    "title": "BUREAU CHIEF III",
+    "parents": []
+  },
+  {
+    "title": "CHIEF ASSISTANT DISTRICT ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DISTRICT ATTORNEY I",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DISTRICT ATTORNEY I",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY BUREAU CHIEF",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ASSISTANT DISTRICT ATTORNEY I",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY BUREAU CHIEF I",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DISTRICT ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ASSISTANT DISTRICT ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL ASSISTANT DISTRICT ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "DISCOVERY EXPEDITOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PARALEGAL",
+    "parents": []
+  },
+  {
+    "title": "PARALEGAL",
+    "parents": []
+  },
+  {
+    "title": "PARALEGAL ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "LAW CLERK",
+    "parents": []
+  },
+  {
+    "title": "TORT CLAIMS ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "TORT CLAIMS MANAGER",
+    "parents": []
+  },
+  {
+    "title": "COMPLAINT EVALUATION SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "CHILD ABUSE PROSECUTION ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "CRISIS INTERVENTION COUNSELOR",
+    "parents": []
+  },
+  {
+    "title": "CRIME VICTIMS ADVOCATE",
+    "parents": []
+  },
+  {
+    "title": "VICTIMS SERVICES COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "CRIME VICTIMS ADVOCATE (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "LAW ASSISTANT I",
+    "parents": []
+  },
+  {
+    "title": "LAW ASSISTANT II",
+    "parents": []
+  },
+  {
+    "title": "JUNIOR ASSISTANT COUNTY ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "BUREAU CHIEF (LAW)",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY BUREAU CHIEF (LAW)",
+    "parents": []
+  },
+  {
+    "title": "COUNSEL TO THE LEGISLATURE\t6166",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO DISTRICT ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT VILLAGE ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "VILLAGE ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT COUNTY ATTORNEY (SPECIAL ASSIGNMENT)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT COUNTY ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ASSISTANT COUNTY ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL ASSISTANT COUNTY ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "TOWN ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ASSISTANT TOWN ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "FIRE DISTRICT ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "LIBRARY ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "CHIEF ASSISTANT TOWN ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "TRAFFIC HEARING OFFICER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF THE BUREAU OF ADMINISTRATIVE ADJUDICATION",
+    "parents": []
+  },
+  {
+    "title": "ADMINISTRATIVE LAW JUDGE",
+    "parents": []
+  },
+  {
+    "title": "PROBATION ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "PROBATION ASSISTANT (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "PROBATION OFFICER (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "PROBATION OFFICER TRAINEE (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "PROBATION OFFICER TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "PROBATION OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR PROBATION OFFICER",
+    "parents": []
+  },
+  {
+    "title": "PROBATION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "PRINCIPAL PROBATION OFFICER",
+    "parents": []
+  },
+  {
+    "title": "PROBATION TRAINING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "RESIDENTIAL CARE COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "DRUG COURT SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "ASSOCIATE VILLAGE JUSTICE",
+    "parents": []
+  },
+  {
+    "title": "LABORER",
+    "parents": []
+  },
+  {
+    "title": "MAINTENANCE MECHANIC I",
+    "parents": []
+  },
+  {
+    "title": "MAINTENANCE MECHANIC II",
+    "parents": []
+  },
+  {
+    "title": "MAINTENANCE MECHANIC III",
+    "parents": []
+  },
+  {
+    "title": "MAINTENANCE MECHANIC IV",
+    "parents": []
+  },
+  {
+    "title": "MAINTENANCE MECHANIC V",
+    "parents": []
+  },
+  {
+    "title": "BRIDGE MAINTENANCE MECHANIC IV",
+    "parents": []
+  },
+  {
+    "title": "ROAD REPAIR WORKER",
+    "parents": []
+  },
+  {
+    "title": "ASPHALT WORKER I",
+    "parents": []
+  },
+  {
+    "title": "ASPHALT WORKER II",
+    "parents": []
+  },
+  {
+    "title": "COMMUNITY PRIDE WORKER",
+    "parents": []
+  },
+  {
+    "title": "GROUNDSKEEPER I",
+    "parents": []
+  },
+  {
+    "title": "GARDENER",
+    "parents": []
+  },
+  {
+    "title": "HORTICULTURAL WORKER",
+    "parents": []
+  },
+  {
+    "title": "HORTICULTURAL WORKER II",
+    "parents": []
+  },
+  {
+    "title": "TREE TRIMMER I",
+    "parents": []
+  },
+  {
+    "title": "ELEVATOR OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "SANITATION HELPER",
+    "parents": []
+  },
+  {
+    "title": "BEACH ATTENDANT",
+    "parents": []
+  },
+  {
+    "title": "LOCK TENDER",
+    "parents": []
+  },
+  {
+    "title": "DOCK MANAGER",
+    "parents": []
+  },
+  {
+    "title": "DREDGE SHORE WORKER",
+    "parents": []
+  },
+  {
+    "title": "DREDGE DECKHAND\t7051",
+    "parents": []
+  },
+  {
+    "title": "DREDGE MATE",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT ATTENDANT",
+    "parents": []
+  },
+  {
+    "title": "SENIOR AIRPORT ATTENDANT",
+    "parents": []
+  },
+  {
+    "title": "PARK SECURITY AIDE I",
+    "parents": []
+  },
+  {
+    "title": "PARK SECURITY AIDE II",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF SCHOOL SAFETY",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL SECURITY GUARD",
+    "parents": []
+  },
+  {
+    "title": "SENIOR SCHOOL SECURITY GUARD",
+    "parents": []
+  },
+  {
+    "title": "GUARD",
+    "parents": []
+  },
+  {
+    "title": "SENIOR GUARD",
+    "parents": []
+  },
+  {
+    "title": "MUSEUM GUARD",
+    "parents": []
+  },
+  {
+    "title": "COLLEGE PUBLIC SAFETY OFFICER I",
+    "parents": []
+  },
+  {
+    "title": "COLLEGE PUBLIC SAFETY OFFICER II",
+    "parents": []
+  },
+  {
+    "title": "COURT ATTENDANT",
+    "parents": []
+  },
+  {
+    "title": "COLLEGE PUBLIC SAFETY OFFICER III",
+    "parents": []
+  },
+  {
+    "title": "COURT OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR COURT OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SECURITY GUARD",
+    "parents": []
+  },
+  {
+    "title": "SENIOR SECURITY GUARD",
+    "parents": []
+  },
+  {
+    "title": "SECURITY SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SECURITY DIRECTOR\t7094",
+    "parents": []
+  },
+  {
+    "title": "SECURITY DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN PUBLIC SAFETY AGENT",
+    "parents": []
+  },
+  {
+    "title": "SENIOR TOWN PUBLIC SAFETY AGENT",
+    "parents": []
+  },
+  {
+    "title": "HIGH VOLTAGE SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "SIGN PAINTER I",
+    "parents": []
+  },
+  {
+    "title": "LOCKSMITH",
+    "parents": []
+  },
+  {
+    "title": "WATER DISTRICT MAINTENANCE CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "PARKING METER REPAIRER",
+    "parents": []
+  },
+  {
+    "title": "METER READER",
+    "parents": []
+  },
+  {
+    "title": "WATER METER READER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR WATER METER READER",
+    "parents": []
+  },
+  {
+    "title": "WATERWAYS MAINTENANCE MECHANIC II",
+    "parents": []
+  },
+  {
+    "title": "MARINE MECHANIC",
+    "parents": []
+  },
+  {
+    "title": "MARINE MECHANIC \u2013 CERTIFIED TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "HELICOPTER MECHANIC",
+    "parents": []
+  },
+  {
+    "title": "HELICOPTER MECHANIC SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "RADIO SHOP SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "COMMUNICATIONS MECHANIC",
+    "parents": []
+  },
+  {
+    "title": "COMMUNICATIONS MECHANIC II\t7172",
+    "parents": []
+  },
+  {
+    "title": "COMMUNICATIONS TECHNICIAN I",
+    "parents": []
+  },
+  {
+    "title": "COMMUNICATIONS TECHNICIAN II",
+    "parents": []
+  },
+  {
+    "title": "COMMUNICATIONS TECHNICIAN III",
+    "parents": []
+  },
+  {
+    "title": "POLICE COMMUNICATIONS SYSTEMS DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "MICROCOMPUTER REPAIR TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "SENIOR MICROCOMPUTER REPAIR TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "GREENSKEEPER",
+    "parents": []
+  },
+  {
+    "title": "DIESEL MECHANIC",
+    "parents": []
+  },
+  {
+    "title": "FLEET MANAGEMENT SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "AUTOMOTIVE MECHANIC I\t7191",
+    "parents": []
+  },
+  {
+    "title": "AUTOMOTIVE MECHANIC II\t7192",
+    "parents": []
+  },
+  {
+    "title": "AUTOMOTIVE MECHANIC III",
+    "parents": []
+  },
+  {
+    "title": "AUTOMOTIVE MECHANIC IV\t7194",
+    "parents": []
+  },
+  {
+    "title": "AUTOMOTIVE MECHANIC V\t7195",
+    "parents": []
+  },
+  {
+    "title": "FLEET SERVICE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "AUTOMOTIVE BODY MECHANIC",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT FLEET SERVICE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "FLEET LIAISON OFFICER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF COUNTY FLEET SERVICES",
+    "parents": []
+  },
+  {
+    "title": "AUTOMOTIVE EQUIPMENT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "STORM RESPONSE EQUIPMENT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "HEAVY EQUIPMENT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF COUNTY FLEET SERVICES",
+    "parents": []
+  },
+  {
+    "title": "CONSTRUCTION EQUIPMENT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "Evidence Recovery Tow Operator",
+    "parents": []
+  },
+  {
+    "title": "Police transportation manager",
+    "parents": []
+  },
+  {
+    "title": "DRIVER MESSENGER",
+    "parents": []
+  },
+  {
+    "title": "COURIER",
+    "parents": []
+  },
+  {
+    "title": "BUS DRIVER",
+    "parents": []
+  },
+  {
+    "title": "MINIBUS DRIVER",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL BUS DRIVER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF HIGHWAY PLANNING AND PERMITS",
+    "parents": []
+  },
+  {
+    "title": "EQUIPMENT CONTRACTING OFFICER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF HIGHWAY AND FLEET MAINTENANCE",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF HIGHWAY AND FLEET MAINTENANCE",
+    "parents": []
+  },
+  {
+    "title": "BOAT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "PUMPOUT BOAT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR BOAT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "DREDGE ENGINE OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "DREDGE CAPTAIN",
+    "parents": []
+  },
+  {
+    "title": "BRIDGE OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "WELL DRILLER I",
+    "parents": []
+  },
+  {
+    "title": "WELL DRILLER II",
+    "parents": []
+  },
+  {
+    "title": "WELL DRILLER I (DEEP AUGER)",
+    "parents": []
+  },
+  {
+    "title": "DIVER",
+    "parents": []
+  },
+  {
+    "title": "CAMPUS LABOR CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT HIGHWAY ZONE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "LABOR CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "VECTOR CONTROL LABOR CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT LABOR CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY LABOR CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "BUILDING FACILITIES CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY CONSTRUCTION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC WORKS PROJECT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY GENERAL SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY EQUIPMENT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY ZONE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY MAINTENANCE CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT HIGHWAY MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN HIGHWAY MAINTENANCE SUPERVISOR\t7315",
+    "parents": []
+  },
+  {
+    "title": "TOWN HIGHWAY MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY CONSTRUCTION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY PROJECT INSPECTOR",
+    "parents": []
+  },
+  {
+    "title": "HIGHWAY PROJECT ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "VILLAGE SUPERINTENDENT OF HIGHWAYS",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT VILLAGE SUPERINTENDENT OF PUBLIC WORKS",
+    "parents": []
+  },
+  {
+    "title": "VILLAGE SUPERINTENDENT OF PUBLIC WORKS",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SUPERINTENDENT OF PUBLIC WORKS",
+    "parents": []
+  },
+  {
+    "title": "TOWN PUBLIC WORKS SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY SUPERINTENDENT OF HIGHWAYS",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF HIGHWAY CONSTRUCTION",
+    "parents": []
+  },
+  {
+    "title": "SIGN SHOP MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SIGN PAINTER II",
+    "parents": []
+  },
+  {
+    "title": "PAINT SHOP CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "PARK MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF FACILITIES MANAGEMENT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN DIRECTOR OF FACILITIES MANAGEMENT",
+    "parents": []
+  },
+  {
+    "title": "TOWN PARK MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN PARK MAINTENANCE DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "PARK MAINTENANCE CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TOWN PARK MAINTENANCE DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN MAINTENANCE CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "TOWN MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ECOLOGY PROJECT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "GROUNDSKEEPER II",
+    "parents": []
+  },
+  {
+    "title": "TREE TRIMMER II",
+    "parents": []
+  },
+  {
+    "title": "GROUNDSKEEPER III",
+    "parents": []
+  },
+  {
+    "title": "GROUNDS MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT GROUNDS SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "GROUNDS SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "URBAN FORESTER",
+    "parents": []
+  },
+  {
+    "title": "HEAVY EQUIPMENT REPAIR SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "DECKHAND",
+    "parents": []
+  },
+  {
+    "title": "FERRY CAPTAIN",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL TRANSPORTATION ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "HEAD SCHOOL BUS DRIVER",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL BUS DRIVER COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SCHOOL BUS DRIVER COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "BRIDGE MAINTENANCE MECHANIC I",
+    "parents": []
+  },
+  {
+    "title": "BRIDGE MAINTENANCE MECHANIC II",
+    "parents": []
+  },
+  {
+    "title": "BRIDGE MAINTENANCE MECHANIC III",
+    "parents": []
+  },
+  {
+    "title": "DECKHAND (FISHERS ISLAND FERRY DISTRICT)",
+    "parents": []
+  },
+  {
+    "title": "TUGBOAT CAPTAIN",
+    "parents": []
+  },
+  {
+    "title": "CHIEF ENGINE OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "FREIGHT AGENT (FISHERS ISLAND FERRY DISTRICT)",
+    "parents": []
+  },
+  {
+    "title": "WATERWAYS MAINTENANCE MECHANIC III",
+    "parents": []
+  },
+  {
+    "title": "FERRY CAPTAIN",
+    "parents": []
+  },
+  {
+    "title": "CHIEF ENGINEER",
+    "parents": []
+  },
+  {
+    "title": "MARINE OPERATIONS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "SANITATION SITE CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "SANITATION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "FIELD OPERATIONS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "SANITATION INSPECTION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "OPERATIONS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "PARKING METER SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "SANITATION CREW CHIEF                               739l",
+    "parents": []
+  },
+  {
+    "title": "OPERATOR: WATER & SEWAGE TREATMENT PLANTS",
+    "parents": []
+  },
+  {
+    "title": "WATER TREATMENT PLANT OPERATOR (TYPE IB)",
+    "parents": []
+  },
+  {
+    "title": "WATER TREATMENT PLANT OPERATOR (Type IIB)",
+    "parents": []
+  },
+  {
+    "title": "WATER TREATMENT PLANT OPERATOR (TYPE C)",
+    "parents": []
+  },
+  {
+    "title": "WATER TREATMENT PLANT OPERATOR TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "SENIOR WATER TREATMENT PLANT OPERATOR IB",
+    "parents": []
+  },
+  {
+    "title": "SENIOR WATER TREATMENT PLANT OPERATOR (TYPE 11A)",
+    "parents": []
+  },
+  {
+    "title": "SENIOR WATER TREATMENT PLANT OPERATOR (TYPE IIB)",
+    "parents": []
+  },
+  {
+    "title": "SENIOR WATER PLANT OPERATOR (TYPE D)",
+    "parents": []
+  },
+  {
+    "title": "CHIEF WATER TREATMENT PLANT OPERATOR (TYPE IB)",
+    "parents": []
+  },
+  {
+    "title": "CHIEF WATER TREATMENT PLANT OPERATOR (TYPE IIA)",
+    "parents": []
+  },
+  {
+    "title": "CHIEF WATER TREATMENT PLANT OPERATOR (TYPE IIB)",
+    "parents": []
+  },
+  {
+    "title": "CHIEF WATER TREATMENT PLANT OPERATOR (TYPE C)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT WATER DISTRICT SUPERINTENDENT                 7441                                                                         (Type IIB Treatment Facility)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT WATER DISTRICT SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "WATER & SEWAGE DISTRICT SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "WATER DISTRICT SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "WATER DISTRICT SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "WATER DISTRICT SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "WATER DISTRICT SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "WATER DISTRICT SUPERINTENDENT (Type D Facility)",
+    "parents": []
+  },
+  {
+    "title": "WATER DISTRICT COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT OPERATOR TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT OPERATOR (2)",
+    "parents": []
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT OPERATOR (2A)",
+    "parents": []
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT OPERATOR (3)",
+    "parents": []
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT OPERATOR (3A)",
+    "parents": []
+  },
+  {
+    "title": "DATA BASE COORDINATOR (WASTEWATER TREATMENT)",
+    "parents": []
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT OPERATOR (4A)",
+    "parents": []
+  },
+  {
+    "title": "SENIOR WASTEWATER TREATMENT PLANT OPERATOR (2)",
+    "parents": []
+  },
+  {
+    "title": "SENIOR WASTEWATER TREATMENT PLANT OPERATOR (3A)",
+    "parents": []
+  },
+  {
+    "title": "SENIOR WASTEWATER TREATMENT PLANT OPERATOR (4A)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF BUILDINGS, OPERATIONS & MAINTENANCE",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF BUILDINGS, OPERATIONS & MAINTENANCE",
+    "parents": []
+  },
+  {
+    "title": "ELECTRICAL SERVICES SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF STREET LIGHTING",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT BUILDING MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "BUILDING MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "BUILDING CONSTRUCTION COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "TOWN BUILDING MAINTENANCE CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "BUILDING MAINTENANCE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "TRADE SHOP MANAGER",
+    "parents": []
+  },
+  {
+    "title": "BUILDINGS SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "TRADE SHOP ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "PREVENTIVE MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF FACILITIES III",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT PLANT FACILITIES ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF CUSTODIAL AND SECURITY SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF CUSTODIAL AND SECURITY SERVICES",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL MAINTENANCE CREW LEADER",
+    "parents": []
+  },
+  {
+    "title": "BUILDING SERVICES ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL OPERATIONS ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "INCINERATOR CONTROL BOARD OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT INCINERATOR PLANT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT WASTEWATER DISTRICT SUPERINTENDENT (TYPE 3)",
+    "parents": []
+  },
+  {
+    "title": "WASTEWATER DISTRICT SUPERINTENDENT (TYPE 2)",
+    "parents": []
+  },
+  {
+    "title": "WASTEWATER DISTRICT SUPERINTENDENT (TYPE 3)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT SUPERINTENDENT OF SANITATION & SEWAGE",
+    "parents": []
+  },
+  {
+    "title": "SUPERINTENDENT OF SANITATION AND SEWAGE",
+    "parents": []
+  },
+  {
+    "title": "ENVIRONMENTAL FACILITIES MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT UTILITIES DISTRICT SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "UTILITIES DISTRICT SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "ELECTRICAL SERVICES SUPERINTENDENT (VILLAGE OF GREENPORT)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF OPERATIONS AND MAINTENANCE",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF MAINTENANCE",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF OPERATIONS AND MAINTENANCE (SEWER DISTRICT)",
+    "parents": []
+  },
+  {
+    "title": "WASTEWATER PLANT OPERATIONS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "OPERATIONS CREW CHIEF (WASTEWATER TREATMENT)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT WASTEWATER PLANT OPERATIONS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF OPERATIONS (SEWER DISTRICT)",
+    "parents": []
+  },
+  {
+    "title": "TRAINING AND SAFETY OFFICER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TRAINING AND SAFETY OFFICER",
+    "parents": []
+  },
+  {
+    "title": "MAINTENANCE CREW CHIEF (WASTEWATER TREATMENT)",
+    "parents": []
+  },
+  {
+    "title": "MAINTENANCE CREW CHIEF (STEAM AND HVAC)",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF MAINTENANCE (WASTEWATER TREATMENT)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF MAINTENANCE",
+    "parents": []
+  },
+  {
+    "title": "SENIOR WASTEWATER TREATMENT PLANT HELPER",
+    "parents": []
+  },
+  {
+    "title": "WASTEWATER TREATMENT PLANT HELPER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF SEWER DISTRICT ACTIVATION",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF SEWER DISTRICT ACTIVATION",
+    "parents": []
+  },
+  {
+    "title": "INDUSTRIAL WASTE PRETREATMENT PROGRAM SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "INDUSTRIAL WASTE PRETREATMENT - ENFORCEMENT COORDINATOR\t7674",
+    "parents": []
+  },
+  {
+    "title": "CHIEF ENGINEER (SANITATION)",
+    "parents": []
+  },
+  {
+    "title": "INDUSTRIAL WASTE PRETREATMENT TECHNICIAN TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "INDUSTRIAL WASTE PRETREATMENT TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "SENIOR INDUSTRIAL WASTE PRETREATMENT TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "CHIEF POWER PLANT OPERATOR",
+    "parents": []
+  },
+  {
+    "title": "CHIEF POWER PLANT OPERATOR (GAS POWERED)",
+    "parents": []
+  },
+  {
+    "title": "PRETREATMENT PROGRAM COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "POWER PLANT OPERATOR II",
+    "parents": []
+  },
+  {
+    "title": "POWER PLANT OPERATOR I",
+    "parents": []
+  },
+  {
+    "title": "CHIEF POWER DISTRIBUTION LINES MECHANIC",
+    "parents": []
+  },
+  {
+    "title": "POWER DISTRIBUTION LINES MECHANIC II\t7688",
+    "parents": []
+  },
+  {
+    "title": "POWER DISTRIBUTION LINES MECHANIC I",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT FIRE SAFETY OFFICER TRAINEE",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT FIRE SAFETY OFFICER",
+    "parents": []
+  },
+  {
+    "title": "SENIOR AIRPORT FIRE SAFETY OFFICER",
+    "parents": []
+  },
+  {
+    "title": "CHIEF AIRPORT FIRE SAFETY OFFICER",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT EMERGENCY SERVICES DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT AIRPORT MAINTENANCE MECHANIC",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT MAINTENANCE MECHANIC",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT AIRPORT LIGHTING SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT LIGHTING SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT MAINTENANCE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT FACILITIES SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT AIRPORT CONSTRUCTION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT CONSTRUCTION SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT OPERATIONS DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT AIRPORT OPERATIONS SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "FOREIGN TRADE ZONE MANAGER",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT ADMINISTRATIVE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "airport administrative assistant",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT CUSTODIAL SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT AIRPORT MANAGER",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT MANAGER",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ISLIP MACARTHUR AIRPORT MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ISLIP MACARTHUR AIRPORT ASSISTANT MANAGER",
+    "parents": []
+  },
+  {
+    "title": "AIRPORT SPECIAL EVENTS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "VECTOR CONTROL AIDE",
+    "parents": []
+  },
+  {
+    "title": "VECTOR CONTROL ASSISTANT",
+    "parents": []
+  },
+  {
+    "title": "VECTOR CONTROL SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ENTOMOLOGIST",
+    "parents": []
+  },
+  {
+    "title": "HEAD CUSTODIAN",
+    "parents": []
+  },
+  {
+    "title": "CHIEF CUSTODIAN",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL CUSTODIAL SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL CUSTODIAL SUPERVISOR (SPANISH SPEAKING)",
+    "parents": []
+  },
+  {
+    "title": "TOWN CUSTODIAL SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT HOUSEKEEPER",
+    "parents": []
+  },
+  {
+    "title": "HOUSEKEEPER",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF HOUSEKEEPING-SKILLED NURSING FACILITY",
+    "parents": []
+  },
+  {
+    "title": "CUSTODIAL AIDE",
+    "parents": []
+  },
+  {
+    "title": "CUSTODIAL WORKER I",
+    "parents": []
+  },
+  {
+    "title": "CUSTODIAL WORKER II",
+    "parents": []
+  },
+  {
+    "title": "CUSTODIAL WORKER III",
+    "parents": []
+  },
+  {
+    "title": "FOOD SERVICE WORKER",
+    "parents": []
+  },
+  {
+    "title": "FOOD SERVICE WORKER II",
+    "parents": []
+  },
+  {
+    "title": "LEAD FOOD SERVICE WORKER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT COOK",
+    "parents": []
+  },
+  {
+    "title": "COOK",
+    "parents": []
+  },
+  {
+    "title": "SENIOR COOK",
+    "parents": []
+  },
+  {
+    "title": "HEAD COOK",
+    "parents": []
+  },
+  {
+    "title": "DIETETIC TECHNICIAN",
+    "parents": []
+  },
+  {
+    "title": "DIETITIAN",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT FOOD SERVICE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "FOOD SERVICE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "SENIOR FOOD SERVICE SUPERVISOR",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL COOK MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL LUNCH MANAGER",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL LUNCH COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "JAIL COOK",
+    "parents": []
+  },
+  {
+    "title": "JAIL BAKER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT JAIL HEAD COOK",
+    "parents": []
+  },
+  {
+    "title": "JAIL HEAD COOK",
+    "parents": []
+  },
+  {
+    "title": "LAUNDRY WORKER",
+    "parents": []
+  },
+  {
+    "title": "NEEDLE TRADES SPECIALIST",
+    "parents": []
+  },
+  {
+    "title": "TAILOR",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF AVIATION AND TRANSPORTATION",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF ENVIRONMENTAL CONTROL",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY TOWN COMMISSIONER OF PUBLIC SAFETY ENFORCEMENT",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF PUBLIC SAFETY ENFORCEMENT",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF HUMAN RESOURCES",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF HUMAN SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF PARKS, RECREATION",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF PARKS, RECREATION AND SPORTS,",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF DEVELOPMENT",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF PLANNING",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF PUBLIC WORKS",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF PUBLIC SAFETY",
+    "parents": []
+  },
+  {
+    "title": "TOWN TAX RECEIVER",
+    "parents": []
+  },
+  {
+    "title": "CITIZENS ADVOCATE",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC INFORMATION OFFICER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF GENERAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF PLANNING AND DEVELOPMENT",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF PLANNING, ENVIRONMENT AND DEVELOPMENT",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF ENFORCEMENT & SECURITY",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF BUILDING AND FIRE PREVENTION",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF ENGINEERING",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF PLANNING, ENVIRONMENT AND LAND MANAGEMENT",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY TOWN COMMISSIONER OF RECYCLING",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF RECYCLING",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF PUBLIC SAFETY",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF FINANCE",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF HOUSING AND COMMUNITY DEVELOPMENT",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF HOUSING, COMMUNITY DEVELOPMENT\t8665",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN COMMISSIONER OF INFORMATION TECHNOLOGY",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN DIRECTOR OF AUDIT & CONTROL",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN DIRECTOR OF TRANSPORTATION AND TRAFFIC SAFETY",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN DIRECTOR OF HUMAN SERVICES",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF HUMAN SERVICES",
+    "parents": []
+  },
+  {
+    "title": "TOWN DIRECTOR OF MINORITY AFFAIRS",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN DIRECTOR OF ENGINEERING SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN DIRECTOR OF ENVIRONMENTAL WASTE MANAGEMENT",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN DIRECTOR OF GENERAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN DIRECTOR OF MARITIME SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN DIRECTOR OF PARKS & RECREATION",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN DIRECTOR OF PLANNING AND ENVIRONMENT",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN DIRECTOR OF PUBLIC SAFETY",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN DIRECTOR OF INFORMATION TECHNOLOGY",
+    "parents": []
+  },
+  {
+    "title": "CASEWORKER TRAINEE- HELP PROGRAM",
+    "parents": []
+  },
+  {
+    "title": "CASEWORKER TRAINEE (SPANISH SPEAKING (HELP PROGRAM)",
+    "parents": []
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST TRAINEE- HELP PROGRAM",
+    "parents": []
+  },
+  {
+    "title": "CHILD SUPPORT SPECIALIST TRAINEE (SPANISH SPEAKING)-HELP PROGRAM\t9004",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER I- HELP PROGRAM",
+    "parents": []
+  },
+  {
+    "title": "SOCIAL SERVICES EXAMINER I (SPANISH SPEAKING)- HELP PROGRAM",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN TRAINEE- HELP PROGRAM",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC HEALTH SANITARIAN TRAINEE (SPANISH SPEAKING)- HELP PROGRAM\t9008",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT PUBLIC HEALTH ENGINEER TRAINEE- HELP PROGRAM",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY SERVICES DISPATCHER I- HELP PROGRAM",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY SERVICES DISPATCHER I- HELP PROGRAM",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY COMPLAINT OPERATOR- HELP PROGRAM",
+    "parents": []
+  },
+  {
+    "title": "EMERGENCY COMPLAINT OPERATOR (SPANISH SPEAKING)- HELP PROGRAM\t9012",
+    "parents": []
+  },
+  {
+    "title": "COLLEGE ASSISTANT DIRECTOR FOR EMPLOYEE RESOURCES",
+    "parents": []
+  },
+  {
+    "title": "COLLEGE WAREHOUSE/MAIL SERVICES COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "COLLEGE GIFTS COORDINATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO THE PRESIDENT (COMMUNITY COLLEGE)",
+    "parents": []
+  },
+  {
+    "title": "COlLEGE DIRECTOR OF payroll",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF POLICE (INTERGOVERNMENTAL RELATIONS)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF POLICE (INVESTIGATIONS)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF ACCOUNTING SERVICES",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO THE COUNTY COMPTROLLER",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF ACCOUNTING SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COUNTY COMPTROLLER",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY COUNTY COMPTROLLER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF POLICE (BUDGET)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF POLICE (LEGAL)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF POLICE",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF POLICE (PUBLIC AFFAIRS)",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF THE SUFFOLK COUNTY BOARD OF ETHICS",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF AUDITING SERVICES",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF BOARD OF ETHICS",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF CAMPAIGN FINANCE BOARD",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF AUDITING SERVICES",
+    "parents": []
+  },
+  {
+    "title": "MUNICIPAL FINANCE ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT MUNICIPAL FINANCE ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF EMERGENCY PREPAREDNESS",
+    "parents": []
+  },
+  {
+    "title": "director of emergency preparedness",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO THE COUNTY CLERK",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COUNTY CLERK",
+    "parents": []
+  },
+  {
+    "title": "SENIOR DEPUTY COUNTY CLERK",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY COUNTY CLERK",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY COMMISSIONER OF ECONOMIC DEVELOPMENT & PLANNING",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO THE COMMISSIONER OF ECONOMIC DEVELOPMENT AND PLANNING",
+    "parents": []
+  },
+  {
+    "title": "ECONOMIC DEVELOPMENT SUSTAINABILITY DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "CHIEF BUSINESS DEVELOPMENT AND INNOVATION OFFICER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER OF ENVIRONMENT & ENERGY",
+    "parents": []
+  },
+  {
+    "title": "ADMINISTRATIVE DIRECTOR OF LABOR, LICENSING AND CONSUMER AFFAIRS",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT ADMINISTRATIVE DIRECTOR OF LABOR, LICENSING AND CONSUMER AFFAIRS",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC INFORMATION OFFICER (DISTRICT ATTORNEY)",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC INFORMATION OFFICER (SHERIFF)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO COUNTY TREASURER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COUNTY TREASURER",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY COUNTY TREASURER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF FIRE, RESCUE AND EMERGENCY SERVICES",
+    "parents": []
+  },
+  {
+    "title": "Assistant to commissioner (fire, rescue and emergency services)\t9346",
+    "parents": []
+  },
+  {
+    "title": "VILLAGE HISTORIAN",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF EMPLOYEE SERVICES",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR HUMAN RIGHTS COMMISSION",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF HUMAN RIGHTS",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER OF LABOR, LICENSING AND CONSUMER AFFAIRS",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY COMMISSIONER OF LABOR, LICENSING AND CONSUMER AFFAIRS",
+    "parents": []
+  },
+  {
+    "title": "SENIOR DEPUTY COMMISSIONER OF LABOR, LICENSING AND CONSUMER AFFAIRS",
+    "parents": []
+  },
+  {
+    "title": "COUNTY ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO COUNTY ATTORNEY",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COUNTY PERSONNEL OFFICER",
+    "parents": []
+  },
+  {
+    "title": "VECTOR CONTROL SUPERINTENDENT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER (PARKS, RECREATION & CONSERVATION)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF PARKS, RECREATION AND CONSERVATION",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF PARKS, RECREATION AND CONSERVATION",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY COMMISSIONER OF PARKS",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO PERSONNEL OFFICER",
+    "parents": []
+  },
+  {
+    "title": "COUNTY PERSONNEL OFFICER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY VILLAGE CLERK",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY VILLAGE CLERK TREASURER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF ECONOMIC DEVELOPMENT AND PLANNING",
+    "parents": []
+  },
+  {
+    "title": "PLANNING DIRECTOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER (POLICE)",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF POLICE",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT COMMISSIONER OF POLICE (STRATEGIC INITIATIVES)",
+    "parents": []
+  },
+  {
+    "title": "COMMISSIONER OF POLICE",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO DIRECTOR OF PROBATION",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF PROBATION",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF PROBATION",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF PROBATION",
+    "parents": []
+  },
+  {
+    "title": "farmlands administrator",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY PUBLIC ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "PUBLIC ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER (PUBLIC WORKS)",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF PUBLIC WORKS (ADMINISTRATION)",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF PUBLIC WORKS (ENGINEERING)",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY COMMISSIONER OF PUBLIC WORKS",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF AFFORDABLE HOUSING",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF REAL ESTATE",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF REAL PROPERTY TAX SERVICE",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF REAL ESTATE",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF REAL PROPERTY TAX SERVICE",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO DIRECTOR OF REAL PROPERTY TAX SERVICE AGENCY",
+    "parents": []
+  },
+  {
+    "title": "UNDER SHERIFF",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER (SOCIAL SERVICES)",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT COMMISSIONER OF SOCIAL SERVICES\t9407",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF SOCIAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "COMMISSIONER OF SOCIAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY COMMISSIONER OF SOCIAL SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF TRAFFIC SAFETY",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF VETERANS SERVICE AGENCY",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO DIRECTOR OF TRAFFIC & PARKING VIOLATIONS AGENCY",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF VETERANS SERVICE AGENCY",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF TRAFFIC AND PARKING VIOLATIONS AGENCY",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE DIRECTOR OF THE TRAFFIC AND PARKING VIOLATIONS AGENCY",
+    "parents": []
+  },
+  {
+    "title": "DISTRICT MANAGER  (SOIL & WATER)",
+    "parents": []
+  },
+  {
+    "title": "SENIOR ASSISTANT TO COMMISSIONER (SOCIAL SERVICES)",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF ENVIRONMENTAL QUALITY",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF PUBLIC HEALTH",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF PUBLIC HEALTH",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR-NURSING HOME\t9509",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR-NURSING HOME",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF PATIENT CARE SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF PATIENT CARE SERVICES",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DIRECTOR OF COMMUNITY MENTAL HEALTH SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF COMMUNITY MENTAL HEALTH SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF COMMUNITY MENTAL HYGIENE SERVICES",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT MEDICAL EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY CHIEF MEDICAL EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "CHIEF MEDICAL EXAMINER",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY DIRECTOR OF ALCOHOL AND SUBSTANCE ABUSE SERVICES",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO COMMISSIONER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT COMMISSIONER OF HEALTH SERVICES\t9584",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DEPUTY COMMISSIONER OF HEALTH SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF HEALTH SERVICES",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF HEALTH SERVICES",
+    "parents": []
+  },
+  {
+    "title": "COMMISSIONER OF HEALTH SERVICES",
+    "parents": []
+  },
+  {
+    "title": "CHIEF OF STAFF",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT GENERAL SERVICES MANAGER",
+    "parents": []
+  },
+  {
+    "title": "GENERAL SERVICES MANAGER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO THE COMMISSIONER OF INFORMATION TECHNOLOGY",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COMMISSIONER OF INFORMATION TECHNOLOGY",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF AGING",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF COMMUNICATIONS",
+    "parents": []
+  },
+  {
+    "title": "COUNTY CHIEF INFORMATION SECURITY OFFICER",
+    "parents": []
+  },
+  {
+    "title": "COUNTY EXECUTIVE ASSISTANT I",
+    "parents": []
+  },
+  {
+    "title": "COUNTY EXECUTIVE ASSISTANT II",
+    "parents": []
+  },
+  {
+    "title": "COUNTY EXECUTIVE ASSISTANT III",
+    "parents": []
+  },
+  {
+    "title": "COUNTY EXECUTIVE ASSISTANT IV",
+    "parents": []
+  },
+  {
+    "title": "COUNTY EXECUTIVE ASSISTANT V",
+    "parents": []
+  },
+  {
+    "title": "PROGRAM COORDINATOR (CULTURAL AFFAIRS)",
+    "parents": []
+  },
+  {
+    "title": "DIRECTOR OF PERFORMANCE MANAGEMENT",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT DEPUTY COUNTY EXECUTIVE",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COUNTY EXECUTIVE - ADMINISTRATION",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY COUNTY EXECUTIVE- FINANCIAL AFFAIRS",
+    "parents": []
+  },
+  {
+    "title": "CHIEF DEPUTY COUNTY EXECUTIVE",
+    "parents": []
+  },
+  {
+    "title": "TOWN ADMINISTRATOR\t9882",
+    "parents": []
+  },
+  {
+    "title": "SCHOOL DISTRICT CLERK",
+    "parents": []
+  },
+  {
+    "title": "VOCATIONAL EDUCATION AND EXTENSION BOARD CLERK",
+    "parents": []
+  },
+  {
+    "title": "VOCATIONAL EDUCATION AND EXTENSION BOARD TREASURER",
+    "parents": []
+  },
+  {
+    "title": "VOCATIONAL EDUCATION AND EXTENSION BOARD CLERK-TREASURER",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT MANAGER (FISHERS ISLAND FERRY DISTRICT)",
+    "parents": []
+  },
+  {
+    "title": "MANAGER (FISHERS ISLAND FERRY DISTRICT)\t9937",
+    "parents": []
+  },
+  {
+    "title": "COURT CLERK",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TOWN CLERK",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY TAX RECEIVER",
+    "parents": []
+  },
+  {
+    "title": "EXECUTIVE ASSISTANT  \t\t\t\t\t998l",
+    "parents": []
+  },
+  {
+    "title": "VILLAGE ADMINISTRATOR",
+    "parents": []
+  },
+  {
+    "title": "ASSISTANT TO THE MAYOR",
+    "parents": []
+  },
+  {
+    "title": "DEPUTY SUPERVISOR",
+    "parents": []
+  }
+]
