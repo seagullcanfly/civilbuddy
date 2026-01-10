@@ -128,7 +128,7 @@ function App() {
             {/* Differential Selection */}
             <div className="col-md-5">
               <label className="form-label fw-bold">Differential</label>
-              <div className="btn-group w-100" role="group">
+              <div className="btn-group w-100 mb-1" role="group">
                 <input 
                   type="radio" 
                   className="btn-check" 
@@ -147,7 +147,7 @@ function App() {
                   checked={differential === 0.06} 
                   onChange={() => setDifferential(0.06)} 
                 />
-                <label className="btn btn-outline-secondary" htmlFor="diffEve">Eve (6%)</label>
+                <label className="btn btn-outline-secondary" htmlFor="diffEve">6%</label>
 
                 <input 
                   type="radio" 
@@ -157,8 +157,13 @@ function App() {
                   checked={differential === 0.10} 
                   onChange={() => setDifferential(0.10)} 
                 />
-                <label className="btn btn-outline-secondary" htmlFor="diffNight">Night (10%)</label>
+                <label className="btn btn-outline-secondary" htmlFor="diffNight">10%</label>
               </div>
+              <small className="text-muted d-block" style={{ fontSize: '0.75rem', lineHeight: '1.1' }}>
+                {differential === 0.06 && "6%: 2 weeks days / 1 week nights (SCPD pattern)"}
+                {differential === 0.10 && "10%: Steady midnight shifts"}
+                {differential === 0 && "No shift differential applied"}
+              </small>
             </div>
 
             {/* Holiday Toggle */}
