@@ -17,6 +17,10 @@ const HOLIDAY_RATE_MULTIPLIER = 1.5;
 const EVE_DIFF = 0.06;   // 6%
 const NIGHT_DIFF = 0.10; // 10%
 
+// CONTRACT ADJUSTMENT (2024 Raise)
+// Raw data is 2023. We found a ~2.5% discrepancy.
+const CONTRACT_MULTIPLIER = 1.025; 
+
 export default function SalaryVerification() {
   const [selectedTitle, setSelectedTitle] = useState<{ value: string; label: string; grade: string; spec: number } | null>(null);
   const [step, setStep] = useState<string>('S');
@@ -41,12 +45,15 @@ export default function SalaryVerification() {
     else if (steps.length > 0) setStep(steps[0]);
   }, [currentGrade, steps]);
 
-  const formatMoney = (val: number) => val.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 });
+  const formatMoney = (val: number | undefined | null) => {
+      if (val === undefined || val === null || isNaN(val)) return '$0.00';
+      return val.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 });
+  };
 
-  // Filter options to only include titles with valid salary data
+  // Filter options
   const titleOptions = useMemo(() => {
     return titleData
-      .filter(t => salaryData[String(t.grade)]) // Only keep titles we have data for
+      .filter(t => salaryData[String(t.grade)]) 
       .map(t => ({
         value: t.title,
         label: t.title,
@@ -56,8 +63,12 @@ export default function SalaryVerification() {
   }, []);
 
   // Calculation Helper
-  const calculateRow = (base: number, diffPercent: number) => {
-    const biWeekly = base * (1 + diffPercent);
+  const calculateRow = (rawBase: number, diffPercent: number) => {
+    // Apply Contract Raise FIRST
+    const base2024 = rawBase * CONTRACT_MULTIPLIER;
+    
+    // Then Differentials
+    const biWeekly = base2024 * (1 + diffPercent);
     const annualBase = biWeekly * PAY_PERIODS;
     const dailyRate = biWeekly / 10;
     const holidayPay = dailyRate * HOLIDAY_RATE_MULTIPLIER * HOLIDAYS;
@@ -68,12 +79,12 @@ export default function SalaryVerification() {
     };
   };
 
-  const baseSalary = (currentGrade && step && salaryData[currentGrade]) ? salaryData[currentGrade][step] : 0;
+  const rawSalary = (currentGrade && step && salaryData[currentGrade]) ? salaryData[currentGrade][step] : 0;
   
-  const results = baseSalary ? {
-    none: calculateRow(baseSalary, 0),
-    eve: calculateRow(baseSalary, EVE_DIFF),
-    night: calculateRow(baseSalary, NIGHT_DIFF)
+  const results = rawSalary ? {
+    none: calculateRow(rawSalary, 0),
+    eve: calculateRow(rawSalary, EVE_DIFF),
+    night: calculateRow(rawSalary, NIGHT_DIFF)
   } : null;
 
   return (
@@ -156,8 +167,8 @@ export default function SalaryVerification() {
                 </tbody>
               </table>
               <p className="text-muted small mt-2">
+                * Rates include estimated 2.5% contract adjustment over 2023 base. <br/>
                 * Holiday calculation based on {HOLIDAYS} days at {HOLIDAY_RATE_MULTIPLIER}x daily rate.
-                Annual base assumes {PAY_PERIODS} pay periods.
               </p>
             </div>
           ) : (

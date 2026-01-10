@@ -11,6 +11,7 @@ const salaryData = salaryDataRaw as SalaryData;
 const titleData = titleDataRaw as TitleData[];
 const PROMO_RAISE_PERCENT = 0.03; // 3% Guarantee
 const PAY_PERIODS = 26.1;
+const CONTRACT_MULTIPLIER = 1.025; // 2024 Raise
 
 export default function PromotionCalculator() {
   // Inputs
@@ -19,10 +20,10 @@ export default function PromotionCalculator() {
   const [newTitle, setNewTitle] = useState<{ value: string; label: string; grade: string } | null>(null);
   const [promoDate, setPromoDate] = useState<string>(new Date().toISOString().slice(0, 10)); // Default Today
 
-  // Filter options to only include titles with valid salary data
+  // Filter options
   const titleOptions = useMemo(() => {
     return titleData
-      .filter(t => salaryData[String(t.grade)]) // Only keep titles we have data for
+      .filter(t => salaryData[String(t.grade)]) 
       .map(t => ({
         value: t.title,
         label: `${t.title} (Gr ${t.grade})`,
@@ -53,11 +54,13 @@ export default function PromotionCalculator() {
     // Safety check
     if (!salaryData[currentGrade] || !salaryData[newGrade]) return null;
 
-    const currentBaseSalary = salaryData[currentGrade][currentStep];
+    // Apply contract raise to RAW data first
+    const currentBaseRaw = salaryData[currentGrade][currentStep];
+    const currentBaseSalary = currentBaseRaw * CONTRACT_MULTIPLIER;
     
     // 1. Check Date Logic (July 1st)
     const pDate = new Date(promoDate);
-    const julyFirst = new Date(pDate.getFullYear(), 6, 1); // Month is 0-indexed (6 = July)
+    const julyFirst = new Date(pDate.getFullYear(), 6, 1); 
     
     let simulatedStep = currentStep;
     let adjustedBaseSalary = currentBaseSalary;
@@ -69,7 +72,9 @@ export default function PromotionCalculator() {
         const stepIndex = currentSteps.indexOf(currentStep);
         if (stepIndex !== -1 && stepIndex < currentSteps.length - 1) {
             simulatedStep = currentSteps[stepIndex + 1];
-            adjustedBaseSalary = salaryData[currentGrade][simulatedStep];
+            // Apply multiplier to the NEW step raw data
+            const newStepRaw = salaryData[currentGrade][simulatedStep];
+            adjustedBaseSalary = newStepRaw * CONTRACT_MULTIPLIER;
             stepIncreaseApplied = true;
         }
     }
@@ -83,10 +88,13 @@ export default function PromotionCalculator() {
     let foundSalary = 0;
 
     for (const s of newGradeSteps) {
-        const sal = salaryData[newGrade][s];
-        if (sal >= targetSalary) {
+        // Apply multiplier to lookup table too
+        const rawSal = salaryData[newGrade][s];
+        const realSal = rawSal * CONTRACT_MULTIPLIER;
+
+        if (realSal >= targetSalary) {
             foundStep = s;
-            foundSalary = sal;
+            foundSalary = realSal;
             break;
         }
     }
@@ -94,7 +102,8 @@ export default function PromotionCalculator() {
     // Fallback if off chart (Max)
     if (!foundStep && newGradeSteps.length > 0) {
         foundStep = newGradeSteps[newGradeSteps.length - 1] + " (Max)";
-        foundSalary = salaryData[newGrade][newGradeSteps[newGradeSteps.length - 1]];
+        const rawMax = salaryData[newGrade][newGradeSteps[newGradeSteps.length - 1]];
+        foundSalary = rawMax * CONTRACT_MULTIPLIER;
     }
 
     return {
@@ -110,7 +119,10 @@ export default function PromotionCalculator() {
   }, [currentTitle, newTitle, currentStep, promoDate, currentSteps]);
 
 
-  const formatMoney = (val: number) => val.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 });
+  const formatMoney = (val: number | undefined | null) => {
+    if (val === undefined || val === null || isNaN(val)) return '$0.00';
+    return val.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 });
+  };
 
   return (
     <div className="container mt-4" style={{ maxWidth: '900px' }}>
@@ -154,7 +166,7 @@ export default function PromotionCalculator() {
 
               {currentTitle && salaryData[currentTitle.grade] && (
                   <div className="alert alert-secondary py-2">
-                      <small>Base Salary: <strong>{formatMoney(salaryData[currentTitle.grade][currentStep])}</strong> (Bi-Weekly)</small>
+                      <small>Base Salary (Est): <strong>{formatMoney((salaryData[currentTitle.grade][currentStep] || 0) * CONTRACT_MULTIPLIER)}</strong> (Bi-Weekly)</small>
                   </div>
               )}
             </div>
@@ -236,6 +248,9 @@ export default function PromotionCalculator() {
                              <div className="fw-bold text-success">+{formatMoney(calculation.raiseAmount * PAY_PERIODS)}</div>
                         </div>
                     </div>
+                </div>
+                <div className="text-center mt-3">
+                   <small className="text-muted fst-italic">Rates include 2.5% adjustment for 2024</small>
                 </div>
 
             </div>
