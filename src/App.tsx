@@ -48,7 +48,7 @@ function NavBar() {
   const isActive = (path: string) => location.pathname === path ? 'active fw-bold' : '';
 
   return (
-    <nav className="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+    <nav className="navbar navbar-expand-md navbar-dark bg-dark mb-4 sticky-top">
       <div className="container">
         <Link className="navbar-brand fw-bold" to="/">Civil Buddy</Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
