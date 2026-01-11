@@ -17,15 +17,52 @@ interface SpecDef {
 }
 
 interface CombinedSpec {
-  title: string; // From spec (formatted) or title (caps)
+  title: string;
   grade: string | null;
   specCode: number | null;
   qualText: string;
   fullText: string;
   parents: string[];
   educationTags: string[];
-  gradeNum: number | null; // Helper for range filtering
+  gradeNum: number | null;
 }
+
+// Helper: Format Spec Code
+const formatSpecCode = (code: number | null) => {
+    if (code === null) return "";
+    return code.toString().padStart(4, '0');
+};
+
+// Helper: Get Highlight Snippet
+const getHighlightSnippet = (text: string, query: string) => {
+    if (!query || !text) return text.substring(0, 200) + "...";
+    
+    const lowerText = text.toLowerCase();
+    const lowerQuery = query.toLowerCase();
+    const index = lowerText.indexOf(lowerQuery);
+    
+    if (index === -1) return text.substring(0, 200) + "..."; // Fallback if not found (shouldn't happen if filtered)
+    
+    const start = Math.max(0, index - 60);
+    const end = Math.min(text.length, index + query.length + 100);
+    const snippet = text.substring(start, end);
+    
+    // Highlight
+    const parts = snippet.split(new RegExp(`(${query})`, 'gi'));
+    
+    return (
+        <span>
+            {start > 0 && "..."}
+            {parts.map((part, i) => 
+                part.toLowerCase() === lowerQuery ? 
+                <mark key={i} className="bg-warning">{part}</mark> : 
+                part
+            )}
+            {end < text.length && "..."}
+        </span>
+    );
+};
+
 
 // Heuristic for Education Tags
 const getEducationTags = (text: string): string[] => {
@@ -46,8 +83,8 @@ const normalize = (s: string) => s.trim().toLowerCase().replace(/\s+/g, ' ');
 
 export default function SpecSearch() {
   const [searchQuery, setSearchQuery] = useState("");
-  const [minGrade, setMinGrade] = useState<string>("");
-  const [maxGrade, setMaxGrade] = useState<string>("");
+  const [minGrade, setMinGrade] = useState<number>(0);
+  const [maxGrade, setMaxGrade] = useState<number>(40);
   const [educationFilters, setEducationFilters] = useState<string[]>([]);
   
   // Combine Data
@@ -69,7 +106,7 @@ export default function SpecSearch() {
         gradeNum: isNaN(gradeNum || NaN) ? null : gradeNum,
         specCode: titleInfo?.spec || null,
         qualText: s.qual_text || "",
-        fullText: s.full_text || s.qual_text || "", // Fallback to qual_text if full_text is missing
+        fullText: s.full_text || s.qual_text || "",
         parents: s.parents || [],
         educationTags: getEducationTags(s.qual_text || "")
       };
@@ -92,17 +129,18 @@ export default function SpecSearch() {
       }
 
       // 2. Grade Range Filter
-      const min = minGrade ? parseInt(minGrade, 10) : null;
-      const max = maxGrade ? parseInt(maxGrade, 10) : null;
-
-      if (min !== null || max !== null) {
-        // If the item has no numeric grade (e.g. "UNG" or null), exclude it when filtering by range
-        if (item.gradeNum === null) return false;
-        if (min !== null && item.gradeNum < min) return false;
-        if (max !== null && item.gradeNum > max) return false;
+      // If Min/Max are at "default" extremes (0 and 40), we can be lenient with UNG
+      // But if user tightens range, we exclude nulls
+      if (item.gradeNum !== null) {
+          if (item.gradeNum < minGrade) return false;
+          if (item.gradeNum > maxGrade) return false;
+      } else {
+          // It's un-graded (UNG). Hide if range is specific?
+          // Let's hide UNG only if user moved the sliders
+          if (minGrade > 0 || maxGrade < 40) return false;
       }
 
-      // 3. Education Filter (OR logic: Match ANY selected tag)
+      // 3. Education Filter
       if (educationFilters.length > 0) {
         const hasMatch = educationFilters.some(filter => item.educationTags.includes(filter));
         if (!hasMatch) return false;
@@ -124,7 +162,7 @@ export default function SpecSearch() {
     <div className="container py-4">
       <h1 className="mb-4">Specification Search</h1>
       
-      <div className="row g-3 mb-4 align-items-end">
+      <div className="row g-3 mb-4">
         {/* Search Bar */}
         <div className="col-md-6">
             <label className="form-label fw-bold">Keyword Search</label>
@@ -137,26 +175,39 @@ export default function SpecSearch() {
             />
         </div>
 
-        {/* Grade Range */}
-        <div className="col-md-3">
-          <label className="form-label fw-bold">Min Grade</label>
-          <input 
-            type="number" 
-            className="form-control" 
-            placeholder="Min" 
-            value={minGrade}
-            onChange={(e) => setMinGrade(e.target.value)}
-          />
-        </div>
-        <div className="col-md-3">
-          <label className="form-label fw-bold">Max Grade</label>
-          <input 
-            type="number" 
-            className="form-control" 
-            placeholder="Max" 
-            value={maxGrade}
-            onChange={(e) => setMaxGrade(e.target.value)}
-          />
+        {/* Grade Range Sliders */}
+        <div className="col-md-6">
+          <label className="form-label fw-bold">Grade Range: {minGrade} - {maxGrade}</label>
+          <div className="d-flex align-items-center gap-3">
+             <div className="flex-grow-1">
+                 <input 
+                    type="range" 
+                    className="form-range" 
+                    min="0" 
+                    max="40" 
+                    value={minGrade} 
+                    onChange={(e) => {
+                        const val = parseInt(e.target.value);
+                        setMinGrade(Math.min(val, maxGrade)); // Prevent crossing
+                    }}
+                 />
+                 <small className="text-muted d-block text-center">Min: {minGrade}</small>
+             </div>
+             <div className="flex-grow-1">
+                 <input 
+                    type="range" 
+                    className="form-range" 
+                    min="0" 
+                    max="40" 
+                    value={maxGrade} 
+                    onChange={(e) => {
+                        const val = parseInt(e.target.value);
+                        setMaxGrade(Math.max(val, minGrade)); // Prevent crossing
+                    }}
+                 />
+                 <small className="text-muted d-block text-center">Max: {maxGrade}</small>
+             </div>
+          </div>
         </div>
       </div>
 
@@ -187,48 +238,56 @@ export default function SpecSearch() {
 
       {/* Results List */}
       <div className="list-group shadow-sm">
-        {filteredData.slice(0, 100).map((item, idx) => (
-          <div key={idx} className="list-group-item list-group-item-action p-3">
-            <div className="d-flex w-100 justify-content-between">
-              <h5 className="mb-1 text-primary">
-                {item.specCode ? (
-                    <a 
-                        href={`https://apps2.suffolkcountyny.gov/civilservice/specs/${item.specCode}spe.html`}
-                        target="_blank"
-                        rel="noreferrer"
-                        className="text-decoration-none"
-                    >
-                        {item.title} <small className="text-muted">({item.specCode})</small>
-                    </a>
-                ) : (
-                    item.title
-                )}
-              </h5>
-              <div className="text-end">
-                <span className="badge bg-secondary">
-                    {item.grade ? `Grade ${item.grade}` : "Grade N/A"}
-                </span>
-              </div>
-            </div>
-            
-            <div className="mb-2">
-                {item.educationTags.map(tag => (
-                    <span key={tag} className="badge bg-info text-dark me-1">{tag}</span>
-                ))}
-            </div>
-
-            <p className="mb-1 small text-muted" style={{ maxHeight: '100px', overflowY: 'hidden', textOverflow: 'ellipsis', display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical' }}>
-              {item.qualText || "No qualification text available."}
-            </p>
-
-            {item.parents.length > 0 && (
-                <div className="mt-2 small">
-                    <strong>Promotes From: </strong>
-                    {item.parents.join(", ")}
+        {filteredData.slice(0, 100).map((item, idx) => {
+          const formattedCode = formatSpecCode(item.specCode);
+          return (
+            <div key={idx} className="list-group-item list-group-item-action p-3">
+                <div className="d-flex w-100 justify-content-between">
+                <h5 className="mb-1 text-primary">
+                    {item.specCode ? (
+                        <a 
+                            href={`https://apps2.suffolkcountyny.gov/civilservice/specs/${formattedCode}spe.html`}
+                            target="_blank"
+                            rel="noreferrer"
+                            className="text-decoration-none"
+                        >
+                            {item.title} <small className="text-muted">({formattedCode})</small>
+                        </a>
+                    ) : (
+                        item.title
+                    )}
+                </h5>
+                <div className="text-end">
+                    <span className="badge bg-secondary">
+                        {item.grade ? `Grade ${item.grade}` : "Grade N/A"}
+                    </span>
                 </div>
-            )}
-          </div>
-        ))}
+                </div>
+                
+                <div className="mb-2">
+                    {item.educationTags.map(tag => (
+                        <span key={tag} className="badge bg-info text-dark me-1">{tag}</span>
+                    ))}
+                </div>
+
+                <p className="mb-1 small text-muted">
+                    {/* Show highlight snippet if searching, otherwise full qual text truncated */}
+                    {searchQuery ? getHighlightSnippet(item.fullText, searchQuery) : (
+                        <span style={{ display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                            {item.qualText || "No description available."}
+                        </span>
+                    )}
+                </p>
+
+                {item.parents.length > 0 && (
+                    <div className="mt-2 small">
+                        <strong>Promotes From: </strong>
+                        {item.parents.join(", ")}
+                    </div>
+                )}
+            </div>
+          );
+        })}
       </div>
         
       {filteredData.length > 100 && (
