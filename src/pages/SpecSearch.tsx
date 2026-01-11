@@ -13,6 +13,7 @@ interface SpecDef {
   title: string;
   parents: string[];
   qual_text: string;
+  full_text?: string;
 }
 
 interface CombinedSpec {
@@ -20,6 +21,7 @@ interface CombinedSpec {
   grade: string | null;
   specCode: number | null;
   qualText: string;
+  fullText: string;
   parents: string[];
   educationTags: string[];
   gradeNum: number | null; // Helper for range filtering
@@ -67,6 +69,7 @@ export default function SpecSearch() {
         gradeNum: isNaN(gradeNum || NaN) ? null : gradeNum,
         specCode: titleInfo?.spec || null,
         qualText: s.qual_text || "",
+        fullText: s.full_text || s.qual_text || "", // Fallback to qual_text if full_text is missing
         parents: s.parents || [],
         educationTags: getEducationTags(s.qual_text || "")
       };
@@ -83,7 +86,7 @@ export default function SpecSearch() {
         const q = searchQuery.toLowerCase();
         const matchesText = 
           item.title.toLowerCase().includes(q) || 
-          item.qualText.toLowerCase().includes(q);
+          item.fullText.toLowerCase().includes(q);
 
         if (!matchesText) return false;
       }
