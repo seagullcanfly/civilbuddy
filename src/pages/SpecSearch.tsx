@@ -22,6 +22,7 @@ interface CombinedSpec {
   qualText: string;
   parents: string[];
   educationTags: string[];
+  gradeNum: number | null; // Helper for range filtering
 }
 
 // Heuristic for Education Tags
@@ -39,11 +40,12 @@ const getEducationTags = (text: string): string[] => {
 };
 
 // Normalize title for matching
-const normalize = (s: string) => s.trim().toLowerCase();
+const normalize = (s: string) => s.trim().toLowerCase().replace(/\s+/g, ' ');
 
 export default function SpecSearch() {
   const [searchQuery, setSearchQuery] = useState("");
-  const [selectedGrade, setSelectedGrade] = useState("All");
+  const [minGrade, setMinGrade] = useState<string>("");
+  const [maxGrade, setMaxGrade] = useState<string>("");
   const [educationFilters, setEducationFilters] = useState<string[]>([]);
   
   // Combine Data
@@ -56,19 +58,20 @@ export default function SpecSearch() {
       const normTitle = normalize(s.title);
       const titleInfo = titleMap.get(normTitle);
       
+      const gradeStr = titleInfo?.grade || null;
+      const gradeNum = gradeStr ? parseInt(gradeStr, 10) : null;
+
       return {
-        title: s.title, // Use the pretty capitalization from specs if available
-        grade: titleInfo?.grade || null,
+        title: s.title, 
+        grade: gradeStr,
+        gradeNum: isNaN(gradeNum || NaN) ? null : gradeNum,
         specCode: titleInfo?.spec || null,
-        qualText: s.qual_text,
-        parents: s.parents,
+        qualText: s.qual_text || "",
+        parents: s.parents || [],
         educationTags: getEducationTags(s.qual_text || "")
       };
     });
 
-    // Note: If there are titles in titles.json that are NOT in specsData, they are skipped here.
-    // This is acceptable as we can't search text for them anyway.
-    
     return processed.sort((a, b) => a.title.localeCompare(b.title));
   }, []);
 
@@ -76,18 +79,27 @@ export default function SpecSearch() {
   const filteredData = useMemo(() => {
     return combinedData.filter(item => {
       // 1. Text Search (Title or Content)
-      const q = searchQuery.toLowerCase();
-      const matchesText = !q || 
-        item.title.toLowerCase().includes(q) || 
-        item.qualText.toLowerCase().includes(q);
+      if (searchQuery) {
+        const q = searchQuery.toLowerCase();
+        const matchesText = 
+          item.title.toLowerCase().includes(q) || 
+          item.qualText.toLowerCase().includes(q);
 
-      if (!matchesText) return false;
+        if (!matchesText) return false;
+      }
 
-      // 2. Grade Filter
-      if (selectedGrade !== "All" && item.grade !== selectedGrade) return false;
+      // 2. Grade Range Filter
+      const min = minGrade ? parseInt(minGrade, 10) : null;
+      const max = maxGrade ? parseInt(maxGrade, 10) : null;
 
-      // 3. Education Filter (Must match ALL selected - AND logic? OR logic?)
-      // Usually "OR" logic is better for checkboxes (e.g. show me jobs requiring Bach OR Master)
+      if (min !== null || max !== null) {
+        // If the item has no numeric grade (e.g. "UNG" or null), exclude it when filtering by range
+        if (item.gradeNum === null) return false;
+        if (min !== null && item.gradeNum < min) return false;
+        if (max !== null && item.gradeNum > max) return false;
+      }
+
+      // 3. Education Filter (OR logic: Match ANY selected tag)
       if (educationFilters.length > 0) {
         const hasMatch = educationFilters.some(filter => item.educationTags.includes(filter));
         if (!hasMatch) return false;
@@ -95,19 +107,7 @@ export default function SpecSearch() {
 
       return true;
     });
-  }, [combinedData, searchQuery, selectedGrade, educationFilters]);
-
-  // Unique Grades for Dropdown
-  const availableGrades = useMemo(() => {
-    const grades = new Set(combinedData.map(d => d.grade).filter(Boolean));
-    return Array.from(grades).sort((a, b) => {
-        // Try numerical sort
-        const numA = parseInt(a as string);
-        const numB = parseInt(b as string);
-        if (!isNaN(numA) && !isNaN(numB)) return numA - numB;
-        return (a as string).localeCompare(b as string);
-    });
-  }, [combinedData]);
+  }, [combinedData, searchQuery, minGrade, maxGrade, educationFilters]);
 
   const toggleEducationFilter = (tag: string) => {
     setEducationFilters(prev => 
@@ -121,7 +121,7 @@ export default function SpecSearch() {
     <div className="container py-4">
       <h1 className="mb-4">Specification Search</h1>
       
-      <div className="row g-3 mb-4">
+      <div className="row g-3 mb-4 align-items-end">
         {/* Search Bar */}
         <div className="col-md-6">
             <label className="form-label fw-bold">Keyword Search</label>
@@ -134,19 +134,26 @@ export default function SpecSearch() {
             />
         </div>
 
-        {/* Grade Selector */}
+        {/* Grade Range */}
         <div className="col-md-3">
-          <label className="form-label fw-bold">Filter by Grade</label>
-          <select 
-            className="form-select" 
-            value={selectedGrade} 
-            onChange={(e) => setSelectedGrade(e.target.value)}
-          >
-            <option value="All">All Grades</option>
-            {availableGrades.map(g => (
-              <option key={g} value={g as string}>Grade {g}</option>
-            ))}
-          </select>
+          <label className="form-label fw-bold">Min Grade</label>
+          <input 
+            type="number" 
+            className="form-control" 
+            placeholder="Min" 
+            value={minGrade}
+            onChange={(e) => setMinGrade(e.target.value)}
+          />
+        </div>
+        <div className="col-md-3">
+          <label className="form-label fw-bold">Max Grade</label>
+          <input 
+            type="number" 
+            className="form-control" 
+            placeholder="Max" 
+            value={maxGrade}
+            onChange={(e) => setMaxGrade(e.target.value)}
+          />
         </div>
       </div>
 
@@ -194,9 +201,11 @@ export default function SpecSearch() {
                     item.title
                 )}
               </h5>
-              <small className="text-muted fw-bold">
-                {item.grade ? `Grade ${item.grade}` : "Grade N/A"}
-              </small>
+              <div className="text-end">
+                <span className="badge bg-secondary">
+                    {item.grade ? `Grade ${item.grade}` : "Grade N/A"}
+                </span>
+              </div>
             </div>
             
             <div className="mb-2">
