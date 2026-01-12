@@ -26,7 +26,7 @@ def extract_spec_info(file_path):
         # Extract Promotional Parents (Careers logic)
         parents = []
         # Search for text between PROMOTIONAL and the next major section
-        match = re.search(r'PROMOTIONAL(.*?)(?:NECESSARY SPECIAL|SUFFOLK COUNTY|REVISION DATE|R\s?\d|Competitive|Full Performance)', full_text, re.IGNORECASE | re.DOTALL)
+        match = re.search(r'PROMOTIONAL(.*?)(?:NECESSARY SPECIAL|SUFFOLK COUNTY|REVISION DATE|R\s?\d)', full_text, re.IGNORECASE | re.DOTALL)
         if match:
             promo_part = match.group(1)
             # Find titles listed after "as a" or "as an"
